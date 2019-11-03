@@ -23,61 +23,44 @@
 </div>
 <div class="ku-page-wrapper" id="ku-page-wrapper">
     <div class="gdlr-core-page-builder-body">
+        
         <div class="gdlr-core-pbf-wrapper " id="div_983a_3">
             <div class="gdlr-core-pbf-background-wrap"></div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                    <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" id="div_983a_4">
-                                        <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_983a_0">ku’s History</h3></div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-left-align">
-                                        <div class="gdlr-core-divider-container" id="div_983a_5">
-                                            <div class="gdlr-core-divider-line gdlr-core-skin-divider" id="div_983a_6"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="gdlr-core-pbf-column gdlr-core-column-20">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
-                                        <div class="gdlr-core-text-box-item-content" id="div_983a_7">
-                                            <p>If you would like to study in the university in the heart of the city that focus on chaning the world for better to morrow, you’re choosin the right place. We do not use special formulas to select students. We look at every single applicant&#8217;s application, academic and personal, to select students who suit to our community with a full range of backgrounds. If you would like to study</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="gdlr-core-pbf-column gdlr-core-column-20">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
-                                        <div class="gdlr-core-text-box-item-content" id="div_983a_8">
-                                            <p>If you would like to study in the university in the heart of the city that focus on chaning the world for better to morrow, you’re choosin the right place. We do not use special formulas to select students. We look at every single applicantt&#8217;s application, academic and personal, to select students who suit to our community.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    <h4>About Kampala University</h4>
+                    <h5>Vision</h5>
+                    <p>To become an exemplary institution of higher learning of first choice in both academic and technical excellence and specialized research in support and advancement of frontiers of knowledge and skills.</p>
+                    <hr>
+                    <h5>Mission </h5>
+                    <p>To transmit quality knowledge, conduct research and provide community service to Uganda, the East and Central African sub region and the world at large.</p>
+                    <hr>
+                    <h5>Philosophy of the University.</h5>
+                    <p>The University Motto is <i>"We strive for Excellence".</i>  The pursuit of excellence is the bedrock of Kampala University's Philosophy. It is premised on the conviction that striving for Excellence is not just a human ideal, but a timeless yard stick. It is therefore a firm and Considered belief by the Kampala University academic community, that excellent performance is not only directed to those instructed at Kampala University, but also those entrusted with the duty to instruct.</p>
+                    <hr>
+                    <h5>Objectives and Functions of the University</h5>
+                    <ol>
+                        <li>Offer academic programmes of appropriate scope, quality and value that meet the needsof the people of Uganda, Africa, and the world at large.</li>
+                        <li>Conduct research at all levels with a view to preservation, discovery, transmission and Enhancement of knowledge.</li>
+                        <li>Provide an enabling environment for the teaching and learning process in aspects of cognitive, affective and psychomotor.</li>
+                        <li>Be a leading Centre of Excellence In the fields of Science, Technology and Management.</li>
+                        <li>Provide education that is holistic spiritually, physically, mentally, socially, ethically and culturally.</li>
+                        <li>Enable disadvantaged students gain access to Higher Education through scholarships,Bursaries and any other means adjudged relevant to increasing the pool of learned citizens in Uganda and beyond.</li>
+                        <li>Facilitate student self-appreciation of their talents and beliefs, as well as their ethical values.</li>
+                        <li>Provide knowledge and skills necessary to bridge the employability gap of graduates, thereby spurring Development through Market-driven training.</li>
+                        <li>Provide community services through robust engagement with all stakeholders Intransformative efforts to change the quality of life of Ugandans.</li>
+                    </ol>
+                    <h5>Brief History</h5>
+                    <p>It is important to remind you that the Kampala University opened its doors to the pioneer students on 16th-02-1999 under the Leadership of the able Founding Vice-Chancellor Owek.Amb.Al-haj.Prof.Dr.Badru D Kateregga in the premises currently hosting K.I.U in Kansanga . But due to some problems, the Institution relocated in 2000 to Ggaba for a better working environment.
+                    By then, the biggest number of students were Kenyans, followed by Ugandans but as per now it has more than 15000 students from different nationalities.</p>
+                    <p>Kampala University is a Private Chartered secular Institution of Higher learning that has existed for 18 years since 1999. With its lake view Campus located at Ggaba -Kawuku lane, With branches in Luwero (Nakyewa), Jinja (Iganga Highway), Masaka (New Kkumbu), Mutundwe (Kigagga Zone),Old Kampala, Juba , The East African University Kitengela in Nairobi-Kenya and East African University Rwanda –Nyagatare Eastern province.</p>
                 </div>
             </div>
         </div>
+
         <div class="gdlr-core-pbf-wrapper " id="div_983a_9">
-            <div class="gdlr-core-pbf-background-wrap" id="div_983a_10">
-                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" id="div_983a_11" data-parallax-speed="0.1"></div>
+            <div class="gdlr-core-pbf-background-wrap" id="div_983a_10" style="background-color:black;">
+                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" id="div_983a_11-aboutus" data-parallax-speed="0.1"></div>
             </div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
@@ -156,147 +139,53 @@
                 </div>
             </div>
         </div>
-        <div class="gdlr-core-pbf-wrapper " id="div_983a_21">
-            <div class="gdlr-core-pbf-background-wrap" id="div_983a_22"></div>
+
+        <div class="gdlr-core-pbf-wrapper " id="div_983a_3">
+            <div class="gdlr-core-pbf-background-wrap"></div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                    <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " id="div_983a_23" data-sync-height="height-1" data-sync-height-center>
-                            <div class="gdlr-core-pbf-background-wrap" id="div_983a_24"></div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
+                    <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first">
+                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                 <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-left-align">
-                                        <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_983a_25"><img src="upload/about-icon-1.png" alt="" width="65" height="65" title="about-icon-1" /></div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" id="div_983a_26">
+                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" id="div_983a_4">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_983a_4">Special Campus Tour</h3></div>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_983a_0">ku’s History</h3>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
-                                        <div class="gdlr-core-text-box-item-content" id="div_983a_27">
-                                            <p>Campus on a tour designed for prospective graduate and professional students. You will see how our university like, facilities, studenst and life in this university. Meet our graduate admissions representative to learn more about our graduate programs and decide what it the best for you.</p>
+                                    <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-left-align">
+                                        <div class="gdlr-core-divider-container" id="div_983a_5">
+                                            <div class="gdlr-core-divider-line gdlr-core-skin-divider" id="div_983a_6"></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="gdlr-core-pbf-column gdlr-core-column-30">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-column-extend-right" data-sync-height="height-1">
-                            <div class="gdlr-core-pbf-background-wrap">
-                                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" id="div_983a_28" data-parallax-speed="0.2"></div>
-                            </div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="gdlr-core-pbf-wrapper " id="div_983a_29">
-            <div class="gdlr-core-pbf-background-wrap" id="div_983a_30"></div>
-            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                    <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-column-extend-left" data-sync-height="height-2">
-                            <div class="gdlr-core-pbf-background-wrap">
-                                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" id="div_983a_31" data-parallax-speed="0.2"></div>
-                            </div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"></div>
-                        </div>
-                    </div>
-                    <div class="gdlr-core-pbf-column gdlr-core-column-30">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " id="div_983a_32" data-sync-height="height-2" data-sync-height-center>
-                            <div class="gdlr-core-pbf-background-wrap" id="div_983a_33"></div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-left-align">
-                                        <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_983a_34"><img src="upload/about-icon-2.png" alt="" width="67" height="58" title="about-icon-2" /></div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" id="div_983a_35">
-                                        <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_983a_5">Graduation</h3></div>
-                                    </div>
-                                </div>
+                    <div class="gdlr-core-pbf-column gdlr-core-column-20">
+                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
-                                        <div class="gdlr-core-text-box-item-content" id="div_983a_36">
-                                            <p>Campus on a tour designed for prospective graduate and professional students. You will see how our university like, facilities, studenst and life in this university. Meet our graduate admissions representative to learn more about our graduate programs and decide what it the best for you.</p>
+                                        <div class="gdlr-core-text-box-item-content" id="div_983a_7">
+                                            <p>Kampala University is a fountain of knowledge, which produces holistic and all round graduates who become vanguards of change in the community. This philosophy is founded on a society, which needs graduates who are competitive in the job market, academically, morally and socially. It is the University's belief, firm hope and desire that Uganda as a nation, the East and Central Africa Region, and indeed the whole world become transformed into a developed common society economically, culturally and academically which should act as a vehicle of development in all areas and at all levels.</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-        <div class="gdlr-core-pbf-wrapper " id="div_983a_37">
-            <div class="gdlr-core-pbf-background-wrap" id="div_983a_38"></div>
-            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                    <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " id="div_983a_39" data-sync-height="height-3" data-sync-height-center>
-                            <div class="gdlr-core-pbf-background-wrap" id="div_983a_40"></div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-left-align">
-                                        <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_983a_41"><img src="upload/about-icon-3.png" alt="" width="63" height="62" title="about-icon-3" /></div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" id="div_983a_42">
-                                        <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_983a_6">Powerful Alumni</h3></div>
-                                    </div>
-                                </div>
+                    <div class="gdlr-core-pbf-column gdlr-core-column-20">
+                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
-                                        <div class="gdlr-core-text-box-item-content" id="div_983a_43">
-                                            <p>Campus on a tour designed for prospective graduate and professional students. You will see how our university like, facilities, studenst and life in this university. Meet our graduate admissions representative to learn more about our graduate programs and decide what it the best for you.</p>
+                                        <div class="gdlr-core-text-box-item-content" id="div_983a_8">
+                                            <p>If you would like to study in the university in the heart of the city that focus on chaning the world for better to morrow, you’re choosin the right place. We do not use special formulas to select students. We look at every single applicantt&#8217;s application, academic and personal, to select students who suit to our community.</p>
                                         </div>
                                     </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="gdlr-core-pbf-column gdlr-core-column-30">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-column-extend-right" data-sync-height="height-3">
-                            <div class="gdlr-core-pbf-background-wrap">
-                                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" id="div_983a_44" data-parallax-speed="0.2"></div>
-                            </div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="gdlr-core-pbf-wrapper " id="div_983a_45">
-            <div class="gdlr-core-pbf-background-wrap" id="div_983a_46"></div>
-            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container-custom" id="div_983a_47">
-                    <div class="gdlr-core-pbf-element">
-                        <div class="gdlr-core-gallery-item gdlr-core-item-pdb clearfix  gdlr-core-gallery-item-style-grid" id="div_983a_48">
-                            <div class="gdlr-core-gallery-item-holder gdlr-core-js-2 clearfix" data-layout="fitrows">
-                                <div class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12 gdlr-core-column-first gdlr-core-item-pdlr gdlr-core-item-mgb">
-                                    <div class="gdlr-core-gallery-list gdlr-core-media-image"><img src="upload/banner-1.png" alt="" width="248" height="120" title="banner-1" /></div>
-                                </div>
-                                <div class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12 gdlr-core-item-pdlr gdlr-core-item-mgb">
-                                    <div class="gdlr-core-gallery-list gdlr-core-media-image"><img src="upload/banner-2.png" alt="" width="248" height="120" title="banner-2" /></div>
-                                </div>
-                                <div class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12 gdlr-core-item-pdlr gdlr-core-item-mgb">
-                                    <div class="gdlr-core-gallery-list gdlr-core-media-image"><img src="upload/banner-3.png" alt="" width="248" height="120" title="banner-3" /></div>
-                                </div>
-                                <div class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12 gdlr-core-item-pdlr gdlr-core-item-mgb">
-                                    <div class="gdlr-core-gallery-list gdlr-core-media-image"><img src="upload/banner-4-1.png" alt="" width="248" height="120" title="banner-4" /></div>
-                                </div>
-                                <div class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12 gdlr-core-item-pdlr gdlr-core-item-mgb">
-                                    <div class="gdlr-core-gallery-list gdlr-core-media-image"><img src="upload/banner-5.png" alt="" width="248" height="120" title="banner-5" /></div>
                                 </div>
                             </div>
                         </div>
