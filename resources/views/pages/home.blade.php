@@ -4,7 +4,7 @@
 <div class="ku-page-wrapper" id="ku-page-wrapper">
     <div class="gdlr-core-page-builder-body">
         <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">
-            <div class="gdlr-core-pbf-background-wrap" style="background-color: #192f59 ;"></div>
+            <div class="gdlr-core-pbf-background-wrap" style="background-color: #2ea025 ;"></div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-pbf-wrapper-full-no-space">
                     <div class="gdlr-core-pbf-element">
@@ -14,8 +14,8 @@
                                 <div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.8">
                                     <ul>
                                         <li data-index="rs-3" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="upload/slider-1-2-100x50.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description=""> <img src="images/slider/graduands.JPG" alt="" title="slider-1-2" width="1800" height="1119" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                                            <div class="tp-caption   tp-resizeme" id="slide-3-layer-1" data-x="38" data-y="center" data-voffset="-146" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":10,"speed":300,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 33px; line-height: 33px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:Poppins;">The Best University Of The State</div>
-                                            <div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" id="slide-3-layer-4" data-x="33" data-y="center" data-voffset="-44" data-width="['830']" data-height="['118']" data-type="shape" data-responsive_offset="on" data-frames='[{"delay":330,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6;background-color:rgba(24,36,59,0.9);border-radius:3px 3px 3px 3px;"></div>
+                                            <div class="tp-caption   tp-resizeme" id="slide-3-layer-1" data-x="38" data-y="center" data-voffset="-146" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":10,"speed":300,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 33px; line-height: 33px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:Poppins;">The Capitals' charttered University</div>
+                                            <div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" id="slide-3-layer-4" data-x="33" data-y="center" data-voffset="-44" data-width="['830']" data-height="['118']" data-type="shape" data-responsive_offset="on" data-frames='[{"delay":330,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6;background-color:#2ea025;border-radius:3px 3px 3px 3px;"></div>
                                             <div class="tp-caption   tp-resizeme" id="slide-3-layer-2" data-x="55" data-y="center" data-voffset="-52" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":360,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7; white-space: nowrap; font-size: 88px; line-height: 88px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Playfair Display;">Kampala </div>
                                             <div class="tp-caption   tp-resizeme" id="slide-3-layer-3" data-x="423" data-y="center" data-voffset="-51" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":360,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 8; white-space: nowrap; font-size: 88px; line-height: 88px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Playfair Display;">University</div>
                                             <div class="tp-caption rev-btn rev-hiddenicon " id="slide-3-layer-6" data-x="34" data-y="center" data-voffset="80" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":660,"speed":300,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(1,61,135);bg:rgba(255,255,255,1);bw:0 0 0 5px;"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[19,19,19,19]" data-paddingright="[21,21,21,21]" data-paddingbottom="[19,19,19,19]" data-paddingleft="[21,21,21,21]" style="z-index: 9; white-space: nowrap; font-size: 17px; line-height: 16px; font-weight: 600; color: #2d2d2d; letter-spacing: 0px;font-family:Poppins;background-color:rgb(255,255,255);border-color:rgb(61,177,102);border-style:solid;border-width:0px 0px 0px 5px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Take A Tour</div>
@@ -48,8 +48,8 @@
                                             <div class="gdlr-core-column-service-media gdlr-core-media-image"><img src="images/eagle.png" alt="" width="40" height="40" title="icon-1" /></div>
                                             <div class="gdlr-core-column-service-content-wrapper">
                                                 <div class="gdlr-core-column-service-title-wrap">
-                                                    <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_0">University Life</h3>
-                                                    <div class="gdlr-core-column-service-caption gdlr-core-info-font gdlr-core-skin-caption" id="div_1dd7_3">Overall in here</div>
+                                                    <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_0">Join Us</h3>
+                                                    <div class="gdlr-core-column-service-caption gdlr-core-info-font gdlr-core-skin-caption" id="div_1dd7_3">Foundation of knowledge</div>
                                                 </div>
                                             </div>
                                         </div>
@@ -65,8 +65,8 @@
                                             <div class="gdlr-core-column-service-media gdlr-core-media-image"><img src="upload/icon-2.png" alt="" width="44" height="40" title="icon-2" /></div>
                                             <div class="gdlr-core-column-service-content-wrapper">
                                                 <div class="gdlr-core-column-service-title-wrap">
-                                                    <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_1">Graduation</h3>
-                                                    <div class="gdlr-core-column-service-caption gdlr-core-info-font gdlr-core-skin-caption" id="div_1dd7_6">Getting Diploma</div>
+                                                    <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_1">Graduate Today</h3>
+                                                    <div class="gdlr-core-column-service-caption gdlr-core-info-font gdlr-core-skin-caption" id="div_1dd7_6">Proffessional</div>
                                                 </div>
                                             </div>
                                         </div>
@@ -99,8 +99,8 @@
                                             <div class="gdlr-core-column-service-media gdlr-core-media-image"><img src="upload/icon-4.png" alt="" width="41" height="41" title="icon-4" /></div>
                                             <div class="gdlr-core-column-service-content-wrapper">
                                                 <div class="gdlr-core-column-service-title-wrap">
-                                                    <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_3">Social</h3>
-                                                    <div class="gdlr-core-column-service-caption gdlr-core-info-font gdlr-core-skin-caption" id="div_1dd7_12">Overall in here</div>
+                                                    <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_3">Academic Partnership</h3>
+                                                    <div class="gdlr-core-column-service-caption gdlr-core-info-font gdlr-core-skin-caption" id="div_1dd7_12">Accademia</div>
                                                 </div>
                                             </div>
                                         </div>
@@ -135,7 +135,7 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr" id="div_1dd7_18">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_4">Apply for Admission</h3></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_0">Fall 2019 applications are now open</span></div>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_4">Apply for Admission</h3></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_0"> </span></div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" id="div_1dd7_19">
@@ -145,7 +145,7 @@
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"><a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="#" id="a_1dd7_0"><span class="gdlr-core-content" >Apply Now</span></a></div>
+                                    <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"><a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="{{ route('contact') }}" id="a_1dd7_0"><span class="gdlr-core-content" >Apply Now</span></a></div>
                                 </div>
                             </div>
                         </div>
@@ -164,7 +164,7 @@
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-left-align" id="div_1dd7_23">
-                                        <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_1dd7_24"><img src="upload/logo-white.png" alt="" width="262" height="35" title="logo-white" /></div>
+                                        <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_1dd7_24"><img src="{{ asset('images/eagle-clear-ku-logo-dark.png') }}" alt="" width="262" height="35" title="logo-white" /></div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
@@ -203,7 +203,7 @@
             </div>
         </div>
         <div class="gdlr-core-pbf-wrapper " id="div_1dd7_30" data-skin="Column Service">
-            <div class="gdlr-core-pbf-background-wrap" id="div_1dd7_31"></div>
+            <div class="gdlr-core-pbf-background-wrap" id="div_1dd7_31-homepage"></div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
                     <div class="gdlr-core-pbf-column gdlr-core-column-15 gdlr-core-column-first">
@@ -216,7 +216,7 @@
                                             <div class="gdlr-core-column-service-title-wrap">
                                                 <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_6">Education Services</h3></div>
                                             <div class="gdlr-core-column-service-content" id="div_1dd7_34">
-                                                <p>ku University was established by John Smith in 1920 for the public benefit and it is recognized.</p> <a class="gdlr-core-column-service-read-more gdlr-core-info-font" href="#" id="a_1dd7_1">Learn More</a></div>
+                                                <p>Kampala University is a fountain of knowledge, which produces holistic and all round graduates who become vanguards of change in the community. </p> <a class="gdlr-core-column-service-read-more gdlr-core-info-font" href="{{ route('about') }}" id="a_1dd7_1">Learn More</a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -231,9 +231,9 @@
                                         <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_36"><img src="upload/col-icon-2.png" alt="" width="43" height="45" title="col-icon-2" /></div>
                                         <div class="gdlr-core-column-service-content-wrapper">
                                             <div class="gdlr-core-column-service-title-wrap">
-                                                <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_7">International Hubs</h3></div>
+                                                <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_7">Our Campuses</h3></div>
                                             <div class="gdlr-core-column-service-content" id="div_1dd7_37">
-                                                <p>ku University was established by John Smith in 1920 for the public benefit and it is recognized.</p> <a class="gdlr-core-column-service-read-more gdlr-core-info-font" href="#" id="a_1dd7_2">Learn More</a></div>
+                                                <p>Join one of our many campuses across East Africa TOday.</p> <a class="gdlr-core-column-service-read-more gdlr-core-info-font" href="{{ route('campuses') }}" id="a_1dd7_2">Learn More</a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -250,7 +250,7 @@
                                             <div class="gdlr-core-column-service-title-wrap">
                                                 <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_8">Bachelor’s and Master’s</h3></div>
                                             <div class="gdlr-core-column-service-content" id="div_1dd7_40">
-                                                <p>ku University was established by John Smith in 1920 for the public benefit and it is recognized.</p> <a class="gdlr-core-column-service-read-more gdlr-core-info-font" href="#" id="a_1dd7_3">Learn More</a></div>
+                                                <p>Kampala University offers over 65 certificate, diploma's, bachelor’s and master’s programmes which are designed to develop professionals with integrity, power of critical inquiry, logical thought and independent judgment with moral values.</p> <a class="gdlr-core-column-service-read-more gdlr-core-info-font" href="{{ route('about') }}" id="a_1dd7_3">Learn More</a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -265,9 +265,9 @@
                                         <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_42"><img src="upload/col-icon-4.png" alt="" width="47" height="47" title="col-icon-4" /></div>
                                         <div class="gdlr-core-column-service-content-wrapper">
                                             <div class="gdlr-core-column-service-title-wrap">
-                                                <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_9">University Life</h3></div>
+                                                <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_9">KU History</h3></div>
                                             <div class="gdlr-core-column-service-content" id="div_1dd7_43">
-                                                <p>ku University was established by John Smith in 1920 for the public benefit and it is recognized.</p> <a class="gdlr-core-column-service-read-more gdlr-core-info-font" href="#" id="a_1dd7_4">Learn More</a></div>
+                                                <p>It is important to remind you that the Kampala University opened its doors to the pioneer students on 16th-02-1999 under the Leadership of the able Founding Vice-Chancellor Owek.Amb.Al-haj.Prof.Dr.Badru D Kateregga.</p> <a class="gdlr-core-column-service-read-more gdlr-core-info-font" href="#" id="a_1dd7_4">Learn More</a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -315,7 +315,7 @@
                                                                 </span>
                                                             </div>
                                                             <h3 class="gdlr-core-blog-title gdlr-core-skin-title" id="h3_1dd7_11">
-                                                                <a href="#" >Professor Albert joint research on mobile money in Tanzania</a>
+                                                                <a href="https://aituedu.org/" >Kampala University signed an MOU with American International Theology University – AITU</a>
                                                             </h3>
                                                         </div>
                                                     </div>
@@ -340,7 +340,7 @@
                                                             </span>
                                                         </div>
                                                         <h3 class="gdlr-core-blog-title gdlr-core-skin-title" id="h3_1dd7_12">
-                                                            <a href="#" >A Global MBA for the next generation of business leaders</a>
+                                                            <a href="#" >Registration for February intake 2020 is in progress at all our Campuses.</a>
                                                         </h3>
                                                     </div>
                                                 </div>
@@ -362,7 +362,7 @@
                                                             </span>
                                                         </div>
                                                         <h3 class="gdlr-core-blog-title gdlr-core-skin-title" id="h3_1dd7_13">
-                                                            <a href="#" >Professor Tom comments on voluntary recalls by snack brands</a>
+                                                            <a href="#" >Next semester will start on 3rd February 2020 .</a>
                                                         </h3>
                                                     </div>
                                                 </div>
@@ -384,7 +384,7 @@
                                                             </span>
                                                         </div>
                                                         <h3 class="gdlr-core-blog-title gdlr-core-skin-title" id="h3_1dd7_14">
-                                                            <a href="#" >Professor Alexa is interviewed about Twitter&#8217;s valuation</a>
+                                                            <a href="#" >In-service programme will start on 2nd to 21st December 2019.</a>
                                                         </h3>
                                                     </div>
                                                 </div>
@@ -413,7 +413,7 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr"  id="gdlr-core-title-item-id-66469">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_16"><a href="#" target="_self" >About KU</a></h3></div>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_16"><a href="{{ route('about') }}" target="_self" >About KU</a></h3></div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
@@ -424,7 +424,7 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr"  id="gdlr-core-title-item-id-42777">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_17"><a href="#" target="_self" >Administration</a></h3></div>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_17"><a href="{{ route('quality-assurance') }}" target="_self" >Quality Assurance</a></h3></div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
@@ -435,7 +435,7 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr"  id="gdlr-core-title-item-id-51281">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_18"><a href="#" target="_self" >Contacts</a></h3></div>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_18"><a href="{{ route('contact') }}" target="_self" >Contacts</a></h3></div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
@@ -446,7 +446,7 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr"  id="gdlr-core-title-item-id-78243">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_19"><a href="#" target="_self" >Marketing</a></h3></div>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_19"><a href="{{ route('campuses') }}" target="_self" >Marketing</a></h3></div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
@@ -457,7 +457,7 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr"  id="gdlr-core-title-item-id-14842">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_20"><a href="#" target="_self" >Quality Assurance</a></h3></div>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_20"><a href="{{ route('about') }}" target="_self" >ABout Us</a></h3></div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
@@ -468,7 +468,7 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr"  id="gdlr-core-title-item-id-33183">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_21"><a href="#" target="_self" >Campuses</a></h3></div>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_21"><a href="{{ route('research') }}" target="_self" >Research</a></h3></div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
@@ -502,6 +502,16 @@
                                                                     <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
                                                                         <a class="gdlr-core-twitter-date" href="http://twitter.com/Envato/statuses/1030582660324892674" target="_blank"> 18 hours ago</a>
                                                                     </span>
+                                                                    <blockquote class="twitter-tweet">
+                                                                        <p lang="en" dir="ltr">Sunsets don&#39;t get much better than this one over 
+                                                                            <a href="https://twitter.com/GrandTetonNPS?ref_src=twsrc%5Etfw">@GrandTetonNPS</a>. 
+                                                                            <a href="https://twitter.com/hashtag/nature?src=hash&amp;ref_src=twsrc%5Etfw">#nature</a> 
+                                                                            <a href="https://twitter.com/hashtag/sunset?src=hash&amp;ref_src=twsrc%5Etfw">#sunset</a> 
+                                                                            <a href="http://t.co/YuKy2rcjyU">pic.twitter.com/YuKy2rcjyU</a></p>&mdash; US Department of the Interior (@Interior) 
+                                                                            <a href="https://twitter.com/Interior/status/463440424141459456?ref_src=twsrc%5Etfw">May 5, 2014</a>
+                                                                        </blockquote> 
+                                                                        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
+                                                                        </script> 
                                                                 </div>
                                                             </li>
                                                             <li class="gdlr-core-item-mglr">
@@ -547,10 +557,10 @@
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-no-caption gdlr-core-item-pdlr" id="div_1dd7_70">
-                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_71"><img src="upload/apply-logo.png" alt="" width="42" height="39" title="apply-logo" /></div>
+                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_71"><img src="{{ asset('images/eagle.png') }}" alt="" width="42" height="39" title="apply-logo" /></div>
                                         <div class="gdlr-core-column-service-content-wrapper">
                                             <div class="gdlr-core-column-service-title-wrap">
-                                                <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_22">Apply to Kampala University</h3></div>
+                                                <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_22">Join Kampala University</h3></div>
                                         </div>
                                     </div>
                                 </div>
@@ -570,7 +580,7 @@
                     <div class="gdlr-core-pbf-element">
                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" id="div_1dd7_75">
                             <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_1dd7_76">
-                                <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg"><img src="upload/icon-play.png" alt="" width="82" height="82" title="icon-play" /></a>
+                                <a class="gdlr-core-lightgallery gdlr-core-js " href="https://youtu.be/2-jkz0QHLWY"><img src="upload/icon-play.png" alt="" width="82" height="82" title="icon-play" /></a>
                             </div>
                         </div>
                     </div>
@@ -583,7 +593,7 @@
                     <div class="gdlr-core-pbf-element">
                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align" id="div_1dd7_77">
                             <div class="gdlr-core-text-box-item-content" id="div_1dd7_78">
-                                <p>Take a tour in ku and you will find the best university in the state. The video will take you to every places in this university.</p>
+                                <p>Kampala University School of Nursing and Health Sciences invites applications for July 2020 intake.</p>
                             </div>
                         </div>
                     </div>
@@ -599,25 +609,25 @@
                             
                             <div class="gdlr-core-tab-item-content-image-wrap clearfix">
                                 <div class="gdlr-core-tab-item-image  gdlr-core-active" data-tab-id="1">
-                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg">
+                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="#">
                                         <span class="gdlr-core-tab-item-image-background" id="span_1dd7_1"  ></span>
                                         <i class="fa fa-play" ></i>
                                     </a>
                                 </div>
                                 <div class="gdlr-core-tab-item-image " data-tab-id="2">
-                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg">
+                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="#">
                                         <span class="gdlr-core-tab-item-image-background" id="span_1dd7_2"  ></span>
                                         <i class="fa fa-play" ></i>
                                     </a>
                                 </div>
                                 <div class="gdlr-core-tab-item-image " data-tab-id="3">
-                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg">
+                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="#">
                                         <span class="gdlr-core-tab-item-image-background" id="span_1dd7_3"  ></span>
                                         <i class="fa fa-play" ></i>
                                     </a>
                                 </div>
                                 <div class="gdlr-core-tab-item-image " data-tab-id="4">
-                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg">
+                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="#">
                                         <span class="gdlr-core-tab-item-image-background" id="span_1dd7_4"  ></span>
                                         <i class="fa fa-play" ></i>
                                     </a>
@@ -626,16 +636,16 @@
 
                             <div class="gdlr-core-tab-item-wrap">
                                 <div class="gdlr-core-tab-item-title-wrap clearfix gdlr-core-title-font">
-                                    <div class="gdlr-core-tab-item-title  gdlr-core-active" data-tab-id="1">Benefits</div>
-                                    <div class="gdlr-core-tab-item-title " data-tab-id="2">Self Development</div>
-                                    <div class="gdlr-core-tab-item-title " data-tab-id="3">Spirituality</div>
-                                    <div class="gdlr-core-tab-item-title " data-tab-id="4">Alumni</div>
+                                    <div class="gdlr-core-tab-item-title  gdlr-core-active" data-tab-id="1">Philosophy</div>
+                                    <div class="gdlr-core-tab-item-title " data-tab-id="2">Mission </div>
+                                    <div class="gdlr-core-tab-item-title " data-tab-id="3">Vision</div>
+                                    <div class="gdlr-core-tab-item-title " data-tab-id="4">Brief History</div>
                                 </div>
                                 <div class="gdlr-core-tab-item-content-wrap clearfix">
                                     <div class="gdlr-core-tab-item-content  gdlr-core-active" data-tab-id="1" >
                                         <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top">
                                             <div class="gdlr-core-title-item-title-wrap ">
-                                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_24">Why Choose KU?<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
+                                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_24">Philosophy<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
                                         </div>
                                         <p>This philosophy is founded on a society, which needs graduates who are competitive in the job market, academically, morally and socially. It is the University's belief, firm hope and desire that Uganda as a nation, the East and Central Africa Region, and indeed the whole world become transformed into a developed common society economically, culturally and academically which should act as a vehicle of development in all areas and at all levels.</p>
                                         <p>KU employs various categories of staff which include the Administratative staff totalling to 262 fulltime.The institution is multireligious and therefore not affiliated to a particular religion.</p>
@@ -643,26 +653,25 @@
                                     <div class="gdlr-core-tab-item-content " data-tab-id="2" >
                                         <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top">
                                             <div class="gdlr-core-title-item-title-wrap ">
-                                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_25">Self Development<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
+                                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_25">Mission<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
                                         </div>
-                                        <p>The ku University Alumni Association is excited to announce the arrival of KU Alumni Connect. This is a new community building platform for Kinster’s alumni. It is the only place online where you can find, and connect with, all 90,000 ku’s alumni. All alumni are automatically enrolled!</p>
-                                        <p>ku University was established by John Smith in 1920 for the public benefit and it is recognized globally. Throughout our great history, ku has offered access to a wide range of academic opportunities. As a world leader in higher education, the University has pioneered change in the sector.</p>
+                                        <p>To transmit quality knowledge, conduct research and provide community service to Uganda, the East and Central African sub region and the world at large.</p>
                                     </div>
                                     <div class="gdlr-core-tab-item-content " data-tab-id="3" >
                                         <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top">
                                             <div class="gdlr-core-title-item-title-wrap ">
                                                 <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_26">Spirituality<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
                                         </div>
-                                        <p>The ku University Alumni Association is excited to announce the arrival of KU Alumni Connect. This is a new community building platform for Kinster’s alumni. It is the only place online where you can find, and connect with, all 90,000 ku’s alumni. All alumni are automatically enrolled!</p>
-                                        <p>ku University was established by John Smith in 1920 for the public benefit and it is recognized globally. Throughout our great history, ku has offered access to a wide range of academic opportunities. As a world leader in higher education, the University has pioneered change in the sector.</p>
+                                        <p>To become an exemplary institution of higher learning of first choice in both academic and technical excellence and specialized research in support and advancement of frontiers of knowledge and skills.</p>
                                     </div>
                                     <div class="gdlr-core-tab-item-content " data-tab-id="4" >
                                         <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top">
                                             <div class="gdlr-core-title-item-title-wrap ">
-                                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_27">Alumni<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
+                                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_27">History<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
                                         </div>
-                                        <p>The ku University Alumni Association is excited to announce the arrival of KU Alumni Connect. This is a new community building platform for Kinster’s alumni. It is the only place online where you can find, and connect with, all 90,000 ku’s alumni. All alumni are automatically enrolled!</p>
-                                        <p>ku University was established by John Smith in 1920 for the public benefit and it is recognized globally. Throughout our great history, ku has offered access to a wide range of academic opportunities. As a world leader in higher education, the University has pioneered change in the sector.</p>
+                                        <p>It is important to remind you that the Kampala University opened its doors to the pioneer students on 16th-02-1999 under the Leadership of the able Founding Vice-Chancellor Owek.Amb.Al-haj.Prof.Dr.Badru D Kateregga in the premises currently hosting K.I.U in Kansanga . But due to some problems, the Institution relocated in 2000 to Ggaba for a better working environment.
+                                        By then, the biggest number of students were Kenyans, followed by Ugandans but as per now it has more than 15000 students from different nationalities.</p>
+                                        <p>Kampala University is a Private Chartered secular Institution of Higher learning that has existed for 18 years since 1999. With its lake view Campus located at Ggaba -Kawuku lane, With branches in Luwero (Nakyewa), Jinja (Iganga Highway), Masaka (New Kkumbu), Mutundwe (Kigagga Zone),Old Kampala, Juba , The East African University Kitengela in Nairobi-Kenya and East African University Rwanda –Nyagatare Eastern province.</p>
                                     </div>
                                 </div>
                             </div>
@@ -687,7 +696,7 @@
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
                                             <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_28">Undergraduate</h3>
                                         </div>
-                                        <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_5">ku University was established by John Smith in 1920 for the public benefit and it is recognized globally.</span>
+                                        <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_5">Join Undergraduate programme</span>
                                     </div>
                                 </div>
                             </div>
@@ -700,9 +709,9 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr" id="div_1dd7_87">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_29">Graduated & Professional</h3>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_29">Join Graduate School </h3>
                                         </div>
-                                        <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_6">ku University was established by John Smith in 1920 for the public benefit and it is recognized globally.</span>
+                                        <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_6">With wdie range of course offered at the graduate school, you can join the Proffessional </span>
                                     </div>
                                 </div>
                             </div>
@@ -717,9 +726,9 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr" id="div_1dd7_90">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_30">Scholarships & Financial AID</h3>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_30">Engage In Sports</h3>
                                         </div>
-                                        <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_7">ku University was established by John Smith in 1920 for the public benefit and it is recognized globally.</span>
+                                        <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_7">kThere are number of recreation and sports activities at the University. The Department of Sports and Recreation offers welfare and sports skills services to the students through a comprehensive, dynamic and exciting Inter-Hall Sports Championships, and several other internally organized competitions. </span>
                                     </div>
                                 </div>
                             </div>
@@ -739,14 +748,14 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align">
                                         <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-round" id="div_1dd7_92">
-                                            <img src="upload/hp-donation-400x212.jpg" width="700" height="372" alt="" />
+                                            <img src="http://thestandard.ucu.ac.ug/wp-content/uploads/2016/10/cg.jpg" width="700" height="372" alt="" />
                                         </div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_31">Donation helps us</h3>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_31">Cultural Gala</h3>
                                         </div>
                                         <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_8">The Campaign for the ku University is the 
                                             <strong>largest fundraising campaign in history.</strong> With a historic $1 billion goal, the campaign is expanding U of T’s global leadership capacity.
@@ -757,7 +766,7 @@
                                     <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                         <a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="#" id="a_1dd7_6">
                                             <i class="gdlr-core-pos-left fa fa-heart"  ></i>
-                                            <span class="gdlr-core-content" >Become a donor</span>
+                                            <span class="gdlr-core-content" >View More</span>
                                         </a>
                                     </div>
                                 </div>
@@ -780,12 +789,12 @@
                                         <div class="gdlr-core-event-item-holder clearfix">
                                             <div class="gdlr-core-event-item-list gdlr-core-style-widget gdlr-core-item-pdlr  clearfix" id="div_1dd7_97">
                                                 <span class="gdlr-core-event-item-info gdlr-core-type-start-date-month">
-                                                    <span class="gdlr-core-date" >07</span>
-                                                    <span class="gdlr-core-month">Jan</span>
+                                                    <span class="gdlr-core-date" >11</span>
+                                                    <span class="gdlr-core-month">Aug</span>
                                                 </span>
                                                 <div class="gdlr-core-event-item-content-wrap">
                                                     <h3 class="gdlr-core-event-item-title">
-                                                        <a href="#" >Reunion Event : ku’s Alumni Golf Tour</a>
+                                                        <a href="#" >Pre-University Exams</a>
                                                     </h3>
                                                     <div class="gdlr-core-event-item-info-wrap">
                                                         <span class="gdlr-core-event-item-info gdlr-core-type-time">
@@ -798,44 +807,44 @@
                                                             <span class="gdlr-core-head" >
                                                                 <i class="icon_pin_alt" ></i>
                                                             </span>
-                                                            <span class="gdlr-core-tail">ku Grand Hall</span>
+                                                            <span class="gdlr-core-tail">Main Campus Ggaba</span>
                                                         </span>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-event-item-list gdlr-core-style-widget gdlr-core-item-pdlr  clearfix" id="div_1dd7_98">
                                                 <span class="gdlr-core-event-item-info gdlr-core-type-start-date-month">
-                                                    <span class="gdlr-core-date" >01</span>
-                                                    <span class="gdlr-core-month">Jan</span>
+                                                    <span class="gdlr-core-date" >25</span>
+                                                    <span class="gdlr-core-month">Nov</span>
                                                 </span>
                                                 <div class="gdlr-core-event-item-content-wrap">
                                                     <h3 class="gdlr-core-event-item-title">
-                                                        <a href="#" >ku’s Alumni Hot Air Ballon Trip in Turkey</a>
+                                                        <a href="#" >Regular Program Exams</a>
                                                     </h3>
                                                     <div class="gdlr-core-event-item-info-wrap">
                                                         <span class="gdlr-core-event-item-info gdlr-core-type-time">
                                                             <span class="gdlr-core-head" >
                                                                 <i class="icon_clock_alt" ></i>
                                                             </span>
-                                                            <span class="gdlr-core-tail">10:00 am - 4:30 pm</span>
+                                                            <span class="gdlr-core-tail">07:00 am - 5:30 pm</span>
                                                         </span>
                                                         <span class="gdlr-core-event-item-info gdlr-core-type-location">
                                                             <span class="gdlr-core-head" >
                                                                 <i class="icon_pin_alt" ></i>
                                                             </span>
-                                                            <span class="gdlr-core-tail">ku Grand Hall</span>
+                                                            <span class="gdlr-core-tail">Kampala University Campuses</span>
                                                         </span>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-event-item-list gdlr-core-style-widget gdlr-core-item-pdlr  clearfix" id="div_1dd7_99">
                                                 <span class="gdlr-core-event-item-info gdlr-core-type-start-date-month">
-                                                    <span class="gdlr-core-date" >17</span>
+                                                    <span class="gdlr-core-date" >02</span>
                                                     <span class="gdlr-core-month">Dec</span>
                                                 </span>
                                                 <div class="gdlr-core-event-item-content-wrap">
                                                     <h3 class="gdlr-core-event-item-title">
-                                                        <a href="#" >Fintech &#038; Key Investment Conference</a>
+                                                        <a href="#" >In-Service Programme </a>
                                                     </h3>
                                                     <div class="gdlr-core-event-item-info-wrap">
                                                         <span class="gdlr-core-event-item-info gdlr-core-type-time">
@@ -848,7 +857,7 @@
                                                             <span class="gdlr-core-head" >
                                                                 <i class="icon_pin_alt" ></i>
                                                             </span>
-                                                            <span class="gdlr-core-tail">ku Grand Hall</span>
+                                                            <span class="gdlr-core-tail">Kampala University Mutundwe</span>
                                                         </span>
                                                     </div>
                                                 </div>
@@ -910,7 +919,7 @@
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js "></div>
                         </div>
                     </div>
-                    <div class="gdlr-core-pbf-column gdlr-core-column-30">
+                    {{-- <div class="gdlr-core-pbf-column gdlr-core-column-30">
                         <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                 <div class="gdlr-core-pbf-element">
@@ -1010,11 +1019,11 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> --}}
                 </div>
             </div>
         </div>
-        <div class="gdlr-core-pbf-wrapper " id="div_1dd7_107">
+        {{-- <div class="gdlr-core-pbf-wrapper " id="div_1dd7_107">
             <div class="gdlr-core-pbf-background-wrap" id="div_1dd7_108"></div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container-custom" id="div_1dd7_109">
@@ -1041,7 +1050,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
     </div>
 </div>
 @endsection

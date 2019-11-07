@@ -144,13 +144,13 @@
             <div class="gdlr-core-pbf-background-wrap"></div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                    <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first">
+                    {{-- <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first">
                         <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" id="div_983a_4">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_983a_0">ku’s History</h3>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_983a_0">Kampala University Core Values</h3>
                                         </div>
                                     </div>
                                 </div>
@@ -163,14 +163,18 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> --}}
+                    <h5>Kampala University Core VAlues</h5>
                     <div class="gdlr-core-pbf-column gdlr-core-column-20">
                         <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                         <div class="gdlr-core-text-box-item-content" id="div_983a_7">
-                                            <p>Kampala University is a fountain of knowledge, which produces holistic and all round graduates who become vanguards of change in the community. This philosophy is founded on a society, which needs graduates who are competitive in the job market, academically, morally and socially. It is the University's belief, firm hope and desire that Uganda as a nation, the East and Central Africa Region, and indeed the whole world become transformed into a developed common society economically, culturally and academically which should act as a vehicle of development in all areas and at all levels.</p>
+                                            <h6>Courses and Intakes</h6>
+                                            <p>Kampala University offers over 65 certificate, diploma's, bachelor’s and master’s programmes which are designed to develop professionals with integrity, power of critical inquiry, logical thought and independent judgment with moral values. The programmes are offered in two intakes of January and August and run on semester basis.</p>
+                                            <h6>Internet Coverage</h6>
+                                            <p>KU enjoys 90 percent WiFi coverage with an added advantage of computer laboratories to enhance teaching,learning and research in relation to <a href="{{ route('library') }}">online library</a> services.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -178,12 +182,27 @@
                         </div>
                     </div>
                     <div class="gdlr-core-pbf-column gdlr-core-column-20">
+                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                    <div class="gdlr-core-pbf-element">
+                                        <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
+                                            <div class="gdlr-core-text-box-item-content" id="div_983a_7">
+                                                <h6>University Library</h6>
+                                                <p>At the ground floor of the university building is the main library comprising of one section, which is situated at Kampala University main Campus Ggaba. It has a seating capacity of One hundred users, over 32,000 print volumes, over 500 journal titles, and over 900 dissertations. It has 30 computers all linked to the Internet. The Wireless Internet coverage is also available in the Library, enabling students and staff with wireless devices to access the internet while in the Library in line with E-Resources.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    <div class="gdlr-core-pbf-column gdlr-core-column-20">
                         <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                         <div class="gdlr-core-text-box-item-content" id="div_983a_8">
-                                            <p>If you would like to study in the university in the heart of the city that focus on chaning the world for better to morrow, you’re choosin the right place. We do not use special formulas to select students. We look at every single applicantt&#8217;s application, academic and personal, to select students who suit to our community.</p>
+                                            <h6>Students' Residence</h6>
+                                            <p>The Dean of Students Office is responsible all students’ accommodation. With 4000 students in our accommodation spaces, Kampala University proud to monitor students’ safety and health throughout academic years. Dean of Students Office is responsible for Residence Management and Life, Finance Administration, Placement Management, Accommodation and Maintenance Management, Student Support - Residences, Residence Systems and Food Services. One is able to manage the various needs of our student sector living in a residence. It is mandatory that all "First year international students" reside on campus because they are fresh in the country.</p>
                                         </div>
                                     </div>
                                 </div>

@@ -23,27 +23,27 @@
                     <h3 class="ku-widget-title">Our Campus</h3><span class="clear"></span>
                     <div class="menu-our-campus-container">
                         <ul id="menu-our-campus" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
-                            <li class="menu-item"><a href="#">Acedemic</a></li>
-                            <li class="menu-item"><a href="#">Planning &#038; Administration</a></li>
-                            <li class="menu-item"><a href="#">Campus Safety</a></li>
-                            <li class="menu-item"><a href="#">Office of the Chancellor</a></li>
-                            <li class="menu-item"><a href="#">Facility Services</a></li>
-                            <li class="menu-item"><a href="#">Human Resources</a></li>
+                            <li class="menu-item"><a href="{{ route('ggaba') }}">Ggaba</a></li>
+                            <li class="menu-item"><a href="{{ route('mutundwe', ['id'=>1]) }}">Mutundwe</a></li>
+                            <li class="menu-item"><a href="{{ route('lweero') }}">Lweero</a></li>
+                            <li class="menu-item"><a href="{{ route('jinja') }}">Jinja</a></li>
+                            <li class="menu-item"><a href="{{ route('masaka') }}">University East African Rwanda</a></li>
+                            <li class="menu-item"><a href="{{ route('kitengela') }}">Kitengela</a></li>
                         </ul>
                     </div>
                 </div>
             </div>
             <div class="ku-footer-column ku-item-pdlr ku-column-15">
                 <div id="gdlr-core-custom-menu-widget-3" class="widget widget_gdlr-core-custom-menu-widget ku-widget">
-                    <h3 class="ku-widget-title">Campus Life</h3><span class="clear"></span>
+                    <h3 class="ku-widget-title">Other Links</h3><span class="clear"></span>
                     <div class="menu-campus-life-container">
                         <ul id="menu-campus-life" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
-                            <li class="menu-item"><a href="#">Accessibility</a></li>
-                            <li class="menu-item"><a href="#">Financial Aid</a></li>
-                            <li class="menu-item"><a href="#">Food Services</a></li>
-                            <li class="menu-item"><a href="#">Housing</a></li>
-                            <li class="menu-item"><a href="#">Information Technologies</a></li>
-                            <li class="menu-item"><a href="#">Student Life</a></li>
+                            <li class="menu-item"><a href="http://eis.ku.ac.ug/student">EIS</a></li>
+                            <li class="menu-item"><a href="{{ route('contact') }}">Contact</a></li>
+                            <li class="menu-item"><a href="{{ route('about') }}">About Us</a></li>
+                            <li class="menu-item"><a href="{{ route('research', ['id'=>1]) }}">Research</a></li>
+                            <li class="menu-item"><a href="{{ route('quality-assurance') }}">Quality Assurance</a></li>
+                            <li class="menu-item"><a href="{{ route('home') }}">Home</a></li>
                         </ul>
                     </div>
                 </div>
@@ -53,12 +53,12 @@
                     <h3 class="ku-widget-title">Academics</h3><span class="clear"></span>
                     <div class="menu-academics-container">
                         <ul id="menu-academics" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
-                            <li class="menu-item"><a href="#">Canvas</a></li>
-                            <li class="menu-item"><a href="#">Catalyst</a></li>
-                            <li class="menu-item"><a href="#">Library</a></li>
-                            <li class="menu-item"><a href="#">Time Schedule</a></li>
-                            <li class="menu-item"><a href="#">Apply For Admissions</a></li>
-                            <li class="menu-item"><a href="#">Pay My Tuition</a></li>
+                            <li class="menu-item"><a href="{{ route('library') }}">Library</a></li>
+                            <li class="menu-item"><a href="{{ route('vc') }}">Vice Chancellor</a></li>
+                            <li class="menu-item"><a href="{{ route('sports') }}">Sports</a></li>
+                            <li class="menu-item"><a href="{{ route('uni-life') }}">University Life</a></li>
+                            <li class="menu-item"><a href="{{ route('undergraduates') }}">Undergraduate</a></li>
+                            <li class="menu-item"><a href="{{ route('cisco') }}">Cisco</a></li>
                         </ul>
                     </div>
                 </div>
@@ -71,11 +71,14 @@
             <div class="ku-copyright-left ku-item-pdlr">Copyright All Right Reserved 2019, Kampala University</div>
             <div class="ku-copyright-right ku-item-pdlr">
                 <div class="gdlr-core-social-network-item gdlr-core-item-pdb  gdlr-core-none-align" id="div_1dd7_112">
-                    <a href="#" target="_blank" class="gdlr-core-social-network-icon" title="facebook">
-                        <i class="fa fa-facebook" ></i>
+                    <a href="https://www.facebook.com/kampalauniversityuganda/" target="_blank" class="gdlr-core-social-network-icon" title="facebook">
+                        <i class="fa fa-facebook-square" ></i>
                     </a>
                     <a href="#" target="_blank" class="gdlr-core-social-network-icon" title="google-plus">
                         <i class="fa fa-google-plus" ></i>
+                    </a>
+                    <a href="https://twitter.com/klauniversity" target="_blank" class="gdlr-core-social-network-icon" title="google-plus">
+                        <i class="fa facebook-square" ></i>
                     </a>
                     <a href="#" target="_blank" class="gdlr-core-social-network-icon" title="linkedin">
                         <i class="fa fa-linkedin" ></i>

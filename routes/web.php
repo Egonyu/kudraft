@@ -61,3 +61,4 @@ Route::get('environmental-science', 'PostGradCoursesController@environmentalScie
 Route::get('public-health', 'PostGradCoursesController@publicHealth')->name('public-health');
 Route::get('csitPostGrad', 'PostGradCoursesController@csitPost')->name('csitPostGrad');
 Route::get('educationPostGrad', 'PostGradCoursesController@educationPostGrad')->name('educationPostGrad');
+

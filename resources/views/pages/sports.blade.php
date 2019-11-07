@@ -272,7 +272,7 @@
                             </div>
                         </div>
                         <hr>
-                        <div class="gdlr-core-widget-box-shortcode " style="color: #ffffff ;padding: 30px 45px;background-color: #192f59 ;">
+                        <div class="gdlr-core-widget-box-shortcode " style="color: #ffffff ;padding: 30px 45px;background-color: #2ea025 ;">
                             <div class="gdlr-core-widget-box-shortcode-content">
                                 </p>
                                 <h3 style="font-size: 20px; color: #fff; margin-bottom: 15px;">Department Contact Info</h3>
@@ -290,7 +290,7 @@
             </div>
         </div>
         <div class="gdlr-core-pbf-wrapper " style="padding: 65px 0px 60px 0px;">
-            <div class="gdlr-core-pbf-background-wrap" style="background-color: #192f59 ;"></div>
+            <div class="gdlr-core-pbf-background-wrap" style="background-color: #2ea025 ;"></div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
                     <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
