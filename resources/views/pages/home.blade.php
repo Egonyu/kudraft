@@ -45,7 +45,8 @@
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-with-caption gdlr-core-item-pdlr" id="div_1dd7_2">
-                                            <div class="gdlr-core-column-service-media gdlr-core-media-image"><img src="images/eagle.png" alt="" width="40" height="40" title="icon-1" /></div>
+                                            <div class="gdlr-core-column-service-media gdlr-core-media-image">
+                                                <img src="images/eagle.png" alt="" width="40" height="40" title="icon-1" /></div>
                                             <div class="gdlr-core-column-service-content-wrapper">
                                                 <div class="gdlr-core-column-service-title-wrap">
                                                     <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_0">Join Us</h3>
@@ -211,7 +212,7 @@
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" id="div_1dd7_32">
-                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_33"><img src="upload/col-icon-1.png" alt="" width="41" height="41" title="col-icon-1" /></div>
+                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_33"><img src="images/icons/books.png" alt="" width="41" height="41" title="col-icon-1" /></div>
                                         <div class="gdlr-core-column-service-content-wrapper">
                                             <div class="gdlr-core-column-service-title-wrap">
                                                 <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_6">Education Services</h3></div>
@@ -228,7 +229,7 @@
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" id="div_1dd7_35">
-                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_36"><img src="upload/col-icon-2.png" alt="" width="43" height="45" title="col-icon-2" /></div>
+                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_36"><img src="images/icons/science.png" alt="" width="43" height="45" title="col-icon-2" /></div>
                                         <div class="gdlr-core-column-service-content-wrapper">
                                             <div class="gdlr-core-column-service-title-wrap">
                                                 <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_7">Our Campuses</h3></div>
@@ -245,7 +246,7 @@
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" id="div_1dd7_38">
-                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_39"><img src="upload/col-icon-3.png" alt="" width="40" height="43" title="col-icon-3" /></div>
+                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_39"><img src="images/icons/certificate.png" alt="" width="40" height="43" title="col-icon-3" /></div>
                                         <div class="gdlr-core-column-service-content-wrapper">
                                             <div class="gdlr-core-column-service-title-wrap">
                                                 <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_8">Bachelor’s and Master’s</h3></div>
@@ -262,7 +263,7 @@
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" id="div_1dd7_41">
-                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_42"><img src="upload/col-icon-4.png" alt="" width="47" height="47" title="col-icon-4" /></div>
+                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_42"><img src="images/icons/lamp-light.png" alt="" width="47" height="47" title="col-icon-4" /></div>
                                         <div class="gdlr-core-column-service-content-wrapper">
                                             <div class="gdlr-core-column-service-title-wrap">
                                                 <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_9">KU History</h3></div>
@@ -281,7 +282,7 @@
             <div class="gdlr-core-pbf-background-wrap"></div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                    
+
                     <div class="gdlr-core-pbf-column gdlr-core-column-40 gdlr-core-column-first">
                         <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " id="div_1dd7_45" data-sync-height="height-2">
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
@@ -490,36 +491,36 @@
                                                 <div class="gdlr-core-block-item-title-nav ">
                                                     <div class="gdlr-core-flexslider-nav gdlr-core-plain-style gdlr-core-block-center"></div>
                                                 </div>
-                                                
+
                                                 <div class="gdlr-core-twitter-content">
                                                     <div class="gdlr-core-flexslider flexslider gdlr-core-js-2 " data-type="carousel" data-column="1" data-nav="navigation" data-nav-parent="gdlr-core-twitter-item">
                                                         <ul class="slides" id="ul_1dd7_0">
                                                             <li class="gdlr-core-item-mglr">
                                                                 <div class="gdlr-core-twitter-item-list">
-                                                                    <span class="gdlr-core-twitter-item-list-content">Shaking off the working week! What&#8217;s on the agenda for the weekend? by KonstantinKolosov via… 
+                                                                    <span class="gdlr-core-twitter-item-list-content">Shaking off the working week! What&#8217;s on the agenda for the weekend? by KonstantinKolosov via…
                                                                         <a target="_blank" href="https://t.co/fSyxq53H6P">https://t.co/fSyxq53H6P</a>
                                                                     </span>
                                                                     <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
                                                                         <a class="gdlr-core-twitter-date" href="http://twitter.com/Envato/statuses/1030582660324892674" target="_blank"> 18 hours ago</a>
                                                                     </span>
                                                                     <blockquote class="twitter-tweet">
-                                                                        <p lang="en" dir="ltr">Sunsets don&#39;t get much better than this one over 
-                                                                            <a href="https://twitter.com/GrandTetonNPS?ref_src=twsrc%5Etfw">@GrandTetonNPS</a>. 
-                                                                            <a href="https://twitter.com/hashtag/nature?src=hash&amp;ref_src=twsrc%5Etfw">#nature</a> 
-                                                                            <a href="https://twitter.com/hashtag/sunset?src=hash&amp;ref_src=twsrc%5Etfw">#sunset</a> 
-                                                                            <a href="http://t.co/YuKy2rcjyU">pic.twitter.com/YuKy2rcjyU</a></p>&mdash; US Department of the Interior (@Interior) 
+                                                                        <p lang="en" dir="ltr">Sunsets don&#39;t get much better than this one over
+                                                                            <a href="https://twitter.com/GrandTetonNPS?ref_src=twsrc%5Etfw">@GrandTetonNPS</a>.
+                                                                            <a href="https://twitter.com/hashtag/nature?src=hash&amp;ref_src=twsrc%5Etfw">#nature</a>
+                                                                            <a href="https://twitter.com/hashtag/sunset?src=hash&amp;ref_src=twsrc%5Etfw">#sunset</a>
+                                                                            <a href="http://t.co/YuKy2rcjyU">pic.twitter.com/YuKy2rcjyU</a></p>&mdash; US Department of the Interior (@Interior)
                                                                             <a href="https://twitter.com/Interior/status/463440424141459456?ref_src=twsrc%5Etfw">May 5, 2014</a>
-                                                                        </blockquote> 
+                                                                        </blockquote>
                                                                         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
-                                                                        </script> 
+                                                                        </script>
                                                                 </div>
                                                             </li>
                                                             <li class="gdlr-core-item-mglr">
                                                                 <div class="gdlr-core-twitter-item-list">
-                                                                    <span class="gdlr-core-twitter-item-list-content">RT 
-                                                                        <a href="http://www.twitter.com/placeitapp">@placeitapp</a>: Making a 
-                                                                        <a target="_blank" href="http://twitter.com/search?q=YouTube">#YouTube</a> banner for your channel is easy with Placeit&#8217;s 
-                                                                        <a target="_blank" href="http://twitter.com/search?q=bannermaker!">#bannermaker!</a> Make your own in sec… 
+                                                                    <span class="gdlr-core-twitter-item-list-content">RT
+                                                                        <a href="http://www.twitter.com/placeitapp">@placeitapp</a>: Making a
+                                                                        <a target="_blank" href="http://twitter.com/search?q=YouTube">#YouTube</a> banner for your channel is easy with Placeit&#8217;s
+                                                                        <a target="_blank" href="http://twitter.com/search?q=bannermaker!">#bannermaker!</a> Make your own in sec…
                                                                         <a target="_blank" href="https://t.co/0X22tX3wtm">https://t.co/0X22tX3wtm</a>
                                                                     </span>
                                                                     <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
@@ -529,11 +530,11 @@
                                                             </li>
                                                             <li class="gdlr-core-item-mglr">
                                                                 <div class="gdlr-core-twitter-item-list">
-                                                                    <span class="gdlr-core-twitter-item-list-content">Our Chief People Officer 
-                                                                        <a href="http://www.twitter.com/MRidsdale16">@MRidsdale16</a> joined 
-                                                                        <a href="http://www.twitter.com/benjaminlaw">@benjaminlaw</a>  and 
-                                                                        <a href="http://www.twitter.com/raejohnston">@raejohnston</a> on 
-                                                                        <a href="http://www.twitter.com/tsushow">@tsushow</a> to discuss all things Cultu… 
+                                                                    <span class="gdlr-core-twitter-item-list-content">Our Chief People Officer
+                                                                        <a href="http://www.twitter.com/MRidsdale16">@MRidsdale16</a> joined
+                                                                        <a href="http://www.twitter.com/benjaminlaw">@benjaminlaw</a>  and
+                                                                        <a href="http://www.twitter.com/raejohnston">@raejohnston</a> on
+                                                                        <a href="http://www.twitter.com/tsushow">@tsushow</a> to discuss all things Cultu…
                                                                         <a target="_blank" href="https://t.co/uszxz0qicU">https://t.co/uszxz0qicU</a>
                                                                     </span>
                                                                     <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
@@ -606,7 +607,7 @@
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
                     <div class="gdlr-core-pbf-element">
                         <div class="gdlr-core-tab-item gdlr-core-js gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-tab-style1-horizontal gdlr-core-item-pdlr">
-                            
+
                             <div class="gdlr-core-tab-item-content-image-wrap clearfix">
                                 <div class="gdlr-core-tab-item-image  gdlr-core-active" data-tab-id="1">
                                     <a class="gdlr-core-lightgallery gdlr-core-js " href="#">
@@ -680,7 +681,7 @@
                 </div>
             </div>
         </div>
-        
+
         <div class="gdlr-core-pbf-wrapper "  id="gdlr-core-wrapper-3">
             <div class="gdlr-core-pbf-background-wrap"></div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
@@ -741,7 +742,7 @@
             <div class="gdlr-core-pbf-background-wrap"></div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                    
+
                     <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first">
                         <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
@@ -757,7 +758,7 @@
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
                                             <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_31">Cultural Gala</h3>
                                         </div>
-                                        <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_8">The Campaign for the ku University is the 
+                                        <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_8">The Campaign for the ku University is the
                                             <strong>largest fundraising campaign in history.</strong> With a historic $1 billion goal, the campaign is expanding U of T’s global leadership capacity.
                                         </span>
                                     </div>
@@ -777,7 +778,7 @@
                     <div class="gdlr-core-pbf-column gdlr-core-column-20">
                         <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " id="div_1dd7_93">
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                
+
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-event-item gdlr-core-item-pdb" id="div_1dd7_94">
                                         <div class="gdlr-core-block-item-title-wrap  gdlr-core-left-align gdlr-core-item-mglr" id="div_1dd7_95">
