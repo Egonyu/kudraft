@@ -36,11 +36,6 @@ class KuPagesController extends Controller
         return view('pages.campuses');
     }
 
-    public function contact()
-    {
-        return view('pages.contact');
-    }
-
     public function council()
     {
         return view('pages.council');
