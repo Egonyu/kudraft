@@ -183,7 +183,7 @@
 
                             <div style="overflow:hidden;width: 100%;position: relative;">
                                 
-                                <iframe style="width:100%; height:480px; " src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d19905.696399556287!2d-0.3007084089960577!3d51.417531259591925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s2334+Peterson+Street+Kingston+UK+London+H14D!5e0!3m2!1sen!2s!4v1546697086219" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                <iframe style="width:100%; height:480px; " src="https://maps.google.com/maps?q=kampala%20university&t=&z=15&ie=UTF8&iwloc=&output=embed" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                                 <div style="position: absolute;width: 80%;bottom: 20px;left: 0;right: 0;margin-left: auto;margin-right: auto;color: #000;">
 
                                 </div>
