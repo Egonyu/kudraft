@@ -10,4 +10,17 @@ class MailController extends Controller
     {
         return view('pages.contact');
     }
+
+    public function sendmail(Request $get)
+    {
+        $this->Validate($get, [
+            'name' => 'required',
+            'email' => 'required|email',
+            'message' => 'required'
+        ]);
+
+        $name = $get->name;
+        $email = $get->email;
+        $message = $get->message;
+    }
 }

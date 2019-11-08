@@ -69,3 +69,4 @@ Route::get('pagenotfound', ['as' => 'pagenotfound', 'uses' => 'ErrorController@p
 
 // Mail controller route for contact page
 Route::get('contact', 'MailController@contact')->name('contact');
+Route::post('send/email', 'MailController@sendmail');
