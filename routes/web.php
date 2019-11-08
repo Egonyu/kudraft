@@ -15,7 +15,6 @@ Route::get('/', 'KuPagesController@home')->name('home');
 Route::get('about', 'KuPagesController@about')->name('about');
 Route::get('research', 'KuPagesController@research')->name('research');
 Route::get('library', 'KuPagesController@library')->name('library');
-Route::get('contact', 'KuPagesController@contact')->name('contact');
 Route::get('council', 'KuPagesController@council')->name('council');
 Route::get('sports', 'KuPagesController@sports')->name('sports');
 Route::get('apply', 'KuPagesController@apply')->name('apply');
@@ -66,3 +65,7 @@ Route::get('educationPostGrad', 'PostGradCoursesController@educationPostGrad')->
 
 // error messages routes
 Route::get('pagenotfound', ['as' => 'pagenotfound', 'uses' => 'ErrorController@pagenotfound']);
+
+
+// Mail controller route for contact page
+Route::get('contact', 'MailController@contact')->name('contact');
