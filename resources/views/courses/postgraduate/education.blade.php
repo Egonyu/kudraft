@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @section('content')
-<div class="ku-page-title-wrap  ku-style-custom ku-left-align" id="div_983a_0">
+<div class="ku-page-title-wrap  ku-style-custom ku-left-align" id="div_983a_0_educationPostGrad">
     <div class="ku-header-transparent-substitute"></div>
     <div class="ku-page-title-overlay"></div>
     <div class="ku-page-title-bottom-gradient"></div>

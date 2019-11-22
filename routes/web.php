@@ -15,7 +15,6 @@ Route::get('/', 'KuPagesController@home')->name('home');
 Route::get('about', 'KuPagesController@about')->name('about');
 Route::get('research', 'KuPagesController@research')->name('research');
 Route::get('library', 'KuPagesController@library')->name('library');
-Route::get('contact', 'KuPagesController@contact')->name('contact');
 Route::get('council', 'KuPagesController@council')->name('council');
 Route::get('sports', 'KuPagesController@sports')->name('sports');
 Route::get('apply', 'KuPagesController@apply')->name('apply');
@@ -29,6 +28,8 @@ Route::get('uni-life', 'KuPagesController@uniLife')->name('uni-life');
 Route::get('cisco', 'KuPagesController@cisco')->name('cisco');
 Route::get('alumni', 'KuPagesController@alumni')->name('alumni');
 Route::get('quality-assurance', 'KuPagesController@qualityAssurance')->name('quality-assurance');
+Route::get('admissions', 'KuPagesController@admission')->name('admissions');
+
 
 // routes for udergraduates course
 Route::get('csit', 'CoursesController@csit')->name('csit');
@@ -62,3 +63,10 @@ Route::get('public-health', 'PostGradCoursesController@publicHealth')->name('pub
 Route::get('csitPostGrad', 'PostGradCoursesController@csitPost')->name('csitPostGrad');
 Route::get('educationPostGrad', 'PostGradCoursesController@educationPostGrad')->name('educationPostGrad');
 
+// error messages routes
+Route::get('pagenotfound', ['as' => 'pagenotfound', 'uses' => 'ErrorController@pagenotfound']);
+
+
+// Mail controller route for contact page
+Route::get('contact', 'MailController@contact')->name('contact');
+Route::post('send/email', 'MailController@sendmail');

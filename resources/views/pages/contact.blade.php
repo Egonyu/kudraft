@@ -5,7 +5,7 @@
     <div class="gdlr-core-page-builder-body">
         <div class="gdlr-core-pbf-wrapper " style="padding: 250px 0px 160px 0px;">
             <div class="gdlr-core-pbf-background-wrap">
-                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(upload/image-bg-1.jpg) ;background-size: cover ;background-position: center ;" data-parallax-speed="0.3"></div>
+                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(images/pageImages/17969.jpg) ;background-size: cover ;background-position: center ;" data-parallax-speed="0.3"></div>
             </div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js " data-gdlr-animation="fadeInUp" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
@@ -122,14 +122,17 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr" style="padding-bottom: 60px ;">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 39px ;">Leave us your info</h3></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 19px ;font-style: normal ;text-transform: uppercase ;">and we will get back to you.</span></div>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 39px ;">Leave us your info</h3>
+                                        </div>
+                                        <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 19px ;font-style: normal ;text-transform: uppercase ;">and we will get back to you.</span>
+                                    </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-contact-form-7-item gdlr-core-item-pdlr gdlr-core-item-pdb ">
                                         <div role="form" class="wpcf7" id="wpcf7-f1979-p1964-o1" lang="en-US" dir="ltr">
                                             <div class="screen-reader-response"></div>
-                                            <form class="quform" action="plugins/quform/process.php" method="post" enctype="multipart/form-data" onclick="">
-
+                                            <form class="quform" action="{{ url('send/email') }}" method="post" enctype="multipart/form-data" onclick="">
+                                                @csrf
                                                 <div class="quform-elements">
                                                     <div class="quform-element">
                                                         <p>Your Name (required)
@@ -183,7 +186,7 @@
 
                             <div style="overflow:hidden;width: 100%;position: relative;">
                                 
-                                <iframe style="width:100%; height:480px; " src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d19905.696399556287!2d-0.3007084089960577!3d51.417531259591925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s2334+Peterson+Street+Kingston+UK+London+H14D!5e0!3m2!1sen!2s!4v1546697086219" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                <iframe style="width:100%; height:480px; " src="https://maps.google.com/maps?q=kampala%20university&t=&z=15&ie=UTF8&iwloc=&output=embed" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                                 <div style="position: absolute;width: 80%;bottom: 20px;left: 0;right: 0;margin-left: auto;margin-right: auto;color: #000;">
 
                                 </div>

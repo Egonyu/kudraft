@@ -1,11 +1,11 @@
-@extends('layouts.master')
+ @extends('layouts.master')
 
 @section('content')
 <div class="kingster-page-wrapper" id="kingster-page-wrapper">
     <div class="gdlr-core-page-builder-body">
         <div class="gdlr-core-pbf-wrapper " style="padding: 600px 0px 60px 0px;" id="gdlr-core-wrapper-1">
             <div class="gdlr-core-pbf-background-wrap">
-                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(upload/shutterstock_628998404.jpg) ;background-size: cover ;background-position: center ;" data-parallax-speed="0"></div>
+                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(images/slider/queen-prof.JPG) ;background-size: cover ;background-position: center ;" data-parallax-speed="0"></div>
             </div>
             <div class="gdlr-core-page-builder-wrapper-bottom-gradient" style="height: 413px ;background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 100));-moz-background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 100));-o-background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 100));-webkit-background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 100));"></div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">

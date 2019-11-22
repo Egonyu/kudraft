@@ -6,6 +6,11 @@ use Illuminate\Http\Request;
 
 class KuPagesController extends Controller
 {
+    public function admission()
+    {
+        return view('pages.admissions');
+    }
+
     public function about()
     {
         return view('pages.about');
@@ -29,11 +34,6 @@ class KuPagesController extends Controller
     public function campuses()
     {
         return view('pages.campuses');
-    }
-
-    public function contact()
-    {
-        return view('pages.contact');
     }
 
     public function council()
