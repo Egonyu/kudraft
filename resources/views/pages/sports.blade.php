@@ -242,25 +242,13 @@
                 </div>
                 <div class="gdlr-core-pbf-sidebar-right gdlr-core-column-extend-right  kingster-sidebar-area gdlr-core-column-20 gdlr-core-pbf-sidebar-padding  gdlr-core-line-height" style="padding: 30px 0px 30px 0px;">
                     <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
-                        <div id="text-15" class="widget widget_text kingster-widget">
-                            <div class="textwidget"><a class="gdlr-core-button gdlr-core-button-shortcode  gdlr-core-button-gradient gdlr-core-button-no-border gdlr-core-button-full-width" href="#" target="_blank" style="font-size: 17px ;font-weight: 700 ;padding: 22px 50px 24px;text-transform: none ;margin-right: 20px;border-radius: 0px;-moz-border-radius: 0px;-webkit-border-radius: 0px;"><span class="gdlr-core-content" >Become A Donor</span><i class="gdlr-core-pos-right arrow_right"  ></i></a> <span class="gdlr-core-space-shortcode" style="margin-top: 30px ;"></span>
-                                <div id="gdlr-core-video-widget-2" class="widget widget_gdlr-core-video-widget kingster-widget">
-                                    <h3 class="kingster-widget-title">Video Presentation</h3><span class="clear"></span>
-                                    <div class="gdlr-core-video-widget gdlr-core-media-image">
-                                        <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg"><img src="upload/shutterstock_516640027-400x257.jpg" width="700" height="450"  alt="" /><i class="fa fa-play"></i></a>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                        <hr>
                         <div class="gdlr-core-widget-box-shortcode " style="color: #ffffff ;padding: 30px 45px;background-color: #2ea025 ;">
                             <div class="gdlr-core-widget-box-shortcode-content">
                                 </p>
-                                <h3 style="font-size: 20px; color: #fff; margin-bottom: 15px;">Department Contact Info</h3>
-                                <p><span style="color: #3db166; font-size: 16px; font-weight: 600;">Office Of Development</span>
-                                    <br /> <span style="font-size: 15px;"><br /> 1810 Campus Way NE<br /> Bothell, WA 98011-8246</span></p>
-                                <p><span style="font-size: 15px;">+1-2345-5432-45<br /> bsba@kuuniver.edu<br /> </span></p>
+                                <h3 style="font-size: 20px; color: #fff; margin-bottom: 15px;">Contact Mr. Vincent</h3>
+                                <p><span style="color: #3db166; font-size: 16px; font-weight: 600;">Sport Department Head</span>
+                                    <br /> <span style="font-size: 15px;"><br /> Tumusiime Vincent<br /> cysprogramme@gmail.com</span></p>
+                                <p><span style="font-size: 15px;">+256-775942056 704792130<br /> 704792130<br /> </span></p>
                                 <p><span style="font-size: 16px; color: #3db166;">Mon &#8211; Fri 9:00A.M. &#8211; 5:00P.M.</span></p> <span class="gdlr-core-space-shortcode" style="margin-top: 40px ;"></span>
                                 <h3 style="font-size: 20px; color: #fff; margin-bottom: 15px;">Social Info</h3>
                                 <div class="gdlr-core-social-network-item gdlr-core-item-pdb  gdlr-core-none-align" style="padding-bottom: 0px ;"><a href="#url" target="_blank" class="gdlr-core-social-network-icon" title="facebook" style="color: #3db166 ;"><i class="fa fa-facebook" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="google-plus" style="color: #3db166 ;"><i class="fa fa-google-plus" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="linkedin" style="color: #3db166 ;"><i class="fa fa-linkedin" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="skype" style="color: #3db166 ;"><i class="fa fa-skype" ></i></a><a href="#url" target="_blank" class="gdlr-core-social-network-icon" title="twitter" style="color: #3db166 ;"><i class="fa fa-twitter" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="instagram" style="color: #3db166 ;"><i class="fa fa-instagram" ></i></a></div>

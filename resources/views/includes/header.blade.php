@@ -17,6 +17,7 @@
                                 <li class="menu-item" data-size="60"><a href=" {{ route('about') }} ">About US</a></li>
                                 <li class="menu-item" data-size="60"><a href=" {{ route('alumni') }} ">Alumni</a></li>
                                 <li class="menu-item" data-size="60"><a href=" {{ route('sports') }} ">Sports</a></li>
+                                <li class="menu-item ku-normal-menu"><a href="{{ route('uni-life') }}">University Life</a></li>
                             </ul>
                         </li>
                         <li class="menu-item menu-item-has-children ku-mega-menu"><a href="bachelor-of-science-in-business-administration.html" class="sf-with-ul-pre">Academics</a>
@@ -82,11 +83,10 @@
                                 <li class="menu-item" data-size="60"><a href=" {{ route('kitengela') }} ">East African University Campus</a></li>
                             </ul>
                         </li>
-                        <li class="menu-item menu-item-has-children ku-normal-menu"><a href="#" class="sf-with-ul-pre">Courses</a></li>
-                        <li class="menu-item ku-normal-menu"><a href="{{ route('contact') }}">Contact Us</a></li>
-                        <li class="menu-item ku-normal-menu"><a href="{{ route('uni-life') }}">University Life</a></li>
+
                         <li class="menu-item menu-item-has-children ku-normal-menu"><a href="{{ route('research') }}" class="sf-with-ul-pre">Research</a></li>
-                        
+                        <li class="menu-item ku-normal-menu"><a href="{{ route('contact') }}">Contact Us</a></li>
+
                     </ul>
                     <div class="ku-navigation-slide-bar" id="ku-navigation-slide-bar"></div>
                 </div>

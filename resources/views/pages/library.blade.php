@@ -1,25 +1,10 @@
 @extends('layouts.master')
 
 @section('content')
-<div class="kingster-page-title-wrap  kingster-style-custom kingster-left-align" style="background-image: url(upload/shutterstock_59887279.jpg) ;">
+<div class="kingster-page-title-wrap  kingster-style-custom kingster-left-align" style="background-image: url({{ asset('images/slider/sports-taekwondo.JPG') }}) ;">
     <div class="kingster-header-transparent-substitute"></div>
     <div class="kingster-page-title-overlay"></div>
     <div class="kingster-page-title-bottom-gradient"></div>
-    <div class="kingster-page-title-container kingster-container">
-        <div class="kingster-page-title-content kingster-item-pdlr" style="padding-top: 400px ;padding-bottom: 60px ;">
-            <div class="kingster-page-caption" style="font-size: 21px ;font-weight: 400 ;letter-spacing: 0px ;">Undergraduate Program</div>
-            <h1 class="kingster-page-title" style="font-size: 48px ;font-weight: 700 ;text-transform: none ;letter-spacing: 0px ;color: #ffffff ;">Bachelor Of Science in Business Administration</h1></div>
-    </div>
-</div>
-<div class="kingster-breadcrumbs">
-    <div class="kingster-breadcrumbs-container kingster-container">
-        <div class="kingster-breadcrumbs-item kingster-item-pdlr"> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Kingster." href="index.html" class="home"><span property="name">Home</span></a>
-            <meta property="position" content="1">
-            </span>&gt;<span property="itemListElement" typeof="ListItem"><span property="name">Bachelor Of Science in Business Administration</span>
-            <meta property="position" content="2">
-            </span>
-        </div>
-    </div>
 </div>
 <div class="kingster-page-wrapper" id="kingster-page-wrapper">
     <div class="gdlr-core-page-builder-body">
@@ -30,108 +15,99 @@
                         <div class="gdlr-core-pbf-element">
                             <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
                                 <div class="gdlr-core-title-item-title-wrap clearfix">
-                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 27px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;">Outstanding Academics essential business experience</h3></div>
+                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 27px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;">About the Library</h3></div>
                             </div>
                         </div>
                         <div class="gdlr-core-pbf-element">
                             <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                 <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;text-transform: none ;">
-                                    <p>The Academic offers include 14 majors, 15 minors, and more than 100 in major specializations so your degree will surely reflect your interests and strengths.</p>
-                                    <p>Not only does Kingster University provide you the practical skills that is necessary to transition seamlessly into the workforce upon your graduation, but we also make sure that you will have a good sense of social justice so that you make the transition responsibly.</p>
+                                    <p>At the ground floor of the university building is the main library comprising of one section, which is situated at Kampala University main Campus Ggaba.</p>
+                                    <p>It has a seating capacity of One hundred users, over 32,000 print volumes, over 500 journal titles, and over 900 dissertations. It has 20 computers all linked to the Internet. The Wireless Internet coverage is also available in the Library, enabling students and staff with wireless devices to access the internet while in the Library.</p>
+                                    <p>Kampala University has four other branches and they all have libraries. We have a branch at mutundwe nursing school,
+                                    Masaka branch, Jinja branch and Luweero branch. Kampala University is affiliated with The East African University, a Kenyan
+                                    Institution, whose Campus is located in Kitengela, Kajiado District, Rift Valley Province, approximately 40 kilometres (25 miles),
+                                    by road, southeast of Nairobi, the Capital of Kenya, and the largest City in that country. Professor Badru Kateregga, the Vice Chancellor of
+                                    Kampala University, also serves as the Chairman of the Board of Trustees of TEAU. All campuses are connected to the centralised E-resources located at the main campus in relation to hardcopies.</p>
                                 </div>
                             </div>
                         </div>
-                        <div class="gdlr-core-pbf-element">
-                            <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 40px ;">
-                                <div class="gdlr-core-title-item-title-wrap clearfix">
-                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 22px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;color: #223d71 ;margin-right: 30px ;">Majors</h3>
-                                    <div class="gdlr-core-title-item-divider gdlr-core-right gdlr-core-skin-divider" style="font-size: 22px ;border-bottom-width: 3px ;"></div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px -7px 0px 0px;">
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                        <div class="gdlr-core-pbf-wrapper " style="padding: 95px 0px 45px 0px;">
+                            <div class="gdlr-core-pbf-background-wrap"></div>
+                            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+                                <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
                                     <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-feature-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align">
-                                            <div class="gdlr-core-feature-box gdlr-core-js gdlr-core-feature-box-type-outer" style="background-color: #3db166 ;border-width: 0px 0px 0px 0px;border-radius: 3px;-moz-border-radius: 3px;-webkit-border-radius: 3px;">
-                                                <div class="gdlr-core-feature-box-background" style="background-image: url(upload/shutterstock_209187682.jpg) ;opacity: 0.14 ;"></div>
-                                                <div class="gdlr-core-feature-box-content gdlr-core-sync-height-content">
-                                                    <h3 class="gdlr-core-feature-box-item-title" style="font-size: 16px ;font-weight: 600 ;">Accounting</h3></div>
-                                                <a class="gdlr-core-feature-box-link" href="accounting/index.html" target="_self"></a>
+                                        <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 35px ;">
+                                            <div class="gdlr-core-title-item-title-wrap clearfix">
+                                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 27px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;">Vision</h3></div>
+                                        </div>
+                                    </div>
+                                    <div class="gdlr-core-pbf-column gdlr-core-column-40 gdlr-core-column-first">
+                                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                                <div class="gdlr-core-pbf-element">
+                                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 5px ;">
+                                                        <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
+                                                            <p>To become the referral centre in the provision of Information and knowledge in the Region and the World.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-column gdlr-core-column-20">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px -3px 0px -3px;">
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                     <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-feature-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align">
-                                            <div class="gdlr-core-feature-box gdlr-core-js gdlr-core-feature-box-type-outer" style="background-color: #3db166 ;border-width: 0px 0px 0px 0px;border-radius: 3px;-moz-border-radius: 3px;-webkit-border-radius: 3px;">
-                                                <div class="gdlr-core-feature-box-background" style="background-image: url(upload/major-bg-2.jpg) ;opacity: 0.14 ;"></div>
-                                                <div class="gdlr-core-feature-box-content gdlr-core-sync-height-content">
-                                                    <h3 class="gdlr-core-feature-box-item-title" style="font-size: 16px ;font-weight: 600 ;">Finance</h3></div>
-                                                <a class="gdlr-core-feature-box-link" href="finance/index.html" target="_self"></a>
+                                        <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 35px ;">
+                                            <div class="gdlr-core-title-item-title-wrap clearfix">
+                                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 27px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;">Mission</h3></div>
+                                        </div>
+                                    </div>
+                                    <div class="gdlr-core-pbf-column gdlr-core-column-40 gdlr-core-column-first">
+                                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                                <div class="gdlr-core-pbf-element">
+                                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 5px ;">
+                                                        <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
+                                                            <p>To support the Educational objectives of the University through provision of resources both print and non print and disseminating them to academic staff, researchers, students body and the surrounding community.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-column gdlr-core-column-20">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 0px 0px -7px;padding: 0px 0px 45px 0px;">
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                     <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-feature-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align">
-                                            <div class="gdlr-core-feature-box gdlr-core-js gdlr-core-feature-box-type-outer" style="background-color: #3db166 ;border-width: 0px 0px 0px 0px;border-radius: 3px;-moz-border-radius: 3px;-webkit-border-radius: 3px;">
-                                                <div class="gdlr-core-feature-box-background" style="background-image: url(upload/support-image-3.jpg) ;opacity: 0.14 ;"></div>
-                                                <div class="gdlr-core-feature-box-content gdlr-core-sync-height-content">
-                                                    <h3 class="gdlr-core-feature-box-item-title" style="font-size: 16px ;font-weight: 600 ;">Marketing</h3></div>
-                                                <a class="gdlr-core-feature-box-link" href="#" target="_self"></a>
+                                        <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 35px ;">
+                                            <div class="gdlr-core-title-item-title-wrap clearfix">
+                                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 27px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;">Objectives</h3></div>
+                                        </div>
+                                    </div>
+                                    <div class="gdlr-core-pbf-column gdlr-core-column-40 gdlr-core-column-first">
+                                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                                <div class="gdlr-core-pbf-element">
+                                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 5px ;">
+                                                        <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
+                                                            <p>The university library aims at achieving its mission of providing information resources in support of the teaching, research and community endeavors of the university by striving to achieve the following objectives.</p>
+                                                            <ol>
+                                                                <li>Selecting and acquiring up to date information resources in all formats that are relevant to the information needs of the university.</li>
+                                                                <li>Organizing the collection using internally acceptable standards to allow easy retrieval.</li>
+                                                                <li>Adopting information dissemination strategies-current awareness services and selective dissemination of information to ensure optimum exploitation of the resources of the library.</li>
+                                                                <li>Building the information literacy and skills of its users continuously by conducting proper user education and instruction through variety of methods in order to provide guidance to the library users.</li>
+                                                                <li>Recruiting, developing and retaining well qualified, experienced and dedicated professional library staff in the area of library and information sciences who will offer high quality services to the users of the library.</li>
+                                                                <li>Adopting technologies that will make information resources accessible to the university community in an efficient and effective manner.</li>
+                                                                <li>Formulating sound library policy that will act as a guide to achievements of the library’s mission/vision.</li>
+                                                            </ol>
+                                                        </div>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
+                                    <div class="gdlr-core-pbf-element">
+                                        <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 35px ;">
+                                            <div class="gdlr-core-title-item-title-wrap clearfix">
+                                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 27px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;">Library Rules and Regulations</h3></div>
+                                        </div>
+                                    </div>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-element">
-                            <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 15px ;">
-                                <div class="gdlr-core-text-box-item-content" style="font-size: 21px ;text-transform: none ;color: #3db166 ;">
-                                    <p>If you&#8217;re an educational professional who are looking to progress into management and consultancy, or an educational planning or development role, this is the best degree for you.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-element">
-                            <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-center-align">
-                                <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #3db166 ;border-bottom-width: 3px ;"></div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-element">
-                            <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
-                                <div class="gdlr-core-text-box-item-content" style="font-size: 17px ;text-transform: none ;">
-                                    <p>Provided by the KU Institute of Education, this programme is available by distance learning, allowing you to study flexibly while balancing work and personal lifes. The MSc Finance (EG. Banking) deepens your understanding of banks and financial markets, and how they relate to performance. It will help you to advance your career in finance and policy.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-element">
-                            <div class="gdlr-core-icon-list-item gdlr-core-item-pdlr gdlr-core-item-pdb clearfix " style="padding-bottom: 25px ;">
-                                <ul>
-                                    <li class=" gdlr-core-skin-divider" style="margin-bottom: 18px ;"><span class="gdlr-core-icon-list-icon-wrap" style="margin-top: 5px ;"><i class="gdlr-core-icon-list-icon fa fa-dot-circle-o" style="color: #192f59 ;font-size: 18px ;width: 18px ;" ></i></span>
-                                        <div class="gdlr-core-icon-list-content-wrap"><span class="gdlr-core-icon-list-content" style="font-size: 18px ;">Banking</span></div>
-                                    </li>
-                                    <li class=" gdlr-core-skin-divider" style="margin-bottom: 18px ;"><span class="gdlr-core-icon-list-icon-wrap" style="margin-top: 5px ;"><i class="gdlr-core-icon-list-icon fa fa-dot-circle-o" style="color: #192f59 ;font-size: 18px ;width: 18px ;" ></i></span>
-                                        <div class="gdlr-core-icon-list-content-wrap"><span class="gdlr-core-icon-list-content" style="font-size: 18px ;">Economic Policy</span></div>
-                                    </li>
-                                    <li class=" gdlr-core-skin-divider" style="margin-bottom: 18px ;"><span class="gdlr-core-icon-list-icon-wrap" style="margin-top: 5px ;"><i class="gdlr-core-icon-list-icon fa fa-dot-circle-o" style="color: #192f59 ;font-size: 18px ;width: 18px ;" ></i></span>
-                                        <div class="gdlr-core-icon-list-content-wrap"><span class="gdlr-core-icon-list-content" style="font-size: 18px ;">Financial Sector Management</span></div>
-                                    </li>
-                                    <li class=" gdlr-core-skin-divider" style="margin-bottom: 18px ;"><span class="gdlr-core-icon-list-icon-wrap" style="margin-top: 5px ;"><i class="gdlr-core-icon-list-icon fa fa-dot-circle-o" style="color: #192f59 ;font-size: 18px ;width: 18px ;" ></i></span>
-                                        <div class="gdlr-core-icon-list-content-wrap"><span class="gdlr-core-icon-list-content" style="font-size: 18px ;">Quantitative Finance</span></div>
-                                    </li>
-                                </ul>
                             </div>
                         </div>
                     </div>
@@ -143,114 +119,38 @@
                                 <div class="gdlr-core-widget-box-shortcode " style="color: #ffffff ;padding: 30px 45px;background-color: #192f59 ;">
                                     <div class="gdlr-core-widget-box-shortcode-content">
                                         </p>
-                                        <h3 style="font-size: 20px; color: #fff; margin-bottom: 25px;">Department Contact Info</h3>
-                                        <p><span style="color: #3db166; font-size: 16px; font-weight: 600;">Bachelor Of Science in Business Administration</span>
-                                            <br /> <span style="font-size: 15px;"><br /> 1810 Campus Way NE<br /> Bothell, WA 98011-8246</span></p>
-                                        <p><span style="font-size: 15px;">+1-2345-5432-45<br /> bsba@kuuniver.edu<br /> </span></p>
-                                        <p><span style="font-size: 16px; color: #3db166;">Mon &#8211; Fri 9:00A.M. &#8211; 5:00P.M.</span></p> <span class="gdlr-core-space-shortcode" style="margin-top: 40px ;"></span>
-                                        <h3 style="font-size: 20px; color: #fff; margin-bottom: 15px;">Social Info</h3>
-                                        <div class="gdlr-core-social-network-item gdlr-core-item-pdb  gdlr-core-none-align" style="padding-bottom: 0px ;"><a href="#url" target="_blank" class="gdlr-core-social-network-icon" title="facebook" style="color: #3db166 ;"><i class="fa fa-facebook" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="google-plus" style="color: #3db166 ;"><i class="fa fa-google-plus" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="linkedin" style="color: #3db166 ;"><i class="fa fa-linkedin" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="skype" style="color: #3db166 ;"><i class="fa fa-skype" ></i></a><a href="#url" target="_blank" class="gdlr-core-social-network-icon" title="twitter" style="color: #3db166 ;"><i class="fa fa-twitter" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="instagram" style="color: #3db166 ;"><i class="fa fa-instagram" ></i></a></div> <span class="gdlr-core-space-shortcode" style="margin-top: 40px ;"></span> <a class="gdlr-core-button gdlr-core-button-shortcode  gdlr-core-button-gradient gdlr-core-button-no-border" href="#" style="padding: 16px 27px 18px;margin-right: 20px;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;"><span class="gdlr-core-content" >Student Resources</span></a>
+                                        <h3 style="font-size: 20px; color: #fff; margin-bottom: 25px;">Kampala University Libraries</h3>
+                                        <p><span style="color: #3db166; font-size: 16px; font-weight: 600;">Well Stocked with Academic Books</span>
+                                         <p><span style="font-size: 16px; color: #3db166;">Mon &#8211; Fri 9:00A.M. &#8211; 5:00P.M.</span></p> <span class="gdlr-core-space-shortcode" style="margin-top: 40px ;"></span>
                                         <p>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                        <br>
+                        <hr>
+                        <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
+                            <div id="gdlr-core-custom-menu-widget-6" class="widget widget_gdlr-core-custom-menu-widget kingster-widget">
+                                <h3 class="kingster-widget-title">Useful Links</h3><span class="clear"></span>
+                                <div class="menu-finance-menu-container">
+                                    <ul id="menu-finance-menu" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-list">
+                                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5818"><a href="http://library.ku.ac.ug/">Online Resource Access</a></li>
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5822 current_page_item menu-item-5824"><a href="index.html">Admin Library Portal</a></li>
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5820"><a target="_blank" href="http://libhub.sempertool.dk/">Library Discovery Tool</a></li>
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="https://ebookcentral.proquest.com/auth/lib/cuul-ebooks/login.action?returnURL=https%3A%2F%2Febookcentral.proquest.com%2Flib%2Fcuul-ebooks%2Fhome.action%3FebraryDocId%3Dnull">Ebooks</a></li>
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="https://ebookcentral.proquest.com/auth/lib/cuul-ebooks/login.action?returnURL=https%3A%2F%2Febookcentral.proquest.com%2Flib%2Fcuul-ebooks%2Fhome.action%3FebraryDocId%3Dnull">RESEARCH 4LIFE</a></li>
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="http://login.research4life.org/">Ebooks</a></li>
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="http://www.acs.org/">Electronic Resources A-Z</a></li>
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="http://library.ku.ac.ug/">Online Books</a></li>
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="http://library.ku.ac.ug/">Online Books</a></li>
+                                    </ul>
+                                </div>
+                            </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="gdlr-core-pbf-wrapper " style="padding: 90px 0px 60px 0px;">
-            <div class="gdlr-core-pbf-background-wrap" style="background-color: #efefef ;"></div>
-            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                    <div class="gdlr-core-pbf-element">
-                        <div class="gdlr-core-tab-item gdlr-core-js gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-tab-style1-horizontal gdlr-core-item-pdlr">
-                            <div class="gdlr-core-tab-item-content-image-wrap clearfix">
-                                <div class="gdlr-core-tab-item-image  gdlr-core-active" data-tab-id="1"><a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg"><span class="gdlr-core-tab-item-image-background" style="background-image: url(upload/tab-1-1.jpg) ;"  ></span><i class="fa fa-play" ></i></a></div>
-                                <div class="gdlr-core-tab-item-image " data-tab-id="2"><a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg"><span class="gdlr-core-tab-item-image-background" style="background-image: url(upload/tab-2.jpg) ;"  ></span><i class="fa fa-play" ></i></a></div>
-                                <div class="gdlr-core-tab-item-image " data-tab-id="3"><a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg"><span class="gdlr-core-tab-item-image-background" style="background-image: url(upload/tab-3.jpg) ;"  ></span><i class="fa fa-play" ></i></a></div>
-                                <div class="gdlr-core-tab-item-image " data-tab-id="4"><a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg"><span class="gdlr-core-tab-item-image-background" style="background-image: url(upload/tab-4.jpg) ;"  ></span><i class="fa fa-play" ></i></a></div>
-                            </div>
-                            <div class="gdlr-core-tab-item-wrap">
-                                <div class="gdlr-core-tab-item-title-wrap clearfix gdlr-core-title-font">
-                                    <div class="gdlr-core-tab-item-title  gdlr-core-active" data-tab-id="1">Benefits</div>
-                                    <div class="gdlr-core-tab-item-title " data-tab-id="2">Self Development</div>
-                                    <div class="gdlr-core-tab-item-title " data-tab-id="3">Spirituality</div>
-                                    <div class="gdlr-core-tab-item-title " data-tab-id="4">Alumni</div>
-                                </div>
-                                <div class="gdlr-core-tab-item-content-wrap clearfix">
-                                    <div class="gdlr-core-tab-item-content  gdlr-core-active" data-tab-id="1" style="background-color: #ffffff ;background-image: url(upload/tab-bg.png) ;background-position: top right ;">
-                                        <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top">
-                                            <div class="gdlr-core-title-item-title-wrap ">
-                                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 22px ;font-weight: 700 ;text-transform: none ;color: #314e85 ;">Why Choose Kingster?<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
-                                        </div>
-                                        <p>The Kingster University Alumni Association is excited to announce the arrival of KU Alumni Connect. This is a new community building platform for Kinster’s alumni. It is the only place online where you can find, and connect with, all 90,000 Kingster’s alumni. All alumni are automatically enrolled!</p>
-                                        <p>Kingster University was established by John Smith in 1920 for the public benefit and it is recognized globally. Throughout our great history, Kingster has offered access to a wide range of academic opportunities. As a world leader in higher education, the University has pioneered change in the sector.</p>
-                                    </div>
-                                    <div class="gdlr-core-tab-item-content " data-tab-id="2" style="background-color: #ffffff ;background-image: url(upload/tab-bg.png) ;background-position: top right ;">
-                                        <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top">
-                                            <div class="gdlr-core-title-item-title-wrap ">
-                                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 22px ;font-weight: 700 ;text-transform: none ;color: #314e85 ;">Self Development<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
-                                        </div>
-                                        <p>The Kingster University Alumni Association is excited to announce the arrival of KU Alumni Connect. This is a new community building platform for Kinster’s alumni. It is the only place online where you can find, and connect with, all 90,000 Kingster’s alumni. All alumni are automatically enrolled!</p>
-                                        <p>Kingster University was established by John Smith in 1920 for the public benefit and it is recognized globally. Throughout our great history, Kingster has offered access to a wide range of academic opportunities. As a world leader in higher education, the University has pioneered change in the sector.</p>
-                                    </div>
-                                    <div class="gdlr-core-tab-item-content " data-tab-id="3" style="background-color: #ffffff ;background-image: url(upload/tab-bg.png) ;background-position: top right ;">
-                                        <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top">
-                                            <div class="gdlr-core-title-item-title-wrap ">
-                                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 22px ;font-weight: 700 ;text-transform: none ;color: #314e85 ;">Spirituality<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
-                                        </div>
-                                        <p>The Kingster University Alumni Association is excited to announce the arrival of KU Alumni Connect. This is a new community building platform for Kinster’s alumni. It is the only place online where you can find, and connect with, all 90,000 Kingster’s alumni. All alumni are automatically enrolled!</p>
-                                        <p>Kingster University was established by John Smith in 1920 for the public benefit and it is recognized globally. Throughout our great history, Kingster has offered access to a wide range of academic opportunities. As a world leader in higher education, the University has pioneered change in the sector.</p>
-                                    </div>
-                                    <div class="gdlr-core-tab-item-content " data-tab-id="4" style="background-color: #ffffff ;background-image: url(upload/tab-bg.png) ;background-position: top right ;">
-                                        <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top">
-                                            <div class="gdlr-core-title-item-title-wrap ">
-                                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 22px ;font-weight: 700 ;text-transform: none ;color: #314e85 ;">Alumni<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
-                                        </div>
-                                        <p>The Kingster University Alumni Association is excited to announce the arrival of KU Alumni Connect. This is a new community building platform for Kinster’s alumni. It is the only place online where you can find, and connect with, all 90,000 Kingster’s alumni. All alumni are automatically enrolled!</p>
-                                        <p>Kingster University was established by John Smith in 1920 for the public benefit and it is recognized globally. Throughout our great history, Kingster has offered access to a wide range of academic opportunities. As a world leader in higher education, the University has pioneered change in the sector.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="gdlr-core-pbf-wrapper " style="padding: 95px 0px 45px 0px;">
-            <div class="gdlr-core-pbf-background-wrap"></div>
-            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                    <div class="gdlr-core-pbf-element">
-                        <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 35px ;">
-                            <div class="gdlr-core-title-item-title-wrap clearfix">
-                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 27px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;">Why Study Here?</h3></div>
-                        </div>
-                    </div>
-                    <div class="gdlr-core-pbf-column gdlr-core-column-40 gdlr-core-column-first">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 5px ;">
-                                        <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                                            <p>The Academic offers include 14 majors, 15 minors, and more than 100 in major specializations so your degree will surely reflect your interests and strengths.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
-                                        <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                                            <p>Not only does Kingster University provide you the practical skills that is necessary to transition seamlessly into the workforce upon your graduation, but we also make sure that you will have a good sense of social justice so that you make the transition responsibly.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+{{--
         <div class="gdlr-core-pbf-wrapper " style="padding: 65px 0px 60px 0px;">
             <div class="gdlr-core-pbf-background-wrap" style="background-color: #192f59 ;"></div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
@@ -284,7 +184,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
     </div>
 </div>
 
