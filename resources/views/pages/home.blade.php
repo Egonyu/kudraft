@@ -234,7 +234,7 @@
                                             <div class="gdlr-core-column-service-title-wrap">
                                                 <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_7">Our Campuses</h3></div>
                                             <div class="gdlr-core-column-service-content" id="div_1dd7_37">
-                                                <p>Join one of our many campuses across East Africa TOday.</p> <a class="gdlr-core-column-service-read-more gdlr-core-info-font" href="{{ route('campuses') }}" id="a_1dd7_2">Learn More</a></div>
+                                                <p>Join one of our many campuses across East Africa Today.</p> <a class="gdlr-core-column-service-read-more gdlr-core-info-font" href="{{ route('campuses') }}" id="a_1dd7_2">Learn More</a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -880,13 +880,13 @@
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" id="div_1dd7_102">
-                                        <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_1dd7_103"><img src="upload/icon-envelope.png" alt="" width="78" height="60" title="icon-envelope" /></div>
+                                        <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_1dd7_103"><img src="{{ asset('images/pageImages/aitu-clear.png') }}" alt="" width="78" height="60" title="icon-envelope" /></div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr" id="div_1dd7_104">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_33">Subscribe To Newsletter</h3></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_9">Get updates to news & events</span></div>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_33">Academic Partnership with</h3></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_9">American International Theology University</span></div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-newsletter-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-style-rectangle-full">

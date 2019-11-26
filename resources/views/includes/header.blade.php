@@ -46,13 +46,13 @@
                                     </li>
                                     <li class="menu-item menu-item-has-children" data-size="15"><a href="#" class="sf-with-ul-pre">Resources</a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item"><a href="bachelor-of-science-in-business-administration.html">Our Courses</a></li>
-                                            <li class="menu-item"><a href="finance.html">Graduate Application</a></li>
-                                            <li class="menu-item"><a href="finance-faculty.html">Undergraduate Application</a></li>
-                                            <li class="menu-item"><a href="john-hagensy-phd.html">HESFB Loan Form</a></li>
-                                            <li class="menu-item"><a href="introduction-to-financial-accounting.html">General Circular 2018/2019</a></li>
-                                            <li class="menu-item"><a href="introduction-to-financial-accounting.html">August December Sports Activities</a></li>
-                                            <li class="menu-item"><a href="introduction-to-financial-accounting.html">2019 Graduation List</a></li>
+                                            <li class="menu-item"><a href="{{ asset('pdf/courses.pdf') }}" target="_blank">Our Courses</a></li>
+                                            <li class="menu-item"><a href="{{ asset('pdf/Graduate_application.pdf') }}" target="_blank">Graduate Application</a></li>
+                                            <li class="menu-item"><a href="{{ asset('Application_Undergraduate.pdf') }}" target="_blank">Undergraduate Application</a></li>
+                                            <li class="menu-item"><a href="{{ asset('pdf/STUDENTS-LOAN-APPLICATION-FORM-2019_20.pdf') }}" target="_blank">HESFB Loan Form</a></li>
+                                            <li class="menu-item"><a href="{{ asset('pdf/GENERAL-CIRCULAR-FEB_MAY-2019.pdf') }}" target="_blank">General Circular 2018/2019</a></li>
+                                            <li class="menu-item"><a href="{{ asset('pdf/Aug-Dec-Semester-Sports-Activities.pdf') }}" target="_blank">August December Sports Activities</a></li>
+                                            <li class="menu-item"><a href="{{ asset('pdf/LIST-OF-GRADUANDS-2019.pdf') }} " target="_blank">2019 Graduation List</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children" data-size="15"><a href="#" class="sf-with-ul-pre">Others</a>
