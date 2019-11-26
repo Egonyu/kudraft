@@ -497,48 +497,18 @@
                                                         <ul class="slides" id="ul_1dd7_0">
                                                             <li class="gdlr-core-item-mglr">
                                                                 <div class="gdlr-core-twitter-item-list">
-                                                                    <span class="gdlr-core-twitter-item-list-content">Shaking off the working week! What&#8217;s on the agenda for the weekend? by KonstantinKolosov via…
-                                                                        <a target="_blank" href="https://t.co/fSyxq53H6P">https://t.co/fSyxq53H6P</a>
-                                                                    </span>
-                                                                    <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
-                                                                        <a class="gdlr-core-twitter-date" href="http://twitter.com/Envato/statuses/1030582660324892674" target="_blank"> 18 hours ago</a>
-                                                                    </span>
-                                                                    <blockquote class="twitter-tweet">
-                                                                        <p lang="en" dir="ltr">Sunsets don&#39;t get much better than this one over
-                                                                            <a href="https://twitter.com/GrandTetonNPS?ref_src=twsrc%5Etfw">@GrandTetonNPS</a>.
-                                                                            <a href="https://twitter.com/hashtag/nature?src=hash&amp;ref_src=twsrc%5Etfw">#nature</a>
-                                                                            <a href="https://twitter.com/hashtag/sunset?src=hash&amp;ref_src=twsrc%5Etfw">#sunset</a>
-                                                                            <a href="http://t.co/YuKy2rcjyU">pic.twitter.com/YuKy2rcjyU</a></p>&mdash; US Department of the Interior (@Interior)
-                                                                            <a href="https://twitter.com/Interior/status/463440424141459456?ref_src=twsrc%5Etfw">May 5, 2014</a>
-                                                                        </blockquote>
-                                                                        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
-                                                                        </script>
-                                                                </div>
-                                                            </li>
-                                                            <li class="gdlr-core-item-mglr">
-                                                                <div class="gdlr-core-twitter-item-list">
                                                                     <span class="gdlr-core-twitter-item-list-content">RT
                                                                         <a href="http://www.twitter.com/placeitapp">@placeitapp</a>: Making a
                                                                         <a target="_blank" href="http://twitter.com/search?q=YouTube">#YouTube</a> banner for your channel is easy with Placeit&#8217;s
                                                                         <a target="_blank" href="http://twitter.com/search?q=bannermaker!">#bannermaker!</a> Make your own in sec…
                                                                         <a target="_blank" href="https://t.co/0X22tX3wtm">https://t.co/0X22tX3wtm</a>
                                                                     </span>
-                                                                    <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
-                                                                        <a class="gdlr-core-twitter-date" href="http://twitter.com/Envato/statuses/1030338474891792385" target="_blank"> yesterday</a>
-                                                                    </span>
+
                                                                 </div>
                                                             </li>
                                                             <li class="gdlr-core-item-mglr">
                                                                 <div class="gdlr-core-twitter-item-list">
                                                                     <span class="gdlr-core-twitter-item-list-content">Our Chief People Officer
-                                                                        <a href="http://www.twitter.com/MRidsdale16">@MRidsdale16</a> joined
-                                                                        <a href="http://www.twitter.com/benjaminlaw">@benjaminlaw</a>  and
-                                                                        <a href="http://www.twitter.com/raejohnston">@raejohnston</a> on
-                                                                        <a href="http://www.twitter.com/tsushow">@tsushow</a> to discuss all things Cultu…
-                                                                        <a target="_blank" href="https://t.co/uszxz0qicU">https://t.co/uszxz0qicU</a>
-                                                                    </span>
-                                                                    <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
-                                                                        <a class="gdlr-core-twitter-date" href="http://twitter.com/Envato/statuses/1029988653282541570" target="_blank"> 2 days ago</a>
                                                                     </span>
                                                                 </div>
                                                             </li>
