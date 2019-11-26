@@ -713,7 +713,7 @@ body .gdlr-core-flipbox-item .gdlr-core-flipbox-item-image {
 #i_1dd7_0{font-size: 18px ;color: #ffffff ;}
 #div_1dd7_30{padding: 75px 0px 40px 0px;}
 #div_1dd7_31{background-color: #1b2945 ;}
-#div_1dd7_31-homepage{background-color: #2ea025 ;}
+#div_1dd7_31-homepage{background-image: radial-gradient( circle farthest-corner at 10% 20%, #75a1c0 0%, #0ca066 90% );}
 #div_1dd7_32{padding-bottom: 30px;}
 #div_1dd7_33{margin-bottom: 35px;}
 #h3_1dd7_6{font-size: 21px ;font-weight: 700 ;text-transform: none ;}
@@ -745,7 +745,7 @@ body .gdlr-core-flipbox-item .gdlr-core-flipbox-item-image {
 #h3_1dd7_13{font-size: 16px ;font-weight: 700 ;letter-spacing: 0px ;}
 #h3_1dd7_14{font-size: 16px ;font-weight: 700 ;letter-spacing: 0px ;}
 #div_1dd7_48{padding: 90px 0px 0px 65px;}
-#div_1dd7_49{background-color:#2ea025; }
+#div_1dd7_49{background:linear-gradient(135deg, #b1ea4d 0%,#459522 100%); }
 /* #div_1dd7_49{background-image: url(../images/slider/computers.JPG) ;background-size: cover ;background-position: center ;} */
 #div_1dd7_50{padding-bottom: 40px ;}
 #div_1dd7_51{margin: 0px 15px 0px 0px;font-size: 20px ;}
@@ -815,7 +815,7 @@ body .gdlr-core-flipbox-item .gdlr-core-flipbox-item-image {
 #h3_1dd7_28{font-size: 18px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #ffffff ;}
 #span_1dd7_5{font-size: 15px ;font-style: normal ;color: #d4e1f8 ;}
 #div_1dd7_85{padding: 80px 50px 80px 50px;}
-#div_1dd7_86{background-color: #2ea025 ;}
+#div_1dd7_86{background-image: radial-gradient( circle farthest-corner at 10% 20%, #75a1c0 0%, #0ca066 90% );}
 #div_1dd7_87{padding-bottom: 0px ;}
 #h3_1dd7_29{font-size: 18px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #ffffff ;}
 #span_1dd7_6{font-size: 15px ;font-style: normal ;color: #d4e1f8 ;}

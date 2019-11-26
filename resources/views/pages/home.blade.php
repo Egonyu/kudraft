@@ -212,7 +212,7 @@
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" id="div_1dd7_32">
-                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_33"><img src="images/icons/books.png" alt="" width="41" height="41" title="col-icon-1" /></div>
+                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_33"><img src="{{ asset('images/icons/books.png') }}" alt="" width="41" height="41" title="col-icon-1" /></div>
                                         <div class="gdlr-core-column-service-content-wrapper">
                                             <div class="gdlr-core-column-service-title-wrap">
                                                 <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_6">Education Services</h3></div>
@@ -862,14 +862,7 @@
                                     <div class="gdlr-core-newsletter-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-style-rectangle-full">
 
                                         <div class="newsletter newsletter-subscription">
-                                            <form class="gdlr-core-newsletter-form clearfix" method="post" action="#">
-                                                <div class="gdlr-core-newsletter-email">
-                                                    <input class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Your Email Address" type="email" name="ne" size="30" required />
-                                                </div>
-                                                <div class="gdlr-core-newsletter-submit">
-                                                    <input class="newsletter-submit" type="submit" value="Subscribe" />
-                                                </div>
-                                            </form>
+                                            <a href="#" class="gdlr-core-button  gdlr-core-button-solid">Read More</a>
                                         </div>
                                     </div>
                                 </div>

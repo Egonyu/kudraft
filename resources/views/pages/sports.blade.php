@@ -206,7 +206,7 @@
                                 <div class="gdlr-core-accordion-item-tab clearfix ">
                                     <div class="gdlr-core-accordion-item-icon gdlr-core-js gdlr-core-skin-icon "></div>
                                     <div class="gdlr-core-accordion-item-content-wrapper">
-                                        <h4 class="gdlr-core-accordion-item-title gdlr-core-js ">Scholls & Colleges</h4>
+                                        <h4 class="gdlr-core-accordion-item-title gdlr-core-js ">Schools & Colleges</h4>
                                         <div class="gdlr-core-accordion-item-content">
                                             <p>University Students actively take part in several other competitions off campus but on a national level which include among others:</p>
                                             <ul>
@@ -268,7 +268,7 @@
                                         <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg"><img src="upload/shutterstock_516640027-400x257.jpg" width="700" height="450"  alt="" /><i class="fa fa-play"></i></a>
                                     </div>
                                 </div>
-                                
+
                             </div>
                         </div>
                         <hr>

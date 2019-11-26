@@ -3,7 +3,7 @@
         <div class="ku-mobile-header-container ku-container clearfix">
             <div class="ku-logo  ku-item-pdlr">
                 <div class="ku-logo-inner">
-                    <a class="" href="index.html"><img src="images/logo.png" alt="" /></a>
+                    <a class="" href="{{ route('home') }}"><img src="{{ asset('images/logo.png') }}" alt="" /></a>
                 </div>
             </div>
             <div class="ku-mobile-menu-right">
@@ -24,9 +24,9 @@
                 <div class="ku-mobile-menu"><a class="ku-mm-menu-button ku-mobile-menu-button ku-mobile-button-hamburger" href="#ku-mobile-menu"><span></span></a>
                     <div class="ku-mm-menu-wrap ku-navigation-font" id="ku-mobile-menu" data-slide="right">
                         <ul id="menu-main-navigation" class="m-menu">
-                            <li class="menu-item menu-item-home current-menu-item menu-item-has-children"><a href="index.html">Home</a>
+                            <li class="menu-item menu-item-home current-menu-item menu-item-has-children"><a href="{{ route('home') }}">Home</a>
                             </li>
-                            <li class="menu-item menu-item-has-children"><a href="#">About KU</a>
+                            <li class="menu-item menu-item-has-children"><a href="{{ route('about') }}">About KU</a>
                                 <ul class="sub-menu">
                                     <li class="menu-item"><a href="{{ route('quality-assurance') }}">Quality Assurance</a></li>
                                     <li class="menu-item"><a href="{{ route('council') }}">University Council</a></li>
@@ -37,32 +37,38 @@
                                 <ul class="sub-menu">
                                     <li class="menu-item menu-item-has-children"><a>Undergraduate</a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item"><a href="bachelor-of-science-in-business-administration.html">Business Administration</a></li>
-                                            <li class="menu-item"><a href="school-of-law.html">School Of Law</a></li>
-                                            <li class="menu-item"><a href="engineering.html">Engineering</a></li>
-                                            <li class="menu-item"><a href="medicine.html">Medicine</a></li>
-                                            <li class="menu-item"><a href="art-science.html">Art &#038; Science</a></li>
+                                            <li class="menu-item"><a href="{{ route('business-administration') }}">Business Administration</a></li>
+                                            <li class="menu-item"><a href="{{ route('csit') }}">Computer Science &#038; IT</a></li>
+                                            <li class="menu-item"><a href="{{ route('education') }}">Education</a></li>
+                                            <li class="menu-item"><a href="{{ route('natural-sciences') }}">Natural Sciences</a></li>
+                                            <li class="menu-item"><a href="{{ route('nursing') }}">Nursing &#038; Health Sciences</a></li>
+                                            <li class="menu-item"><a href="{{ route('film-school') }}">Film School</a></li>
+                                            <li class="menu-item"><a href="{{ route('industrial-art') }}">Industrial Art &#038; Design</a></li>
+                                            <li class="menu-item"><a href="{{ route('arts') }}">Arts &#038; Sciences</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children"><a href="#">Graduate Program</a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item"><a href="hospitality-management.html">Hospitality Management</a></li>
-                                            <li class="menu-item"><a href="physics.html">Physics</a></li>
-                                            <li class="menu-item"><a href="#">Chemistry</a></li>
-                                            <li class="menu-item"><a href="#">Music</a></li>
-                                            <li class="menu-item"><a href="#">Computer Science</a></li>
+                                            <li class="menu-item"><a href="{{ route('csitPostGrad') }}">Computer Science & IT</a></li>
+                                            <li class="menu-item"><a href="{{ route('environmental-science') }}">Environmental Science</a></li>
+                                            <li class="menu-item"><a href="{{ route('public-health') }}">Public Health</a></li>
+                                            <li class="menu-item"><a href="{{ route('economics', ['id'=>1]) }}">Economics</a></li>
+                                            <li class="menu-item"><a href="{{ route('business-management', ['id'=>1]) }}">Business Management</a></li>
+                                            <li class="menu-item"><a href="{{ route('educationPostGrad', ['id'=>1]) }}">Education</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children"><a href="#">Resources</a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item"><a href="bachelor-of-science-in-business-administration.html">Department Page</a></li>
-                                            <li class="menu-item"><a href="finance.html">Major Page</a></li>
-                                            <li class="menu-item"><a href="finance-faculty.html">Faculty Page</a></li>
-                                            <li class="menu-item"><a href="john-hagensy-phd.html">Single Instructor</a></li>
-                                            <li class="menu-item"><a href="introduction-to-financial-accounting.html">Single Course</a></li>
+                                            <li class="menu-item"><a href="{{ asset('pdf/courses.pdf') }}" target="_blank">Our Courses</a></li>
+                                            <li class="menu-item"><a href="{{ asset('pdf/Graduate_application.pdf') }}" target="_blank">Graduate Application</a></li>
+                                            <li class="menu-item"><a href="{{ asset('Application_Undergraduate.pdf') }}" target="_blank">Undergraduate Application</a></li>
+                                            <li class="menu-item"><a href="{{ asset('pdf/STUDENTS-LOAN-APPLICATION-FORM-2019_20.pdf') }}" target="_blank">HESFB Loan Form</a></li>
+                                            <li class="menu-item"><a href="{{ asset('pdf/GENERAL-CIRCULAR-FEB_MAY-2019.pdf') }}" target="_blank">General Circular 2018/2019</a></li>
+                                            <li class="menu-item"><a href="{{ asset('pdf/Aug-Dec-Semester-Sports-Activities.pdf') }}" target="_blank">August December Sports Activities</a></li>
+                                            <li class="menu-item"><a href="{{ asset('pdf/LIST-OF-GRADUANDS-2019.pdf') }} " target="_blank">2019 Graduation List</a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item"><a href="#">Logo</a></li>
+                                    <li class="menu-item"><a href="{{ route('home') }}">Logo</a></li>
                                 </ul>
                             </li>
                             <li class="menu-item menu-item-has-children"><a href="{{ route('apply') }}">Admissions</a>

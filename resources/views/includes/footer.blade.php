@@ -38,7 +38,7 @@
                     <h3 class="ku-widget-title">Other Links</h3><span class="clear"></span>
                     <div class="menu-campus-life-container">
                         <ul id="menu-campus-life" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
-                            <li class="menu-item"><a href="http://eis.ku.ac.ug/student">EIS</a></li>
+                            <li class="menu-item"><a href="http://eis.ku.ac.ug/student" target="_blank">EIS</a></li>
                             <li class="menu-item"><a href="{{ route('contact') }}">Contact</a></li>
                             <li class="menu-item"><a href="{{ route('about') }}">About Us</a></li>
                             <li class="menu-item"><a href="{{ route('research', ['id'=>1]) }}">Research</a></li>
@@ -65,7 +65,7 @@
             </div>
         </div>
     </div>
-    
+
     <div class="ku-copyright-wrapper">
         <div class="ku-copyright-container ku-container clearfix">
             <div class="ku-copyright-left ku-item-pdlr">Copyright All Right Reserved 2019, Kampala University</div>
@@ -74,23 +74,11 @@
                     <a href="https://www.facebook.com/kampalauniversityuganda/" target="_blank" class="gdlr-core-social-network-icon" title="facebook">
                         <i class="fa fa-facebook-square" ></i>
                     </a>
-                    <a href="#" target="_blank" class="gdlr-core-social-network-icon" title="google-plus">
-                        <i class="fa fa-google-plus" ></i>
-                    </a>
                     <a href="https://twitter.com/klauniversity" target="_blank" class="gdlr-core-social-network-icon" title="google-plus">
                         <i class="fa facebook-square" ></i>
                     </a>
-                    <a href="#" target="_blank" class="gdlr-core-social-network-icon" title="linkedin">
-                        <i class="fa fa-linkedin" ></i>
-                    </a>
-                    <a href="#" target="_blank" class="gdlr-core-social-network-icon" title="skype">
-                        <i class="fa fa-skype" ></i>
-                    </a>
-                    <a href="#" target="_blank" class="gdlr-core-social-network-icon" title="twitter">
+                    <a href="https://twitter.com/klauniversity" target="_blank" class="gdlr-core-social-network-icon" title="twitter">
                         <i class="fa fa-twitter" ></i>
-                    </a>
-                    <a href="#" target="_blank" class="gdlr-core-social-network-icon" title="instagram">
-                        <i class="fa fa-instagram" ></i>
                     </a>
                 </div>
             </div>
