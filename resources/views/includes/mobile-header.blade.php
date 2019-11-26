@@ -82,12 +82,6 @@
                                     <li class="menu-item"><a href="event-calendar.html">Event Calendar</a></li>
                                 </ul>
                             </li>
-                            <li class="menu-item menu-item-has-children"><a href="#">Courses</a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item"><a href="course-list-1.html">Course List 1</a></li>
-                                    <li class="menu-item"><a href="course-list-2.html">Course List 2</a></li>
-                                </ul>
-                            </li>
                             <li class="menu-item"><a href="athletics.html">Athletics</a></li>
                             <li class="menu-item"><a href="university-life.html">University Life</a></li>
                         </ul>

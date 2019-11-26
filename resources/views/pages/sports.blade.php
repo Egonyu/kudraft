@@ -206,7 +206,7 @@
                                 <div class="gdlr-core-accordion-item-tab clearfix ">
                                     <div class="gdlr-core-accordion-item-icon gdlr-core-js gdlr-core-skin-icon "></div>
                                     <div class="gdlr-core-accordion-item-content-wrapper">
-                                        <h4 class="gdlr-core-accordion-item-title gdlr-core-js ">Schools & Colleges</h4>
+                                        <h4 class="gdlr-core-accordion-item-title gdlr-core-js ">National Level</h4>
                                         <div class="gdlr-core-accordion-item-content">
                                             <p>University Students actively take part in several other competitions off campus but on a national level which include among others:</p>
                                             <ul>
@@ -224,7 +224,7 @@
                                 <div class="gdlr-core-accordion-item-tab clearfix ">
                                     <div class="gdlr-core-accordion-item-icon gdlr-core-js gdlr-core-skin-icon "></div>
                                     <div class="gdlr-core-accordion-item-content-wrapper">
-                                        <h4 class="gdlr-core-accordion-item-title gdlr-core-js ">Library & Cultural Institutions</h4>
+                                        <h4 class="gdlr-core-accordion-item-title gdlr-core-js ">External Competitions</h4>
                                         <div class="gdlr-core-accordion-item-content">
                                             <p>The boundaries are not limited to within the country only as the students further take part in external competitions among which include:</p>
                                             <ul>
@@ -233,24 +233,6 @@
                                                 <li>All Africa University Games</li>
                                                 <li>World University Games</li>
                                             </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-accordion-item-tab clearfix ">
-                                    <div class="gdlr-core-accordion-item-icon gdlr-core-js gdlr-core-skin-icon "></div>
-                                    <div class="gdlr-core-accordion-item-content-wrapper">
-                                        <h4 class="gdlr-core-accordion-item-title gdlr-core-js ">Kingster Sport Team</h4>
-                                        <div class="gdlr-core-accordion-item-content">
-                                            <p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. &#8220;What&#8217;s happened to me?&#8221; he thought. It wasn&#8217;t a dream. His room, a proper human room although.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-accordion-item-tab clearfix ">
-                                    <div class="gdlr-core-accordion-item-icon gdlr-core-js gdlr-core-skin-icon "></div>
-                                    <div class="gdlr-core-accordion-item-content-wrapper">
-                                        <h4 class="gdlr-core-accordion-item-title gdlr-core-js ">Student Life</h4>
-                                        <div class="gdlr-core-accordion-item-content">
-                                            <p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. &#8220;What&#8217;s happened to me?&#8221; he thought. It wasn&#8217;t a dream. His room, a proper human room although.</p>
                                         </div>
                                     </div>
                                 </div>
