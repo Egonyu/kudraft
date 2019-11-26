@@ -36,14 +36,17 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these.</p>
+                                            <p>Link to our Public Relations Officer via</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;text-transform: none ;color: #3db166 ;">
-                                            <p><a href="#">+1-2345-2345</a></p>
+                                            <p><a href="#">+256-703624974 / +256-773198341</a></p>
+                                        </div>
+                                        <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;text-transform: none ;color: #3db166 ;">
+                                            <p><a href="#">pro@ku.ac.ug / ssekatawajulius@gmail.com</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -65,14 +68,17 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these.</p>
+                                            <p>Reachout to us through Academic Registrar via</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
+                                            <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;">
+                                                    <p><a href="#">+256-712-943632 /+256-701943635</a></p>
+                                                </div>
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;">
-                                            <p><a href="#">Contact@goodlayers.com</a></p>
+                                            <p><a href="#">ar@ku.ac.ug / segawahamza1@gmail.com </a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -94,8 +100,9 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;">
-                                            <p>4 apt. Flawing Street. The Grand Avenue.
-                                                <br />Liverpool, UK 33342</p>
+                                            <p>P.O.Box 25454
+                                                <br />Ggaba</p>
+                                                <p>Kampala Uganda</p>
                                         </div>
                                     </div>
                                 </div>

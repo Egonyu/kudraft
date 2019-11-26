@@ -7,15 +7,15 @@
     <div class="ku-page-title-bottom-gradient"></div>
     <div class="ku-page-title-container ku-container">
         <div class="ku-page-title-content ku-item-pdlr" id="div_983a_1">
-            <div class="ku-page-caption" id="div_983a_2">Know Us Better</div>
-            <h1 class="ku-page-title" id="h1_983a_0">About Us</h1></div>
+            <div class="ku-page-caption" id="div_983a_2">Kampala University</div>
+            <h1 class="ku-page-title" id="h1_983a_0">mutundwe School Of Nursing</h1></div>
     </div>
 </div>
 <div class="ku-breadcrumbs">
     <div class="ku-breadcrumbs-container ku-container">
         <div class="ku-breadcrumbs-item ku-item-pdlr"> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to ku." href=" {{ route('about') }} " class="home"><span property="name">Home</span></a>
             <meta property="position" content="1">
-            </span>&gt;<span property="itemListElement" typeof="ListItem"><span property="name">About Us</span>
+            </span>&gt;<span property="itemListElement" typeof="ListItem"><span property="name">School Of Nursing</span>
             <meta property="position" content="2">
             </span>
         </div>
@@ -54,7 +54,7 @@
                     <div class="gdlr-core-pbf-column gdlr-core-column-30">
                         <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-column-extend-right" data-sync-height="height-1">
                             <div class="gdlr-core-pbf-background-wrap">
-                                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(upload/shutterstock_150681635-1.jpg) ;background-size: cover ;background-position: center ;" data-parallax-speed="0"></div>
+                                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url({{ asset('images/pageImages/nursing.JPG') }}) ;background-size: cover ;background-position: center ;" data-parallax-speed="0"></div>
                             </div>
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"></div>
                         </div>
@@ -68,58 +68,9 @@
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
                     <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
                         <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="padding: 0px 10px 0px 0px;">
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 35px ;">
-                                        <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 24px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;color: #1a1a1a ;">Frequently Asked Questions</h3></div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-accordion-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-accordion-style-background-title-icon gdlr-core-left-align gdlr-core-icon-pos-right">
-                                        <div class="gdlr-core-accordion-item-tab clearfix  gdlr-core-active">
-                                            <div class="gdlr-core-accordion-item-icon gdlr-core-js gdlr-core-skin-icon "></div>
-                                            <div class="gdlr-core-accordion-item-content-wrapper">
-                                                <h4 class="gdlr-core-accordion-item-title gdlr-core-js  gdlr-core-skin-e-background gdlr-core-skin-e-content">How long will the tour take?</h4>
-                                                <div class="gdlr-core-accordion-item-content">
-                                                    <p>Provided by the KU Institute of Education, this programme is available by distance learning, allowing you to study flexibly while balancing work and personal lifes.</p>
-                                                    <p>The MSc Finance (EG. Banking) deepens your understanding of banks and financial markets, and how they relate to performance. It will help you to advance your career in finance and policy.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="gdlr-core-accordion-item-tab clearfix ">
-                                            <div class="gdlr-core-accordion-item-icon gdlr-core-js gdlr-core-skin-icon "></div>
-                                            <div class="gdlr-core-accordion-item-content-wrapper">
-                                                <h4 class="gdlr-core-accordion-item-title gdlr-core-js  gdlr-core-skin-e-background gdlr-core-skin-e-content">Is there any parking nearby?</h4>
-                                                <div class="gdlr-core-accordion-item-content">
-                                                    <p>Provided by the KU Institute of Education, this programme is available by distance learning, allowing you to study flexibly while balancing work and personal lifes.</p>
-                                                    <p>The MSc Finance (EG. Banking) deepens your understanding of banks and financial markets, and how they relate to performance. It will help you to advance your career in finance and policy.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="gdlr-core-accordion-item-tab clearfix ">
-                                            <div class="gdlr-core-accordion-item-icon gdlr-core-js gdlr-core-skin-icon "></div>
-                                            <div class="gdlr-core-accordion-item-content-wrapper">
-                                                <h4 class="gdlr-core-accordion-item-title gdlr-core-js  gdlr-core-skin-e-background gdlr-core-skin-e-content">Can I leave my bags or luggage at meeting point?</h4>
-                                                <div class="gdlr-core-accordion-item-content">
-                                                    <p>Provided by the KU Institute of Education, this programme is available by distance learning, allowing you to study flexibly while balancing work and personal lifes.</p>
-                                                    <p>The MSc Finance (EG. Banking) deepens your understanding of banks and financial markets, and how they relate to performance. It will help you to advance your career in finance and policy.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="gdlr-core-accordion-item-tab clearfix ">
-                                            <div class="gdlr-core-accordion-item-icon gdlr-core-js gdlr-core-skin-icon "></div>
-                                            <div class="gdlr-core-accordion-item-content-wrapper">
-                                                <h4 class="gdlr-core-accordion-item-title gdlr-core-js  gdlr-core-skin-e-background gdlr-core-skin-e-content">Will the tour be cancelled due to weather?</h4>
-                                                <div class="gdlr-core-accordion-item-content">
-                                                    <p>Provided by the KU Institute of Education, this programme is available by distance learning, allowing you to study flexibly while balancing work and personal lifes.</p>
-                                                    <p>The MSc Finance (EG. Banking) deepens your understanding of banks and financial markets, and how they relate to performance. It will help you to advance your career in finance and policy.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <img src="{{ asset('images/pageImages/19413.jpg') }}" alt="">
+                            <h6>Call for November 2017 Applications </h6>
+                            <p>Kampala University School of Nursing and Health Sciences invites applications for the November 2017 Intake and interviews are scheduled for September 2017. <a href="#">Apply Now</a> </p>
                         </div>
                     </div>
                     <div class="gdlr-core-pbf-column gdlr-core-column-30">
@@ -128,39 +79,57 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 23px ;">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 18px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;">Undergraduate Visitors</h3></div>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 18px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;">School of Nursing and Health Sciences</h3></div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 20px ;">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 15px ;text-transform: none ;color: #8f8f8f ;">
-                                            <p>This tour is intended for prospective graduate and professional students. All are welcome, but students interested in undergraduate programs may wish to visit KU Undergraduate Admissions page for a more appropriate visit experience.</p>
+                                            <p>Kampala University School of Nursing and Health Sciences is an affiliate school of Kampala University. It is a private institution, accredited by the Uganda Nurses and Midwives Council (UNMC), It is located 4 Km from Kampala City Centre, off Masaka Road, Sembule junction, at Mutundwe (Kigagga zone). The school will initially start with a certificate in Nursing and Midwifery awarded by the Uganda Nurses and Midwives Council, in addition to that awarded by Kampala University.</p>
+                                            <p>The course lasts 2 ½ years. The course aims at providing competence-based training in skills required by a modern Nurse/Midwife. The programme is open to both male (limited vacancies) and female applicants.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 23px ;">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 18px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;">Complete Your Visit</h3></div>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 18px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;">Mission.</h3></div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 20px ;">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 15px ;text-transform: none ;color: #8f8f8f ;">
-                                            <p>To learn more about the specific admissions process for your program, we recommend that you arrange to visit a specific graduate or professional school. We suggest that you connect with your specific school or department of interest ahead of time.</p>
+                                            <p>The Mission of Kampala School of Nursing and Health Sciences is â€œ to produce a Nurse with high degree of integrity and voluntarism who can advance in education, contribute to nursing administration, research, and improve on health services offered to the public, and can conform to international standards.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 23px ;">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 18px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;">Foreign Visitors</h3></div>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 18px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;">Courses Offered.</h3></div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 20px ;">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 15px ;text-transform: none ;color: #8f8f8f ;">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me.</p>
+                                            <ol>
+                                                <li>Certificate in Nursing and Midwifery</li>
+                                            </ol>
+                                            <p><i>Entry requirements</i></p>
+                                            <ul>
+                                                <li>At least 5 passes in English, Biology, Mathematics, Chemistry, Physics or it's equivalent at O' level-not more than 3 years out of school</li>
+                                                <li>Computer classes shall be areas of students</li>
+                                                <li>Two intakes May and November</li>
+                                            </ul>
+                                            <ol>
+                                                <li>Diploma in Nursing (Direct)</li>
+                                            </ol>
+                                            <p><i>Entry requirements</i></p>
+                                            <ul>
+                                                <li>For Direct students from A' Level(3 years)</li>
+                                                <li>Should have a principal pass in Biology</li>
+                                                <li>Not more than 3 years out of school</li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -170,7 +139,7 @@
                 </div>
             </div>
         </div>
-        <div class="gdlr-core-pbf-section">
+        {{-- <div class="gdlr-core-pbf-section">
             <div class="gdlr-core-pbf-section-container gdlr-core-container clearfix">
                 <div class="gdlr-core-pbf-element">
                     <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-center-align" style="margin-bottom: 15px ;">
@@ -188,7 +157,7 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 35px ;">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 24px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #1a1a1a ;">Campus Tour Time</h3></div>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 24px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #1a1a1a ;">School of Nursing and Health Sciences</h3></div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
@@ -264,7 +233,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
     </div>
 </div>
 @endsection

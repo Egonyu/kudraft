@@ -62,7 +62,7 @@
                 </div>
             </div>
         </div>
-        <div class="gdlr-core-pbf-wrapper " style="padding: 90px 0px 50px 0px;">
+        {{-- <div class="gdlr-core-pbf-wrapper " style="padding: 90px 0px 50px 0px;">
             <div class="gdlr-core-pbf-background-wrap"></div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
@@ -264,7 +264,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
     </div>
 </div>
 @endsection
