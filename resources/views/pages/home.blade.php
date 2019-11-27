@@ -326,13 +326,13 @@
                                                 <div class="gdlr-core-item-list gdlr-core-blog-widget gdlr-core-item-mglr clearfix gdlr-core-style-small">
                                                     <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
                                                         <a href="#">
-                                                            <img src="upload/shutterstock_218235004-150x150.jpg" alt="" width="150" height="150" title="Student" />
+                                                            <img src="{{ asset('images/news-events/registration.PNG') }}" alt="" width="150" height="150" title="Student" />
                                                         </a>
                                                     </div>
                                                     <div class="gdlr-core-blog-widget-content">
                                                         <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
                                                             <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                <a href="#">June 6, 2016</a>
+                                                                <a href="#">Nov 26, 2019</a>
                                                             </span>
                                                             <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
                                                                 <a href="#" rel="tag">Hot</a>
@@ -341,25 +341,25 @@
                                                             </span>
                                                         </div>
                                                         <h3 class="gdlr-core-blog-title gdlr-core-skin-title" id="h3_1dd7_12">
-                                                            <a href="#" >Registration for February intake 2020 is in progress at all our Campuses.</a>
+                                                            <a href="{{ route('admissions') }}" >Registration for February intake 2020 is in progress at all our Campuses.</a>
                                                         </h3>
                                                     </div>
                                                 </div>
                                                 <div class="gdlr-core-item-list gdlr-core-blog-widget gdlr-core-item-mglr clearfix gdlr-core-style-small">
                                                     <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
                                                         <a href="#">
-                                                            <img src="upload/shutterstock_481869205-150x150.jpg" alt="" width="150" height="150" title="shutterstock_481869205" />
+                                                            <img src="{{ asset('images/news-events/graduate.JPG') }}" alt="" width="150" height="150" title="shutterstock_481869205" />
                                                         </a>
                                                     </div>
                                                     <div class="gdlr-core-blog-widget-content">
                                                         <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
                                                             <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                <a href="#">June 6, 2016</a>
+                                                                <a href="#">Sept 6, 2019</a>
                                                             </span>
                                                             <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
-                                                                <a href="#" rel="tag">Admission</a>
+                                                                <a href="#" rel="tag">PHD Admissions</a>
                                                                 <span class="gdlr-core-sep">,</span>
-                                                                <a href="#" rel="tag">Event</a>
+                                                                <a href="#" rel="tag">News</a>
                                                             </span>
                                                         </div>
                                                         <h3 class="gdlr-core-blog-title gdlr-core-skin-title" id="h3_1dd7_13">
@@ -370,18 +370,16 @@
                                                 <div class="gdlr-core-item-list gdlr-core-blog-widget gdlr-core-item-mglr clearfix gdlr-core-style-small">
                                                     <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
                                                         <a href="#">
-                                                            <img src="upload/shutterstock_361397258-150x150.jpg" alt="" width="150" height="150" title="shutterstock_361397258" />
+                                                            <img src="{{ asset('images/news-events/books-laptop.JPG') }}" alt="" width="150" height="150" title="shutterstock_361397258" />
                                                         </a>
                                                     </div>
                                                     <div class="gdlr-core-blog-widget-content">
                                                         <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
                                                             <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                <a href="#">June 6, 2016</a>
+                                                                <a href="#">October 3, 2019</a>
                                                             </span>
                                                             <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
-                                                                <a href="#" rel="tag">Article</a>
-                                                                <span class="gdlr-core-sep">,</span>
-                                                                <a href="#" rel="tag">Research</a>
+                                                                <a href="#" rel="tag">Alert</a>
                                                             </span>
                                                         </div>
                                                         <h3 class="gdlr-core-blog-title gdlr-core-skin-title" id="h3_1dd7_14">

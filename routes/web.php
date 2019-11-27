@@ -13,6 +13,7 @@
 
 Route::get('/', 'KuPagesController@home')->name('home');
 Route::get('about', 'KuPagesController@about')->name('about');
+Route::get('admissions', 'KuPagesController@admissions')->name('admissions');
 Route::get('research', 'KuPagesController@research')->name('research');
 Route::get('library', 'KuPagesController@library')->name('library');
 Route::get('council', 'KuPagesController@council')->name('council');

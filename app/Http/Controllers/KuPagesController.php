@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class KuPagesController extends Controller
 {
-    public function admission()
+    public function admissions()
     {
         return view('pages.admissions');
     }
@@ -80,7 +80,7 @@ class KuPagesController extends Controller
     {
         return view('pages.cisco');
     }
-    
+
     public function qualityAssurance()
     {
         return view('pages.quality-assurance');
