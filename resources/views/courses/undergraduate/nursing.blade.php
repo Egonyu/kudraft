@@ -1,5 +1,9 @@
 @extends('layouts.master')
 
+@section('title')
+    Kampala University School of Nursing and Midwifery
+@endsection
+
 @section('content')
 <div class="ku-page-title-wrap  ku-style-custom ku-left-align" id="div_983a_0_nursing">
     <div class="ku-header-transparent-substitute"></div>

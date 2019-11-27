@@ -10,7 +10,9 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-
+Route::get('graduate-school', function () {
+    return view('courses.postgraduate.graduateSchool');
+});
 Route::get('/', 'KuPagesController@home')->name('home');
 Route::get('about', 'KuPagesController@about')->name('about');
 Route::get('admissions', 'KuPagesController@admissions')->name('admissions');

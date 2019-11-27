@@ -1,5 +1,9 @@
 @extends('layouts.master')
 
+@section('title')
+    Kampala University Library
+@endsection
+
 @section('content')
 <div class="kingster-page-title-wrap  kingster-style-custom kingster-left-align" style="background-image: url({{ asset('images/slider/sports-taekwondo.JPG') }}) ;">
     <div class="kingster-header-transparent-substitute"></div>

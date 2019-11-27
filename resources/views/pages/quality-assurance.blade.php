@@ -1,5 +1,9 @@
 @extends('layouts.master')
 
+@section('title')
+    Quality Assurance
+@endsection
+
 @section('content')
 <div class="ku-breadcrumbs">
     <div class="ku-breadcrumbs-container ku-container">

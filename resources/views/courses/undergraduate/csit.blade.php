@@ -1,5 +1,9 @@
 @extends('layouts.master')
 
+@section('title')
+    Computer Science & Information Technology
+@endsection
+
 @section('content')
 <div class="ku-page-title-wrap  ku-style-custom ku-left-align" id="div_983a_0_csit">
     <div class="ku-header-transparent-substitute"></div>
@@ -51,7 +55,7 @@
                         <div class="gdlr-core-pbf-element">
                             <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 15px ;">
                                 <div class="gdlr-core-text-box-item-content" style="font-size: 21px ;text-transform: none ;color: #3db166 ;">
-                                   <h5>School Mission Statement</h5> 
+                                   <h5>School Mission Statement</h5>
                                    <p>The mission of the Kampala University SCIT is to transmit quality, knowledge, and conduct research in computing and ICT responsive to national, region and international needs.</p>
                                 </div>
                             </div>
