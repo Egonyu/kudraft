@@ -48,7 +48,7 @@
                             <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                 <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;text-transform: none ;">
                                     <h6>Degree Programme.</h6>
-                                    <p>TThe school is ready to produce professional art and design educators to meet the demand at different educational levels, also to produce professional self-motivated fine and industrial artists with entrepreneurial skills, capable of establishing both small and large sale industries.</p>
+                                    <p>The school is ready to produce professional art and design educators to meet the demand at different educational levels, also to produce professional self-motivated fine and industrial artists with entrepreneurial skills, capable of establishing both small and large sale industries.</p>
                                     <br>
                                     <p>The school of industrial art and design is one of the pioneer departments of Kampala University, It started as a social science and became a fully-fledged faculty under the name of school of Industrial Art and Design.</p>
                                 </div>

@@ -303,7 +303,7 @@
                                                     <div class="gdlr-core-blog-grid ">
                                                         <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
                                                             <a href="#">
-                                                                <img src="images/slider/nurses-grad.JPG" width="700" height="430" alt="" />
+                                                                <img src="{{ asset('images/slider/nurses-grad.JPG') }}" width="700" height="430" alt="" />
                                                             </a>
                                                         </div>
                                                         <div class="gdlr-core-blog-grid-content-wrap">

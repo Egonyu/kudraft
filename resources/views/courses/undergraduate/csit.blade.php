@@ -122,42 +122,6 @@
                         <div class="gdlr-core-pbf-element">
                             <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 55px ;"><a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="{{ route('apply') }}" style="font-size: 14px ;font-weight: 700 ;letter-spacing: 0px ;padding: 13px 29px 18px 32px;text-transform: none ;margin: 0px 10px 10px 0px;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;"><span class="gdlr-core-content" >Apply</span><i class="gdlr-core-pos-right fa fa-external-link" style="font-size: 14px ;"  ></i></a><a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="{{ asset('pdf/courses.pdf') }}" style="font-size: 14px ;font-weight: 700 ;letter-spacing: 0px ;padding: 13px 29px 18px 32px;text-transform: none ;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;"><span class="gdlr-core-content" >Download Brochure</span><i class="gdlr-core-pos-right fa fa-file-pdf-o" style="font-size: 14px ;"  ></i></a></div>
                         </div>
-                        <div class="gdlr-core-pbf-element">
-                            <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 45px ;" id="curriculum">
-                                <div class="gdlr-core-title-item-title-wrap clearfix">
-                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 24px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #293a5b ;">Course Curriculum</h3></div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-element">
-                            <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
-                                <div class="gdlr-core-title-item-title-wrap clearfix">
-                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 16px ;font-weight: 600 ;letter-spacing: 2px ;">Required Courses</h3></div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-element">
-                            <div class="gdlr-core-course-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-course-style-list" style="padding-bottom: 45px ;">
-                                <div class="gdlr-core-course-item-list"><a class="gdlr-core-course-item-link" href="#"><span class="gdlr-core-course-item-id gdlr-core-skin-caption" >ACC101</span><span class="gdlr-core-course-item-title gdlr-core-skin-title" >Introduction to Financial Accounting</span><i class="gdlr-core-course-item-icon gdlr-core-skin-icon fa fa-long-arrow-right" ></i></a></div>
-                                <div class="gdlr-core-course-item-list"><a class="gdlr-core-course-item-link" href="#"><span class="gdlr-core-course-item-id gdlr-core-skin-caption" >ACC201</span><span class="gdlr-core-course-item-title gdlr-core-skin-title" >Introduction to Managerial Accounting</span><i class="gdlr-core-course-item-icon gdlr-core-skin-icon fa fa-long-arrow-right" ></i></a></div>
-                                <div class="gdlr-core-course-item-list"><a class="gdlr-core-course-item-link" href="#"><span class="gdlr-core-course-item-id gdlr-core-skin-caption" >ACC402</span><span class="gdlr-core-course-item-title gdlr-core-skin-title" >Intermediate Accounting I</span><i class="gdlr-core-course-item-icon gdlr-core-skin-icon fa fa-long-arrow-right" ></i></a></div>
-                                <div class="gdlr-core-course-item-list"><a class="gdlr-core-course-item-link" href="#"><span class="gdlr-core-course-item-id gdlr-core-skin-caption" >ACC302</span><span class="gdlr-core-course-item-title gdlr-core-skin-title" >Contemporary Accounting Topics</span><i class="gdlr-core-course-item-icon gdlr-core-skin-icon fa fa-long-arrow-right" ></i></a></div>
-                                <div class="gdlr-core-course-item-list"><a class="gdlr-core-course-item-link" href="#"><span class="gdlr-core-course-item-id gdlr-core-skin-caption" >ITT203</span><span class="gdlr-core-course-item-title gdlr-core-skin-title" >Introduction to Taxation</span><i class="gdlr-core-course-item-icon gdlr-core-skin-icon fa fa-long-arrow-right" ></i></a></div>
-                                <div class="gdlr-core-course-item-list"><a class="gdlr-core-course-item-link" href="#"><span class="gdlr-core-course-item-id gdlr-core-skin-caption" >ASC103</span><span class="gdlr-core-course-item-title gdlr-core-skin-title" >Accounting Systems and Auditing</span><i class="gdlr-core-course-item-icon gdlr-core-skin-icon fa fa-long-arrow-right" ></i></a></div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-element">
-                            <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
-                                <div class="gdlr-core-title-item-title-wrap clearfix">
-                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 16px ;font-weight: 600 ;letter-spacing: 2px ;">Elective Courses</h3></div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-element">
-                            <div class="gdlr-core-course-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-course-style-list" style="padding-bottom: 10px ;">
-                                <div class="gdlr-core-course-item-list"><a class="gdlr-core-course-item-link" href="#"><span class="gdlr-core-course-item-id gdlr-core-skin-caption" >BPS201</span><span class="gdlr-core-course-item-title gdlr-core-skin-title" >Business Processes and Controls</span><i class="gdlr-core-course-item-icon gdlr-core-skin-icon fa fa-long-arrow-right" ></i></a></div>
-                                <div class="gdlr-core-course-item-list"><a class="gdlr-core-course-item-link" href="#"><span class="gdlr-core-course-item-id gdlr-core-skin-caption" >CAA558</span><span class="gdlr-core-course-item-title gdlr-core-skin-title" >Cost Accounting</span><i class="gdlr-core-course-item-icon gdlr-core-skin-icon fa fa-long-arrow-right" ></i></a></div>
-                                <div class="gdlr-core-course-item-list"><a class="gdlr-core-course-item-link" href="#course/advanced-cost-accounting-and-management/index.html"><span class="gdlr-core-course-item-id gdlr-core-skin-caption" >ACC604</span><span class="gdlr-core-course-item-title gdlr-core-skin-title" >Advanced Cost Accounting and Management</span><i class="gdlr-core-course-item-icon gdlr-core-skin-icon fa fa-long-arrow-right" ></i></a></div>
-                                <div class="gdlr-core-course-item-list"><a class="gdlr-core-course-item-link" href="#course/auditing/index.html"><span class="gdlr-core-course-item-id gdlr-core-skin-caption" >AUD012</span><span class="gdlr-core-course-item-title gdlr-core-skin-title" >Auditing</span><i class="gdlr-core-course-item-icon gdlr-core-skin-icon fa fa-long-arrow-right" ></i></a></div>
-                            </div>
-                        </div>
                     </div>
                 </div>
                 <div class="gdlr-core-pbf-sidebar-right gdlr-core-column-extend-right  kingster-sidebar-area gdlr-core-column-20 gdlr-core-pbf-sidebar-padding  gdlr-core-line-height" style="padding: 30px 0px 30px 0px;">
@@ -190,6 +154,7 @@
                                 </div>
                             </div>
                         </div>
+                        <br>
                         <div id="text-22" class="widget widget_text kingster-widget">
                             <div class="textwidget">
                                 <div class="gdlr-core-widget-box-shortcode  gdlr-core-center-align" style="padding: 55px 0 35px;border: 5px solid #3db166 ;">
