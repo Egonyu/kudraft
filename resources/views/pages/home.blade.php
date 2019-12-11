@@ -790,7 +790,7 @@
                                                 </span>
                                                 <div class="gdlr-core-event-item-content-wrap">
                                                     <h3 class="gdlr-core-event-item-title">
-                                                        <a href="#" >Regular Program Exams</a>
+                                                        <a href="#" >Registration for the January intake 2020 for NURSING and MIDWIFERY is in Progress at our Nursing School- Mutundwe.</a>
                                                     </h3>
                                                     <div class="gdlr-core-event-item-info-wrap">
                                                         <span class="gdlr-core-event-item-info gdlr-core-type-time">
@@ -815,7 +815,7 @@
                                                 </span>
                                                 <div class="gdlr-core-event-item-content-wrap">
                                                     <h3 class="gdlr-core-event-item-title">
-                                                        <a href="#" >In-Service Programme </a>
+                                                        <a href="#" >Next semester will start on 3rd February 2020. </a>
                                                     </h3>
                                                     <div class="gdlr-core-event-item-info-wrap">
                                                         <span class="gdlr-core-event-item-info gdlr-core-type-time">
