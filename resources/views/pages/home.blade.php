@@ -581,7 +581,18 @@
                             <div class="gdlr-core-tab-item-content-image-wrap clearfix">
                                 <div class="gdlr-core-tab-item-image  gdlr-core-active" data-tab-id="1">
                                     <a class="gdlr-core-lightgallery gdlr-core-js " href="#">
-                                        <span class="gdlr-core-tab-item-image-background" id="span_1dd7_1"  ></span>
+                                        <span class="gdlr-core-tab-item-image-background" id="span_1dd7_1"  >
+                                            <video>
+
+                                                <source src="https://www.youtube.com/watch?v=2-jkz0QHLWY&feature=youtu.be"
+                                                        type="video/webm">
+
+                                                <source src="https://www.youtube.com/watch?v=2-jkz0QHLWY&feature=youtu.be"
+                                                        type="video/mp4">
+
+                                                Sorry, your browser doesn't support embedded videos.
+                                            </video>
+                                        </span>
                                         <i class="fa fa-play" ></i>
                                     </a>
                                 </div>

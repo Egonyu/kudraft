@@ -69,7 +69,7 @@
                     <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
                         <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="padding: 0px 10px 0px 0px;">
                             <img src="{{ asset('images/pageImages/19413.jpg') }}" alt="">
-                            <h6>Call for November 2017 Applications </h6>
+                            <h6>Call for JUly 2020 Applications </h6>
                             <p>Kampala University School of Nursing and Health Sciences invites applications for the November 2017 Intake and interviews are scheduled for September 2017. <a href="#">Apply Now</a> </p>
                         </div>
                     </div>
