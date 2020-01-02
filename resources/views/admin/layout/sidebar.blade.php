@@ -57,6 +57,15 @@
                                 <li class="{{ Request::segment(2) === 'detail' ? 'active' : null }}"><a href="{{route('admin.blog.detail')}}">Blog Detail</a></li>
                             </ul>
                         </li>
+                        <li class="{{ Request::segment(1) === 'blog' ? 'active' : null }}">
+                            <a href="#Blog" class="has-arrow"><i class="icon-globe"></i> <span>Campuses</span></a>
+                            <ul>
+                                <li class="{{ Request::segment(2) === 'dashboard' ? 'active' : null }}"><a href="{{route('admin.campuses.campusList')}}">All Campuses</a></li>
+                                <li class="{{ Request::segment(2) === 'new-post' ? 'active' : null }}"><a href="{{route('admin.campuses.new')}}">Create New Campus</a></li>
+                                <li class="{{ Request::segment(2) === 'list' ? 'active' : null }}"><a href="{{route('admin.blog.list')}}">Blog List</a></li>
+                                <li class="{{ Request::segment(2) === 'detail' ? 'active' : null }}"><a href="{{route('admin.blog.detail')}}">Blog Detail</a></li>
+                            </ul>
+                        </li>
                         <li class="{{ Request::segment(1) === 'authentication' ? 'active' : null }}">
                             <a href="#Authentication" class="has-arrow"><i class="icon-lock"></i> <span>Authentication</span></a>
                             <ul>

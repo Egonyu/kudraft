@@ -105,3 +105,12 @@ Route::get('pages/image-gallery2', 'PagesController@imageGallery2')->name('admin
 Route::get('pages/horizontal-timeline', 'PagesController@horizontalTimeline')->name('admin.pages.horizontal-timeline');
 Route::get('pages/project-list', 'PagesController@projectList')->name('admin.pages.project-list');
 Route::get('pages/faq', 'PagesController@faq')->name('admin.pages.faq');
+
+
+/*Admin Campuses List Routes*/
+
+Route::get('dashboard/university/campuses', 'Admin\Campuses\CampusController@index')->name('admin.campuses.campusList');
+/*New Campus Route*/
+Route::get('dashboard/university/campuses/new', 'Admin\Campuses\CampusController@new')->name('admin.campuses.new');
+
+Route::post('dashboard/university/campuses/addNew', 'Admin\Campuses\CampusController@addNew')->name('admin.campuses.addNew');

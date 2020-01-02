@@ -1,4 +1,4 @@
-@extends('layout.master')
+@extends('admin.layout.master')
 @section('title', 'Profile V2')
 @section('parentPageTitle', 'Pages')
 
@@ -18,7 +18,7 @@
                 <div class="m-t-15">
                     <button class="btn btn-primary">Follow</button>
                     <button class="btn btn-outline-secondary">Message</button>
-                </div>                            
+                </div>
             </div>
         </div>
 
@@ -44,7 +44,7 @@
                 </div>
                 <hr>
                 <small class="text-muted">Email address: </small>
-                <p>michael@gmail.com</p>                            
+                <p>michael@gmail.com</p>
                 <hr>
                 <small class="text-muted">Mobile: </small>
                 <p>+ 202-555-2828</p>
@@ -88,7 +88,7 @@
                                     <span class="badge badge-outline status"></span>
                                 </div>
                             </div>
-                        </a>                            
+                        </a>
                     </li>
                     <li class="offline">
                         <a href="javascript:void(0);">
@@ -100,7 +100,7 @@
                                     <span class="badge badge-outline status"></span>
                                 </div>
                             </div>
-                        </a>                            
+                        </a>
                     </li>
                     <li class="offline">
                         <a href="javascript:void(0);">
@@ -112,7 +112,7 @@
                                     <span class="badge badge-outline status"></span>
                                 </div>
                             </div>
-                        </a>                            
+                        </a>
                     </li>
                     <li class="online">
                         <a href="javascript:void(0);">
@@ -124,12 +124,12 @@
                                     <span class="badge badge-outline status"></span>
                                 </div>
                             </div>
-                        </a>                            
-                    </li>                        
+                        </a>
+                    </li>
                 </ul>
             </div>
         </div>
-        
+
     </div>
 
     <div class="col-lg-5 col-md-12">
@@ -207,10 +207,10 @@
                         <h6>Basic Information</h6>
                         <div class="row clearfix">
                             <div class="col-lg-12 col-md-12">
-                                <div class="form-group">                                                
+                                <div class="form-group">
                                     <input type="text" class="form-control" placeholder="First Name">
                                 </div>
-                                <div class="form-group">                                                
+                                <div class="form-group">
                                     <input type="text" class="form-control" placeholder="Last Name">
                                 </div>
                                 <div class="form-group">
@@ -238,7 +238,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-12 col-md-12">
-                                <div class="form-group">                                                
+                                <div class="form-group">
                                     <input type="text" class="form-control" placeholder="Address Line 1">
                                 </div>
                                 <div class="form-group">
@@ -516,7 +516,7 @@
                         <div class="row clearfix">
                             <div class="col-lg-12 col-md-12">
                                 <h6>Account Data</h6>
-                                <div class="form-group">                                                
+                                <div class="form-group">
                                     <input type="text" class="form-control" value="alizeethomas" disabled placeholder="Username">
                                 </div>
                                 <div class="form-group">
@@ -1182,7 +1182,7 @@
             </div>
 
         </div>
-        
+
     </div>
 
     <div class="col-lg-3 col-md-12">

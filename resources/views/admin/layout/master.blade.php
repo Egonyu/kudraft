@@ -226,6 +226,11 @@
             @include('admin.layout.navbar')
             @include('admin.layout.sidebar')
 
+            @if (session('status'))
+                <div class="alert alert-success">
+                    {{ session('status') }}
+                </div>
+            @endif
             <div id="main-content">
                 <div class="container-fluid">
                     <div class="block-header">
