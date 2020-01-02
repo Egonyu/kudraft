@@ -73,3 +73,35 @@ Route::get('pagenotfound', ['as' => 'pagenotfound', 'uses' => 'ErrorController@p
 // Mail controller route for contact page
 Route::get('contact', 'MailController@contact')->name('contact');
 Route::post('send/email', 'MailController@sendmail');
+
+
+Route::get('dashboard/university', 'DashboardController@university')->name('admin.dashboard.university');
+
+
+/* Blog */
+Route::get('blog', function () { return redirect('admin.blog/dashboard'); });
+Route::get('blog/dashboard', 'BlogController@dashboard')->name('admin.blog.dashboard');
+Route::get('blog/new-post', 'BlogController@newPost')->name('admin.blog.new-post');
+Route::get('blog/list', 'BlogController@list')->name('admin.blog.list');
+Route::get('blog/detail', 'BlogController@detail')->name('admin.blog.detail');
+
+/* Authentication */
+Route::get('authentication', function () { return redirect('admin.authentication/login'); });
+Route::get('authentication/login', 'AuthenticationController@login')->name('admin.authentication.login');
+Route::get('authentication/register', 'AuthenticationController@register')->name('admin.authentication.register');
+Route::get('authentication/lockscreen', 'AuthenticationController@lockscreen')->name('admin.authentication.lockscreen');
+Route::get('authentication/forgot-password', 'AuthenticationController@forgotPassword')->name('admin.authentication.forgot-password');
+Route::get('authentication/page404', 'AuthenticationController@page404')->name('admin.authentication.page404');
+Route::get('authentication/page403', 'AuthenticationController@page403')->name('admin.authentication.page403');
+Route::get('authentication/page500', 'AuthenticationController@page500')->name('admin.authentication.page500');
+Route::get('authentication/page503', 'AuthenticationController@page503')->name('admin.authentication.page503');
+
+/* Pages */
+Route::get('pages', function () { return redirect('admin.pages/blank-page'); });
+Route::get('pages/blank-page', 'PagesController@blankPage')->name('admin.pages.blank-page');
+Route::get('pages/profile2', 'PagesController@profile2')->name('admin.pages.profile2');
+Route::get('pages/image-gallery1', 'PagesController@imageGallery1')->name('admin.pages.image-gallery1');
+Route::get('pages/image-gallery2', 'PagesController@imageGallery2')->name('admin.pages.image-gallery2');
+Route::get('pages/horizontal-timeline', 'PagesController@horizontalTimeline')->name('admin.pages.horizontal-timeline');
+Route::get('pages/project-list', 'PagesController@projectList')->name('admin.pages.project-list');
+Route::get('pages/faq', 'PagesController@faq')->name('admin.pages.faq');
