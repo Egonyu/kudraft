@@ -699,7 +699,7 @@
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
                                             <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_30">Engage In Sports</h3>
                                         </div>
-                                        <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_7">kThere are number of recreation and sports activities at the University. The Department of Sports and Recreation offers welfare and sports skills services to the students through a comprehensive, dynamic and exciting Inter-Hall Sports Championships, and several other internally organized competitions. </span>
+                                        <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_7">There are number of recreation and sports activities at the University. The Department of Sports and Recreation offers welfare and sports skills services to the students through a comprehensive, dynamic and exciting Inter-Hall Sports Championships, and several other internally organized competitions. </span>
                                     </div>
                                 </div>
                             </div>
