@@ -81,7 +81,7 @@
                                         </p>
                                         <h3 style="font-size: 20px; color: #fff; margin-bottom: 25px;">Department Contact Info</h3>
                                         <p><span style="color: #3db166; font-size: 16px; font-weight: 600;">School Of Art and Design</span>
-                                            <br /> <span style="font-size: 15px;"><br /> Mrs. Nuulu Nakidde: +256-758299616<br /> Prof. Mugumbya G:+256-775-304-756</span></p>
+                                            <br /> <span style="font-size: 15px;"><br /> Mrs. Nuulu Nakidde: +256-758299616</span></p>
                                         <p><span style="font-size: 15px;">+256-775-304-756<br /> siad@ku.ac.ug<br /> </span></p>
                                         <p><span style="font-size: 16px; color: #3db166;">Mon &#8211; Fri 9:00A.M. &#8211; 5:00P.M.</span></p> <span class="gdlr-core-space-shortcode" style="margin-top: 40px ;"></span>
                                         <h3 style="font-size: 20px; color: #fff; margin-bottom: 15px;">Social Info</h3>

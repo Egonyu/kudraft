@@ -30,7 +30,7 @@
                                             <li class="menu-item"><a href="{{ route('education') }}">Education</a></li>
                                             <li class="menu-item"><a href="{{ route('natural-sciences') }}">Natural Sciences</a></li>
                                             <li class="menu-item"><a href="{{ route('nursing') }}">Nursing &#038; Health Sciences</a></li>
-                                            <li class="menu-item"><a href="{{ route('film-school') }}">Film School</a></li>
+                                            <li class="menu-item"><a href="{{ url('https://www.kampalafilmschool.org/') }}">Film School</a></li>
                                             <li class="menu-item"><a href="{{ route('industrial-art') }}">Industrial Art &#038; Design</a></li>
                                             <li class="menu-item"><a href="{{ route('arts') }}">Arts &#038; Sciences</a></li>
                                         </ul>

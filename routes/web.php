@@ -114,3 +114,13 @@ Route::get('dashboard/university/campuses', 'Admin\Campuses\CampusController@ind
 Route::get('dashboard/university/campuses/new', 'Admin\Campuses\CampusController@new')->name('admin.campuses.new');
 
 Route::post('dashboard/university/campuses/addNew', 'Admin\Campuses\CampusController@addNew')->name('admin.campuses.addNew');
+
+
+Route::group(array('prefix' => 'dashboard/university/'), function()
+    {
+        // Events routes
+        Route::resource('event', 'EventController');
+
+
+        Route::resource('news', 'UpdateController');
+    });

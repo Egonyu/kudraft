@@ -1,5 +1,5 @@
 @extends('admin.layout.master')
-@section('title', 'University')
+@section('title', 'Kampala University')
 @section('parentPageTitle', 'Dashboard')
 
 

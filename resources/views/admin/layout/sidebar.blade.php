@@ -45,20 +45,13 @@
                         <li class="{{ Request::segment(1) === 'dashboard' ? 'active' : null }}">
                             <a href="#Dashboard" class="has-arrow"><i class="icon-home"></i> <span>Dashboard</span></a>
                             <ul>
-                                <li class="{{ Request::segment(2) === 'university' ? 'active' : null }}"><a href="{{route('admin.dashboard.university')}}">University</a></li>
+                                <li class="{{ Request::segment(2) === 'dashboard' ? 'active' : null }}"><a href="{{route('admin.campuses.campusList')}}">All Campuses</a></li>
+                                <li class="{{ Request::segment(2) === 'new-post' ? 'active' : null }}"><a href="{{route('admin.campuses.new')}}">Create New Campus</a></li>
+                                
                             </ul>
                         </li>
                         <li class="{{ Request::segment(1) === 'blog' ? 'active' : null }}">
-                            <a href="#Blog" class="has-arrow"><i class="icon-globe"></i> <span>Blog</span></a>
-                            <ul>
-                                <li class="{{ Request::segment(2) === 'dashboard' ? 'active' : null }}"><a href="{{route('admin.blog.dashboard')}}">Dashboard</a></li>
-                                <li class="{{ Request::segment(2) === 'new-post' ? 'active' : null }}"><a href="{{route('admin.blog.new-post')}}">New Post</a></li>
-                                <li class="{{ Request::segment(2) === 'list' ? 'active' : null }}"><a href="{{route('admin.blog.list')}}">Blog List</a></li>
-                                <li class="{{ Request::segment(2) === 'detail' ? 'active' : null }}"><a href="{{route('admin.blog.detail')}}">Blog Detail</a></li>
-                            </ul>
-                        </li>
-                        <li class="{{ Request::segment(1) === 'blog' ? 'active' : null }}">
-                            <a href="#Blog" class="has-arrow"><i class="icon-globe"></i> <span>Campuses</span></a>
+                            <a href="#Blog" class="has-arrow"><i class="icon-home"></i> <span>Campuses</span></a>
                             <ul>
                                 <li class="{{ Request::segment(2) === 'dashboard' ? 'active' : null }}"><a href="{{route('admin.campuses.campusList')}}">All Campuses</a></li>
                                 <li class="{{ Request::segment(2) === 'new-post' ? 'active' : null }}"><a href="{{route('admin.campuses.new')}}">Create New Campus</a></li>
@@ -96,6 +89,24 @@
                             <ul>
                                 <li class="{{ Request::segment(2) === 'yandex' ? 'active' : null }}"><a href="#">Yandex Map</a></li>
                                 <li class="{{ Request::segment(2) === 'jvector' ? 'active' : null }}"><a href="#">jVector Map</a></li>
+                            </ul>
+                        </li>
+                        <li class="{{ Request::segment(1) === 'blog' ? 'active' : null }}">
+                            <a href="#News" class="has-arrow"><i class="icon-home"></i> <span>News and Updates</span></a>
+                            <ul>
+                                <li class="{{ Request::segment(2) === 'dashboard' ? 'active' : null }}"><a href="{{route('event.index')}}">All Events</a></li>
+                                <li class="{{ Request::segment(2) === 'new-post' ? 'active' : null }}"><a href="{{route('event.create')}}">Create New Campus</a></li>
+                                <li class="{{ Request::segment(2) === 'list' ? 'active' : null }}"><a href="{{route('admin.blog.list')}}">Blog List</a></li>
+                                <li class="{{ Request::segment(2) === 'detail' ? 'active' : null }}"><a href="{{route('admin.blog.detail')}}">Blog Detail</a></li>
+                            </ul>
+                        </li>
+                        <li class="{{ Request::segment(1) === 'blog' ? 'active' : null }}">
+                            <a href="#Events" class="has-arrow"><i class="icon-home"></i> <span>Events</span></a>
+                            <ul>
+                                <li class="{{ Request::segment(2) === 'dashboard' ? 'active' : null }}"><a href="{{route('admin.campuses.campusList')}}">All Campuses</a></li>
+                                <li class="{{ Request::segment(2) === 'new-post' ? 'active' : null }}"><a href="{{route('admin.campuses.new')}}">Create New Campus</a></li>
+                                <li class="{{ Request::segment(2) === 'list' ? 'active' : null }}"><a href="{{route('admin.blog.list')}}">Blog List</a></li>
+                                <li class="{{ Request::segment(2) === 'detail' ? 'active' : null }}"><a href="{{route('admin.blog.detail')}}">Blog Detail</a></li>
                             </ul>
                         </li>
                     </ul>

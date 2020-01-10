@@ -10,7 +10,8 @@ class CampusController extends Controller
 {
     public function index()
     {
-        return view('admin.campuses.campusList');
+        $campuses = Campus::all();
+        return view('admin.campuses.campusList', compact('campuses'));
     }
 
     public function new()
@@ -24,7 +25,7 @@ class CampusController extends Controller
             ['name' => 'required',
             'location' => 'required',
             'description' => 'required',
-            'email' => 'required',
+            'email' => 'required|email',
             'telephoneNo' => 'required',
             ]
         );
