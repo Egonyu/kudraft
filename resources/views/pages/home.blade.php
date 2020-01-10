@@ -565,19 +565,15 @@
         </div>
         <div class="gdlr-core-pbf-wrapper " id="div_1dd7_72">
             <div class="gdlr-core-pbf-background-wrap">
-                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" id="div_1dd7_73" data-parallax-speed="0.2">
-                    <iframe width="420" height="315" src="https://www.youtube.com/watch?v=2-jkz0QHLWY&t=4s" frameborder="0" allowfullscreen></iframe>
-                </div>
+                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" id="div_1dd7_73" data-parallax-speed="0.2"></div>
             </div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container-custom" id="div_1dd7_74">
                     <div class="gdlr-core-pbf-element">
                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" id="div_1dd7_75">
                             <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_1dd7_76">
-                                <iframe width="420" height="315" src="https://www.youtube.com/watch?v=2-jkz0QHLWY&t=4s" frameborder="0" allowfullscreen></iframe>
 
-
-                                <a class="gdlr-core-lightgallery gdlr-core-js " href="#"><img src="upload/icon-play.png" alt="" width="82" height="82" title="icon-play" /></a>
+                                <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=2-jkz0QHLWY&t=4s"><img src="upload/icon-play.png" alt="" width="82" height="82" title="icon-play" /></a>
                             </div>
                         </div>
                     </div>
