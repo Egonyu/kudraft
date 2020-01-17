@@ -12,6 +12,8 @@ class EventController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
+    public $events;
+
     public function index()
     {
         $events = Event::all();

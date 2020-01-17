@@ -15,16 +15,13 @@
                         <div class="col-lg-3 col-md-6">
                             <div class="card top_counter">
                                 <div class="body">
-                                    <div class="icon text-info"><i class="fa fa-user"></i> </div>
                                     <div class="content">
                                         <div class="text">{{$event->title}}</div>
-                                        <h5 class="number">530</h5>
+                                    <h5 class="number">{{$event->campus}}</h5>
                                     </div>
-                                    <hr>
-                                    <div class="icon text-warning"><i class="fa fa-user-circle"></i> </div>
+                                    <br>
                                     <div class="content">
-                                        <div class="text">{{$event->image}}</div>
-                                        <h5 class="number">14</h5>
+                                    <img src="{{ asset('storage/') }}/{{ $event->image }}" style="width:50%; height:50%px;" alt="">
                                     </div>
                                 </div>
                             </div>

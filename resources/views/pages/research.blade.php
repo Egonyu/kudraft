@@ -8,14 +8,14 @@
     <div class="ku-page-title-container ku-container">
         <div class="ku-page-title-content ku-item-pdlr" id="div_983a_1">
             <div class="ku-page-caption" id="div_983a_2">Kampala University</div>
-            <h1 class="ku-page-title" id="h1_983a_0">Sports</h1></div>
+            <h1 class="ku-page-title" id="h1_983a_0">Research</h1></div>
     </div>
 </div>
 <div class="ku-breadcrumbs">
     <div class="ku-breadcrumbs-container ku-container">
-        <div class="ku-breadcrumbs-item ku-item-pdlr"> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to ku." href=" {{ route('about') }} " class="home"><span property="name">Home</span></a>
+        <div class="ku-breadcrumbs-item ku-item-pdlr"> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to ku." href=" {{ route('home') }} " class="home"><span property="name">Home</span></a>
             <meta property="position" content="1">
-            </span>&gt;<span property="itemListElement" typeof="ListItem"><span property="name">Sports</span>
+            </span>&gt;<span property="itemListElement" typeof="ListItem"><span property="name">Research</span>
             <meta property="position" content="2">
             </span>
         </div>
@@ -55,111 +55,7 @@
                         </div>
                         <div class="gdlr-core-pbf-element">
                             <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 75px ;">
-                                <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-round" style="border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;border-width: 0px;"><img src="upload/support-building-800x236.jpg" width="1000" height="296"  alt="" /></div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-element">
-                            <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 40px ;">
-                                <div class="gdlr-core-title-item-title-wrap clearfix">
-                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 22px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;margin-right: 30px ;">Various Donation Options</h3>
-                                    <div class="gdlr-core-title-item-divider gdlr-core-right gdlr-core-skin-divider" style="font-size: 22px ;border-bottom-width: 3px ;"></div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px -7px 0px 0px;">
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-feature-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align">
-                                            <div class="gdlr-core-feature-box gdlr-core-js gdlr-core-feature-box-type-outer" style="background-color: #3db166 ;border-width: 0px 0px 0px 0px;border-radius: 3px;-moz-border-radius: 3px;-webkit-border-radius: 3px;">
-                                                <div class="gdlr-core-feature-box-background" style="background-image: url(upload/shutterstock_209187682.jpg) ;opacity: 0.14 ;"></div>
-                                                <div class="gdlr-core-feature-box-content gdlr-core-sync-height-content">
-                                                    <h3 class="gdlr-core-feature-box-item-title" style="font-size: 16px ;font-weight: 600 ;">Student Scholarships</h3></div>
-                                                <a class="gdlr-core-feature-box-link" href="#" target="_self"></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-column gdlr-core-column-20">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px -3px 0px -3px;">
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-feature-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align">
-                                            <div class="gdlr-core-feature-box gdlr-core-js gdlr-core-feature-box-type-outer" style="background-color: #3db166 ;border-width: 0px 0px 0px 0px;border-radius: 3px;-moz-border-radius: 3px;-webkit-border-radius: 3px;">
-                                                <div class="gdlr-core-feature-box-background" style="background-image: url(upload/shutterstock_299633474.jpg) ;opacity: 0.14 ;"></div>
-                                                <div class="gdlr-core-feature-box-content gdlr-core-sync-height-content">
-                                                    <h3 class="gdlr-core-feature-box-item-title" style="font-size: 16px ;font-weight: 600 ;">Schools & Colleges</h3></div>
-                                                <a class="gdlr-core-feature-box-link" href="#" target="_self"></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-column gdlr-core-column-20">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 0px 0px -7px;">
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-feature-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align">
-                                            <div class="gdlr-core-feature-box gdlr-core-js gdlr-core-feature-box-type-outer" style="background-color: #3db166 ;border-width: 0px 0px 0px 0px;border-radius: 3px;-moz-border-radius: 3px;-webkit-border-radius: 3px;">
-                                                <div class="gdlr-core-feature-box-background" style="background-image: url(upload/support-image-3.jpg) ;opacity: 0.14 ;"></div>
-                                                <div class="gdlr-core-feature-box-content gdlr-core-sync-height-content">
-                                                    <h3 class="gdlr-core-feature-box-item-title" style="font-size: 16px ;font-weight: 600 ;">Library & Cultural</h3></div>
-                                                <a class="gdlr-core-feature-box-link" href="#" target="_self"></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px -7px 0px 0px;">
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-feature-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align">
-                                            <div class="gdlr-core-feature-box gdlr-core-js gdlr-core-feature-box-type-outer" style="background-color: #3db166 ;border-width: 0px 0px 0px 0px;border-radius: 3px;-moz-border-radius: 3px;-webkit-border-radius: 3px;">
-                                                <div class="gdlr-core-feature-box-background" style="background-image: url(upload/support-image-4.jpg) ;opacity: 0.14 ;"></div>
-                                                <div class="gdlr-core-feature-box-content gdlr-core-sync-height-content">
-                                                    <h3 class="gdlr-core-feature-box-item-title" style="font-size: 16px ;font-weight: 600 ;">Support Sport Team</h3></div>
-                                                <a class="gdlr-core-feature-box-link" href="#" target="_self"></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-column gdlr-core-column-20">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px -3px 0px -3px;">
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-feature-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align">
-                                            <div class="gdlr-core-feature-box gdlr-core-js gdlr-core-feature-box-type-outer" style="background-color: #3db166 ;border-width: 0px 0px 0px 0px;border-radius: 3px;-moz-border-radius: 3px;-webkit-border-radius: 3px;">
-                                                <div class="gdlr-core-feature-box-background" style="background-image: url(upload/shutterstock_150587615.jpg) ;opacity: 0.14 ;"></div>
-                                                <div class="gdlr-core-feature-box-content gdlr-core-sync-height-content">
-                                                    <h3 class="gdlr-core-feature-box-item-title" style="font-size: 16px ;font-weight: 600 ;">Student Life</h3></div>
-                                                <a class="gdlr-core-feature-box-link" href="#" target="_self"></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-column gdlr-core-column-20">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 0px 0px -7px;padding: 0px 0px 50px 0px;">
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-feature-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align">
-                                            <div class="gdlr-core-feature-box gdlr-core-js gdlr-core-feature-box-type-outer" style="background-color: #3db166 ;border-width: 0px 0px 0px 0px;border-radius: 3px;-moz-border-radius: 3px;-webkit-border-radius: 3px;">
-                                                <div class="gdlr-core-feature-box-background" style="background-image: url(upload/support-image-6.jpg) ;opacity: 0.14 ;"></div>
-                                                <div class="gdlr-core-feature-box-content gdlr-core-sync-height-content">
-                                                    <h3 class="gdlr-core-feature-box-item-title" style="font-size: 16px ;font-weight: 600 ;">Emergency Fund</h3></div>
-                                                <a class="gdlr-core-feature-box-link" href="#" target="_self"></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                                <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-round" style="border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;border-width: 0px;"><img src="{{asset('images/schools/agriLearner.jpg')}}" width="1000" height="296"  alt="" /></div>
                             </div>
                         </div>
                         {{-- <div class="gdlr-core-pbf-element">
@@ -241,19 +137,6 @@
                                 </div>
                             </div>
                         </div> --}}
-                        <div id="gdlr-core-video-widget-2" class="widget widget_gdlr-core-video-widget kingster-widget">
-                            <h3 class="kingster-widget-title">Badru D. Kateregga </h3><span class="clear"></span>
-                            <div class="gdlr-core-video-widget gdlr-core-media-image">
-                                <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg"><img src="upload/shutterstock_516640027-400x257.jpg" width="700" height="450"  alt="" /><i class="fa fa-play"></i></a>
-                            </div>
-                        </div>
-                        <hr>
-                        <div id="gdlr-core-video-widget-2" class="widget widget_gdlr-core-video-widget kingster-widget">
-                            <h3 class="kingster-widget-title">David W. Shenk. </h3><span class="clear"></span>
-                            <div class="gdlr-core-video-widget gdlr-core-media-image">
-                                <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg"><img src="upload/shutterstock_516640027-400x257.jpg" width="700" height="450"  alt="" /><i class="fa fa-play"></i></a>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
