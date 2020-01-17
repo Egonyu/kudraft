@@ -83,7 +83,7 @@
                                 </ul>
                             </li>
                             <li class="menu-item"><a href="athletics.html">Athletics</a></li>
-                            <li class="menu-item"><a href="university-life.html">University Life</a></li>
+                            {{-- <li class="menu-item"><a href="university-life.html">University Life</a></li> --}}
                         </ul>
                     </div>
                 </div>

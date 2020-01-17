@@ -8,7 +8,7 @@
     <div class="ku-page-title-container ku-container">
         <div class="ku-page-title-content ku-item-pdlr" id="div_983a_1">
             <div class="ku-page-caption" id="div_983a_2">Kampala University</div>
-            <h1 class="ku-page-title" id="h1_983a_0">School of Education</h1></div>
+            <h1 class="ku-page-title" id="h1_983a_0">Post Graduate School of Education</h1></div>
     </div>
 </div>
 <div class="ku-breadcrumbs">
@@ -17,8 +17,6 @@
             <meta property="position" content="1">
             </span>&gt;<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Bachelor Of Science Education." href="{{ route('education') }}" class="post post-page"><span property="name">Bachelor Of Science in Education</span></a>
             <meta property="position" content="2">
-            </span>&gt;<span property="itemListElement" typeof="ListItem"><span property="name">School of Education</span>
-            <meta property="position" content="3">
             </span>
         </div>
     </div>

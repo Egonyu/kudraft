@@ -63,8 +63,6 @@
                                             <li class="menu-item"><a href="{{ route('library') }}">Library</a></li>
                                             <li class="menu-item"><a href="{{ route('cisco') }}">CISCO</a></li>
                                             <li class="menu-item"><a href="{{ route('accomodation') }}">Accomodation</a></li>
-                                            <li class="menu-item"><a href="introduction-to-financial-accounting.html">August December Sports Activities</a></li>
-                                            <li class="menu-item"><a href="introduction-to-financial-accounting.html">2019 Graduation List</a></li>
                                         </ul>
                                     </li>
                                     {{-- <li class="menu-item" data-size="15">
