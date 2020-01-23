@@ -15,6 +15,7 @@
                             <ul class="sub-menu">
                                 <li class="menu-item" data-size="60"><a href="{{ route('quality-assurance') }}">Quality Assurance</a></li>
                                 <li class="menu-item" data-size="60"><a href=" {{ route('about') }} ">About US</a></li>
+                                <li class="menu-item" data-size="60"><a href=" {{ url('council') }} ">University Council</a></li>
                                 <li class="menu-item" data-size="60"><a href=" {{ route('alumni') }} ">Alumni</a></li>
                                 <li class="menu-item" data-size="60"><a href=" {{ route('sports') }} ">Sports</a></li>
                                 <li class="menu-item ku-normal-menu"><a href="{{ route('uni-life') }}">University Life</a></li>
