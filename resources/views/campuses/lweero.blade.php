@@ -7,15 +7,15 @@
     <div class="ku-page-title-bottom-gradient"></div>
     <div class="ku-page-title-container ku-container">
         <div class="ku-page-title-content ku-item-pdlr" id="div_983a_1">
-            <div class="ku-page-caption" id="div_983a_2">Know Us Better</div>
-            <h1 class="ku-page-title" id="h1_983a_0">About Us</h1></div>
+            <div class="ku-page-caption" id="div_983a_2">Kampala University</div>
+            <h1 class="ku-page-title" id="h1_983a_0">Luweero Campus</h1></div>
     </div>
 </div>
 <div class="ku-breadcrumbs">
     <div class="ku-breadcrumbs-container ku-container">
-        <div class="ku-breadcrumbs-item ku-item-pdlr"> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to ku." href=" {{ route('about') }} " class="home"><span property="name">Home</span></a>
+        <div class="ku-breadcrumbs-item ku-item-pdlr"> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to ku." href=" {{ route('home') }} " class="home"><span property="name">Home</span></a>
             <meta property="position" content="1">
-            </span>&gt;<span property="itemListElement" typeof="ListItem"><span property="name">About Us</span>
+            </span>&gt;<span property="itemListElement" typeof="ListItem"><span property="name">Luweero Campus</span>
             <meta property="position" content="2">
             </span>
         </div>
@@ -38,13 +38,17 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 33px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #ffffff ;">Special Campus Tour</h3></div>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 33px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #ffffff ;">Luweero Campus</h3></div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 17px ;text-transform: none ;color: #ffffff ;">
-                                            <p>Campus on a tour designed for prospective graduate and professional students. You will see how our university like, facilities, students and life in this university. Meet our graduate admissions representative to learn more about our graduate programs and decide what it the best for you.</p>
+                                            <p>Located in Luwero District at Nakyeewa off Kampala Gulu highway between Wobulenzi and Luwero townships.</p>
+                                            <p>Telephone: </p>
+                                            <p>0772-450601, 0783655287</p>
+                                            <p>0754072209</p>
+                                            <p>AR. 0701209720</p>
                                         </div>
                                     </div>
                                 </div>
@@ -54,7 +58,7 @@
                     <div class="gdlr-core-pbf-column gdlr-core-column-30">
                         <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-column-extend-right" data-sync-height="height-1">
                             <div class="gdlr-core-pbf-background-wrap">
-                                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(upload/shutterstock_150681635-1.jpg) ;background-size: cover ;background-position: center ;" data-parallax-speed="0"></div>
+                                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url({{ asset('images/campuses/lweero.JPG') }}) ;background-size: cover ;background-position: center ;" data-parallax-speed="0"></div>
                             </div>
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"></div>
                         </div>
@@ -62,7 +66,7 @@
                 </div>
             </div>
         </div>
-        <div class="gdlr-core-pbf-wrapper " style="padding: 90px 0px 50px 0px;">
+        {{-- <div class="gdlr-core-pbf-wrapper " style="padding: 90px 0px 50px 0px;">
             <div class="gdlr-core-pbf-background-wrap"></div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
@@ -264,7 +268,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
     </div>
 </div>
 @endsection

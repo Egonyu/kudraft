@@ -7,15 +7,15 @@
     <div class="ku-page-title-bottom-gradient"></div>
     <div class="ku-page-title-container ku-container">
         <div class="ku-page-title-content ku-item-pdlr" id="div_983a_1">
-            <div class="ku-page-caption" id="div_983a_2">Know Us Better</div>
-            <h1 class="ku-page-title" id="h1_983a_0">About Us</h1></div>
+            <div class="ku-page-caption" id="div_983a_2">Kampala University</div>
+            <h1 class="ku-page-title" id="h1_983a_0">Post Graduate School of Economics</h1></div>
     </div>
 </div>
 <div class="ku-breadcrumbs">
     <div class="ku-breadcrumbs-container ku-container">
-        <div class="ku-breadcrumbs-item ku-item-pdlr"> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to ku." href=" {{ route('about') }} " class="home"><span property="name">Home</span></a>
+        <div class="ku-breadcrumbs-item ku-item-pdlr"> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to ku." href=" {{ route('home') }} " class="home"><span property="name">Home</span></a>
             <meta property="position" content="1">
-            </span>&gt;<span property="itemListElement" typeof="ListItem"><span property="name">About Us</span>
+            </span>&gt;<span property="itemListElement" typeof="ListItem"><span property="name">School of Economics</span>
             <meta property="position" content="2">
             </span>
         </div>

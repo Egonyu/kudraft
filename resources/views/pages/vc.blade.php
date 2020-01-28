@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @section('content')
-    
+
 <div class="kingster-page-wrapper" id="kingster-page-wrapper">
     <div class="gdlr-core-page-builder-body">
         <div class="gdlr-core-pbf-wrapper " style="padding: 70px 0px 40px 0px;">
@@ -27,28 +27,27 @@
                                         <div class="gdlr-core-personnel-info-item-list-wrap">
                                             <div class="kingster-personnel-info-list kingster-type-social-shortcode">
                                                 <div class="gdlr-core-social-network-item gdlr-core-item-pdb  gdlr-core-none-align" style="padding-bottom: 0px ;">
-                                                    <a href="#" target="_blank" class="gdlr-core-social-network-icon" title="facebook" style="font-size: 18px ;color: #50bd77 ;">
+                                                    <a href="{{ url('https://www.facebook.com/ambprofalhajibadrudkateregga/') }}" target="_blank" class="gdlr-core-social-network-icon" title="facebook" style="font-size: 18px ;color: #50bd77 ;">
                                                         <i class="fa fa-facebook" ></i>
                                                     </a>
-                                                    <a href="#" target="_blank" class="gdlr-core-social-network-icon" title="linkedin" style="font-size: 18px ;color: #50bd77 ;margin-left: 14px ;">
-                                                        <i class="fa fa-skype" ></i>
+                                                    <a href="{{ url('https://www.instagram.com/ambprofalhajibadrudk/') }}" target="_blank" class="gdlr-core-social-network-icon" title="linkedin" style="font-size: 18px ;color: #50bd77 ;margin-left: 14px ;">
+                                                        <i class="fa fa-instagram" ></i>
                                                     </a>
-                                                    <a href="#" target="_blank" class="gdlr-core-social-network-icon" title="skype" style="font-size: 18px ;color: #50bd77 ;margin-left: 14px ;">
-                                                        <i class="fa fa-skype" ></i>
+                                                    <a href="{{ url('https://www.linkedin.com/in/professor-badru-kateregga-991960161/') }}" target="_blank" class="gdlr-core-social-network-icon" title="skype" style="font-size: 18px ;color: #50bd77 ;margin-left: 14px ;">
+                                                        <i class="fa fa-linkedin" ></i>
                                                     </a>
-                                                    <a href="#url" target="_blank" class="gdlr-core-social-network-icon" title="twitter" style="font-size: 18px ;color: #50bd77 ;margin-left: 14px ;">
+                                                    <a href="{{ url('https://twitter.com/ambprofbadrudk') }}" target="_blank" class="gdlr-core-social-network-icon" title="twitter" style="font-size: 18px ;color: #50bd77 ;margin-left: 14px ;">
                                                         <i class="fa fa-twitter" ></i>
                                                     </a>
                                                 </div>
                                             </div>
-                                            <div class="kingster-personnel-info-list kingster-type-email"><i class="kingster-personnel-info-list-icon fa fa-envelope-open"></i>Jhangensy@kingsteruni.edu</div>
-                                            <div class="kingster-personnel-info-list kingster-type-phone"><i class="kingster-personnel-info-list-icon fa fa-phone"></i>+1-2351-2361-355</div>
-                                            <div class="kingster-personnel-info-list kingster-type-location"><i class="kingster-personnel-info-list-icon fa fa-location-arrow"></i>Room 102, A Building 1810 Campus Way NE Bothell, WA 98011-8246</div>
+                                            <div class="kingster-personnel-info-list kingster-type-email"><i class="kingster-personnel-info-list-icon fa fa-phone"></i>  +256 772 450 601</div>
+                                            <div class="kingster-personnel-info-list kingster-type-phone"><i class="kingster-personnel-info-list-icon fa fa-envelope-open"></i> ambprobdk@yahoo.com</div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"><a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="#" style="font-size: 13px ;padding: 11px 24px 15px 27px;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;"><span class="gdlr-core-content" >Download CV</span><i class="gdlr-core-pos-right fa fa-file-pdf-o"  ></i></a></div>
+                                    <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"><a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="b{{ url('https://profbadrukateregga.com/') }}" style="font-size: 13px ;padding: 11px 24px 15px 27px;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;" target="_blank"><span class="gdlr-core-content" >Read More</span><i class="gdlr-core-pos-right fa fa-link"  ></i></a></div>
                                 </div>
                             </div>
                         </div>
@@ -85,12 +84,12 @@
                                             <h6>Introduction</h6>
                                             <p>
                                             Amb. Al haji. Prof Emeritus Badru Dungu Kateregga is a man who wears many hats. Among them are the following : he is Owekitibwa (member of the great Lukiiko of Buganda Kingdom): a former Ambassador of Uganda of Saudi Arabia, the Gulf States, Iraq and Palestine. He is one of a few Ugandans upon whom the tile of national Hero has been bestowed (the Nalubaale medal of Service in honour of his contribution to the liberation struggle in Uganda)</p>
-                                                
+
                                             <h6>Early Life and Career</h6>
-                                                
+
                                             <p>
                                                 Prof Badru Kateregga was born on Saturday 4th December 1948 to the late Al-Haji Kateregga of the Emplogma (Lion) clan and Omulongo ( a twin) Hajat Nakato Aisha Namusoke of the Empeewo (antelope family) clan in Kabasanda village, in the former Butambala County ( now a district) in Buganda region of Uganda. He is the fourth born in a family of 27 children.
-                                                
+
                                                 From his late father’s genes, Kateregga apparently inherited a love for academia, hard work , emotional strength and commitment to worthy causes. From his mother he seems to have been bequeathed with generosity, openness with a high sense of humor. His father appreciated the value of education, so he struggled thick and thin to ensure that his son got quality education in the time when several parents never took education seriously.
                                             </p>
                                             <p>

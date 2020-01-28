@@ -12,7 +12,7 @@
     <div class="ku-page-title-container ku-container">
         <div class="ku-page-title-content ku-item-pdlr" id="div_983a_1">
             <div class="ku-page-caption" id="div_983a_2">Know Us Better</div>
-            <h1 class="ku-page-title" id="h1_983a_0">About Us</h1></div>
+            <h1 class="ku-page-title" id="h1_983a_0">School of Computer Science and Information Technology</h1></div>
     </div>
 </div>
 <div class="ku-breadcrumbs">

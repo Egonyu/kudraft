@@ -42,9 +42,9 @@
                                             <li class="menu-item"><a href="{{ route('education') }}">Education</a></li>
                                             <li class="menu-item"><a href="{{ route('natural-sciences') }}">Natural Sciences</a></li>
                                             <li class="menu-item"><a href="{{ route('nursing') }}">Nursing &#038; Health Sciences</a></li>
-                                            <li class="menu-item"><a href="{{ route('film-school') }}">Film School</a></li>
+                                            <li class="menu-item"><a href="{{ url('https://www.kampalafilmschool.org/') }}" target="_blank">Film School</a></li>
                                             <li class="menu-item"><a href="{{ route('industrial-art') }}">Industrial Art &#038; Design</a></li>
-                                            <li class="menu-item"><a href="{{ route('arts') }}">Arts &#038; Sciences</a></li>
+                                            <li class="menu-item"><a href="{{ route('arts') }}">Arts &#038; Social Sciences</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children"><a href="#">Graduate Program</a>
@@ -52,9 +52,9 @@
                                             <li class="menu-item"><a href="{{ route('csitPostGrad') }}">Computer Science & IT</a></li>
                                             <li class="menu-item"><a href="{{ route('environmental-science') }}">Environmental Science</a></li>
                                             <li class="menu-item"><a href="{{ route('public-health') }}">Public Health</a></li>
-                                            <li class="menu-item"><a href="{{ route('economics', ['id'=>1]) }}">Economics</a></li>
-                                            <li class="menu-item"><a href="{{ route('business-management', ['id'=>1]) }}">Business Management</a></li>
-                                            <li class="menu-item"><a href="{{ route('educationPostGrad', ['id'=>1]) }}">Education</a></li>
+                                            <li class="menu-item"><a href="{{ route('economics') }}">Economics</a></li>
+                                            <li class="menu-item"><a href="{{ route('business-management') }}">Business Management</a></li>
+                                            <li class="menu-item"><a href="{{ route('educationPostGrad') }}">Education</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children"><a href="#">Resources</a>
@@ -83,7 +83,7 @@
                                 </ul>
                             </li>
                             <li class="menu-item"><a href="athletics.html">Athletics</a></li>
-                            <li class="menu-item"><a href="university-life.html">University Life</a></li>
+                            {{-- <li class="menu-item"><a href="university-life.html">University Life</a></li> --}}
                         </ul>
                     </div>
                 </div>

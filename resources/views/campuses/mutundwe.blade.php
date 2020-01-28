@@ -8,14 +8,14 @@
     <div class="ku-page-title-container ku-container">
         <div class="ku-page-title-content ku-item-pdlr" id="div_983a_1">
             <div class="ku-page-caption" id="div_983a_2">Kampala University</div>
-            <h1 class="ku-page-title" id="h1_983a_0">mutundwe School Of Nursing</h1></div>
+            <h1 class="ku-page-title" id="h1_983a_0">Mutundwe Campus</h1></div>
     </div>
 </div>
 <div class="ku-breadcrumbs">
     <div class="ku-breadcrumbs-container ku-container">
-        <div class="ku-breadcrumbs-item ku-item-pdlr"> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to ku." href=" {{ route('about') }} " class="home"><span property="name">Home</span></a>
+        <div class="ku-breadcrumbs-item ku-item-pdlr"> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to ku." href=" {{ route('home') }} " class="home"><span property="name">Home</span></a>
             <meta property="position" content="1">
-            </span>&gt;<span property="itemListElement" typeof="ListItem"><span property="name">School Of Nursing</span>
+            </span>&gt;<span property="itemListElement" typeof="ListItem"><span property="name">Mutundwe Campus</span>
             <meta property="position" content="2">
             </span>
         </div>
@@ -38,13 +38,13 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 33px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #ffffff ;">Special Campus Tour</h3></div>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 33px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #ffffff ;">principal, Nakijoba Robinah </h3></div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 17px ;text-transform: none ;color: #ffffff ;">
-                                            <p>Campus on a tour designed for prospective graduate and professional students. You will see how our university like, facilities, students and life in this university. Meet our graduate admissions representative to learn more about our graduate programs and decide what it the best for you.</p>
+                                            <p>The principal Mutundwe School of Nursing and Health Sciences, Kampala University. </p>
                                         </div>
                                     </div>
                                 </div>
@@ -54,7 +54,7 @@
                     <div class="gdlr-core-pbf-column gdlr-core-column-30">
                         <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-column-extend-right" data-sync-height="height-1">
                             <div class="gdlr-core-pbf-background-wrap">
-                                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url({{ asset('images/pageImages/nursing.JPG') }}) ;background-size: cover ;background-position: center ;" data-parallax-speed="0"></div>
+                                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url({{ asset('images/profiles/principle.JPG') }}) ;background-size: cover ;background-position: center ;" data-parallax-speed="0"></div>
                             </div>
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"></div>
                         </div>
@@ -68,9 +68,9 @@
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
                     <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
                         <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="padding: 0px 10px 0px 0px;">
-                            <img src="{{ asset('images/pageImages/19413.jpg') }}" alt="">
-                            <h6>Call for November 2017 Applications </h6>
-                            <p>Kampala University School of Nursing and Health Sciences invites applications for the November 2017 Intake and interviews are scheduled for September 2017. <a href="#">Apply Now</a> </p>
+                            <img src="{{ asset('images/pageImages/nurses.png') }}" alt="">
+                            <h6>Call for JUly 2020 Applications </h6>
+                            <p>Kampala University School of Nursing and Health Sciences invites applications for the JUly 2020 Intake and interviews are scheduled for March 23 2020. <a href="#">Apply Now</a> </p>
                         </div>
                     </div>
                     <div class="gdlr-core-pbf-column gdlr-core-column-30">

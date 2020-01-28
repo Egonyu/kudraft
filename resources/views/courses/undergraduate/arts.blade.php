@@ -13,7 +13,7 @@
 </div>
 <div class="ku-breadcrumbs">
     <div class="ku-breadcrumbs-container ku-container">
-        <div class="ku-breadcrumbs-item ku-item-pdlr"> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to ku." href=" {{ route('about') }} " class="home"><span property="name">Home</span></a>
+        <div class="ku-breadcrumbs-item ku-item-pdlr"> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to ku." href=" {{ route('home') }} " class="home"><span property="name">Home</span></a>
             <meta property="position" content="1">
             </span>&gt;<span property="itemListElement" typeof="ListItem"><span property="name">Arts and Social Sciences.</span>
             <meta property="position" content="2">
@@ -30,7 +30,7 @@
                             <div class="gdlr-core-pbf-element">
                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
                                     <div class="gdlr-core-title-item-title-wrap clearfix">
-                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 27px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;">School of Business and Management.</h3></div>
+                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 27px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;">Arts and Social Sciences.</h3></div>
                                 </div>
                             </div>
                             <div class="gdlr-core-pbf-element">
@@ -121,6 +121,7 @@
                                     <button class="accordion">Contacts Coordinator:</button>
                                     <div class="panel">
                                     <p>Mr. Umar Muwonge</p>
+                                    <p>+256 703541246</p>
                                     </div>
                                 </div>
                             </div>

@@ -158,7 +158,9 @@
         </div>
         <div class="gdlr-core-pbf-wrapper " id="div_1dd7_21">
             <div class="gdlr-core-pbf-background-wrap">
-                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" id="div_1dd7_22" data-parallax-speed="0.2"></div>
+                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" id="div_1dd7_22" data-parallax-speed="0.2">
+                    <a href="{{ url('https://youtu.be/2-jkz0QHLWY') }}"></a>
+                </div>
             </div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
@@ -303,22 +305,21 @@
                                                     <div class="gdlr-core-blog-grid ">
                                                         <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
                                                             <a href="#">
-                                                                <img src="{{ asset('images/slider/nurses-grad.JPG') }}" width="700" height="430" alt="" />
+                                                                <img src="{{ asset('images/news-events/grad.jpg') }}" width="700" height="430" alt="" />
                                                             </a>
                                                         </div>
                                                         <div class="gdlr-core-blog-grid-content-wrap">
                                                             <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
                                                                 <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                    <a href="#">September 24, 2019</a>
+                                                                    <a href="#">April 16, 2020</a>
                                                                 </span>
                                                                 <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
-                                                                    <a href="#" rel="tag">Nurses Graduation</a>
+                                                                    <a href="#" rel="tag">Kampala University Graduation</a>
                                                                     <span class="gdlr-core-sep">,</span>
-                                                                    <a href="#" rel="tag">Student</a>
                                                                 </span>
                                                             </div>
                                                             <h3 class="gdlr-core-blog-title gdlr-core-skin-title" id="h3_1dd7_11">
-                                                                <a href="https://aituedu.org/" >Kampala University signed an MOU with American International Theology University – AITU</a>
+                                                                <a href="https://aituedu.org/" >Kampala University to hold our 17 graduation ceremony</a>
                                                             </h3>
                                                         </div>
                                                     </div>
@@ -328,13 +329,13 @@
                                                 <div class="gdlr-core-item-list gdlr-core-blog-widget gdlr-core-item-mglr clearfix gdlr-core-style-small">
                                                     <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
                                                         <a href="#">
-                                                            <img src="{{ asset('images/news-events/registration.PNG') }}" alt="" width="150" height="150" title="Student" />
+                                                            <img src="{{ asset('images/news-events/classes.jpg') }}" alt="" width="150" height="150" title="Student" />
                                                         </a>
                                                     </div>
                                                     <div class="gdlr-core-blog-widget-content">
                                                         <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
                                                             <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                <a href="#">Nov 26, 2019</a>
+                                                                <a href="#">JAN 27, 2020</a>
                                                             </span>
                                                             <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
                                                                 <a href="#" rel="tag">Hot</a>
@@ -343,49 +344,69 @@
                                                             </span>
                                                         </div>
                                                         <h3 class="gdlr-core-blog-title gdlr-core-skin-title" id="h3_1dd7_12">
-                                                            <a href="{{ route('admissions') }}" >Registration for February intake 2020 is in progress at all our Campuses.</a>
+                                                            <a href="{{ route('admissions') }}" >Freshers Day 1 At Kampala University.</a>
                                                         </h3>
                                                     </div>
                                                 </div>
                                                 <div class="gdlr-core-item-list gdlr-core-blog-widget gdlr-core-item-mglr clearfix gdlr-core-style-small">
                                                     <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
                                                         <a href="#">
-                                                            <img src="{{ asset('images/news-events/graduate.JPG') }}" alt="" width="150" height="150" title="shutterstock_481869205" />
+                                                            <img src="{{ asset('images/news-events/graduate.jpg') }}" alt="" width="150" height="150" title="shutterstock_481869205" />
                                                         </a>
                                                     </div>
                                                     <div class="gdlr-core-blog-widget-content">
                                                         <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
                                                             <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                <a href="#">Sept 6, 2019</a>
+                                                                <a href="#">Monday 3, 2020</a>
                                                             </span>
                                                             <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
-                                                                <a href="#" rel="tag">PHD Admissions</a>
+                                                                <a href="#" rel="tag">General Students</a>
                                                                 <span class="gdlr-core-sep">,</span>
                                                                 <a href="#" rel="tag">News</a>
                                                             </span>
                                                         </div>
                                                         <h3 class="gdlr-core-blog-title gdlr-core-skin-title" id="h3_1dd7_13">
-                                                            <a href="#" >Next semester will start on 3rd February 2020 .</a>
+                                                            <a href="#" >Old Students Enter Classes</a>
                                                         </h3>
                                                     </div>
                                                 </div>
                                                 <div class="gdlr-core-item-list gdlr-core-blog-widget gdlr-core-item-mglr clearfix gdlr-core-style-small">
                                                     <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
                                                         <a href="#">
-                                                            <img src="{{ asset('images/news-events/books-laptop.JPG') }}" alt="" width="150" height="150" title="shutterstock_361397258" />
+                                                            <img src="{{ asset('images/news-events/books-laptop.jpg') }}" alt="" width="150" height="150" title="shutterstock_361397258" />
                                                         </a>
                                                     </div>
                                                     <div class="gdlr-core-blog-widget-content">
                                                         <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
                                                             <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                <a href="#">October 3, 2019</a>
+                                                                <a href="#">JAN 20, 2020</a>
                                                             </span>
                                                             <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
                                                                 <a href="#" rel="tag">Alert</a>
                                                             </span>
                                                         </div>
                                                         <h3 class="gdlr-core-blog-title gdlr-core-skin-title" id="h3_1dd7_14">
-                                                            <a href="#" >In-service programme will start on 2nd to 21st December 2019.</a>
+                                                            <a href="#" >Graduating Class Special Exams Begin</a>
+                                                        </h3>
+                                                    </div>
+                                                </div>
+                                                <div class="gdlr-core-item-list gdlr-core-blog-widget gdlr-core-item-mglr clearfix gdlr-core-style-small">
+                                                    <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
+                                                        <a href="#">
+                                                            <img src="{{ asset('images/news-events/books-laptop.jpg') }}" alt="" width="150" height="150" title="shutterstock_361397258" />
+                                                        </a>
+                                                    </div>
+                                                    <div class="gdlr-core-blog-widget-content">
+                                                        <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
+                                                            <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
+                                                                <a href="#">FEB 24, 2020</a>
+                                                            </span>
+                                                            <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
+                                                                <a href="#" rel="tag">Alert</a>
+                                                            </span>
+                                                        </div>
+                                                        <h3 class="gdlr-core-blog-title gdlr-core-skin-title" id="h3_1dd7_14">
+                                                            <a href="#" >Continuing Students Special Exams Begin</a>
                                                         </h3>
                                                     </div>
                                                 </div>
@@ -480,65 +501,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="gdlr-core-pbf-column gdlr-core-column-40 gdlr-core-column-first" data-skin="Blue Title">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-column-extend-left" id="div_1dd7_64" data-sync-height="height-3" data-sync-height-center>
-                            <div class="gdlr-core-pbf-background-wrap" id="div_1dd7_65"></div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
-                                        <div class="gdlr-core-text-box-item-content" id="div_1dd7_66">
-                                            <div class="gdlr-core-twitter-item gdlr-core-item-pdb" id="div_1dd7_67">
-                                                <div class="gdlr-core-block-item-title-nav ">
-                                                    <div class="gdlr-core-flexslider-nav gdlr-core-plain-style gdlr-core-block-center"></div>
-                                                </div>
-
-                                                <div class="gdlr-core-twitter-content">
-                                                    <div class="gdlr-core-flexslider flexslider gdlr-core-js-2 " data-type="carousel" data-column="1" data-nav="navigation" data-nav-parent="gdlr-core-twitter-item">
-                                                        <ul class="slides" id="ul_1dd7_0">
-                                                            <li class="gdlr-core-item-mglr">
-                                                                <div class="gdlr-core-twitter-item-list">
-                                                                    <span class="gdlr-core-twitter-item-list-content">RT
-                                                                        <a href="http://www.twitter.com/placeitapp">@placeitapp</a>: Making a
-                                                                        <a target="_blank" href="http://twitter.com/search?q=YouTube">#YouTube</a> banner for your channel is easy with Placeit&#8217;s
-                                                                        <a target="_blank" href="http://twitter.com/search?q=bannermaker!">#bannermaker!</a> Make your own in sec…
-                                                                        <a target="_blank" href="https://t.co/0X22tX3wtm">https://t.co/0X22tX3wtm</a>
-                                                                    </span>
-
-                                                                </div>
-                                                            </li>
-                                                            <li class="gdlr-core-item-mglr">
-                                                                <div class="gdlr-core-twitter-item-list">
-                                                                    <span class="gdlr-core-twitter-item-list-content">Our Chief People Officer
-                                                                    </span>
-                                                                </div>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="gdlr-core-pbf-column gdlr-core-column-20" data-skin="White Text">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-column-extend-right" id="div_1dd7_68" data-sync-height="height-3">
-                            <div class="gdlr-core-pbf-background-wrap" id="div_1dd7_69"></div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-no-caption gdlr-core-item-pdlr" id="div_1dd7_70">
-                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_71"><img src="{{ asset('images/eagle.png') }}" alt="" width="42" height="39" title="apply-logo" /></div>
-                                        <div class="gdlr-core-column-service-content-wrapper">
-                                            <div class="gdlr-core-column-service-title-wrap">
-                                                <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_22">Join Kampala University</h3></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <a class="gdlr-core-pbf-column-link" href="#" target="_self"></a>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
@@ -551,7 +513,8 @@
                     <div class="gdlr-core-pbf-element">
                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" id="div_1dd7_75">
                             <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_1dd7_76">
-                                <a class="gdlr-core-lightgallery gdlr-core-js " href="https://youtu.be/2-jkz0QHLWY"><img src="upload/icon-play.png" alt="" width="82" height="82" title="icon-play" /></a>
+
+                                <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=2-jkz0QHLWY&t=4s"><img src="upload/icon-play.png" alt="" width="82" height="82" title="icon-play" /></a>
                             </div>
                         </div>
                     </div>
@@ -581,7 +544,18 @@
                             <div class="gdlr-core-tab-item-content-image-wrap clearfix">
                                 <div class="gdlr-core-tab-item-image  gdlr-core-active" data-tab-id="1">
                                     <a class="gdlr-core-lightgallery gdlr-core-js " href="#">
-                                        <span class="gdlr-core-tab-item-image-background" id="span_1dd7_1"  ></span>
+                                        <span class="gdlr-core-tab-item-image-background" id="span_1dd7_1"  >
+                                            <video>
+
+                                                <source src="https://www.youtube.com/watch?v=2-jkz0QHLWY&t=4s"
+                                                        type="video/webm">
+
+                                                <source src="https://www.youtube.com/watch?v=2-jkz0QHLWY&t=4s"
+                                                        type="video/mp4">
+
+                                                Sorry, your browser doesn't support embedded videos.
+                                            </video>
+                                        </span>
                                         <i class="fa fa-play" ></i>
                                     </a>
                                 </div>
@@ -682,7 +656,7 @@
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
                                             <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_29">Join Graduate School </h3>
                                         </div>
-                                        <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_6">With wdie range of course offered at the graduate school, you can join the Proffessional </span>
+                                        <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_6">With a wide range of course offered at the graduate school, you can join the Proffessional </span>
                                     </div>
                                 </div>
                             </div>
@@ -719,28 +693,28 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align">
                                         <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-round" id="div_1dd7_92">
-                                            <img src="http://thestandard.ucu.ac.ug/wp-content/uploads/2016/10/cg.jpg" width="700" height="372" alt="" />
+                                            <img src="{{ asset('images/news-events/studentup.jpg') }}" width="700" height="372" alt="" />
                                         </div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_31">Cultural Gala</h3>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_31">17 Graduation of Kampala University</h3>
                                         </div>
-                                        <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_8">The Campaign for the ku University is the
-                                            <strong>largest fundraising campaign in history.</strong> With a historic $1 billion goal, the campaign is expanding U of T’s global leadership capacity.
+                                        <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_8">Kampala University will yet hold a nother ceremony with its
+                                            <strong>17th Graduation Function</strong> where Diginataries are to grace the occasion.
                                         </span>
                                     </div>
                                 </div>
-                                <div class="gdlr-core-pbf-element">
+                                {{-- <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                         <a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="#" id="a_1dd7_6">
                                             <i class="gdlr-core-pos-left fa fa-heart"  ></i>
                                             <span class="gdlr-core-content" >View More</span>
                                         </a>
                                     </div>
-                                </div>
+                                </div> --}}
                             </div>
                         </div>
                     </div>
@@ -760,12 +734,12 @@
                                         <div class="gdlr-core-event-item-holder clearfix">
                                             <div class="gdlr-core-event-item-list gdlr-core-style-widget gdlr-core-item-pdlr  clearfix" id="div_1dd7_97">
                                                 <span class="gdlr-core-event-item-info gdlr-core-type-start-date-month">
-                                                    <span class="gdlr-core-date" >11</span>
-                                                    <span class="gdlr-core-month">Aug</span>
+                                                    <span class="gdlr-core-date" >16</span>
+                                                    <span class="gdlr-core-month">April</span>
                                                 </span>
                                                 <div class="gdlr-core-event-item-content-wrap">
                                                     <h3 class="gdlr-core-event-item-title">
-                                                        <a href="#" >Pre-University Exams</a>
+                                                        {{-- <a href="#" ></a> --}}17 Graduation
                                                     </h3>
                                                     <div class="gdlr-core-event-item-info-wrap">
                                                         <span class="gdlr-core-event-item-info gdlr-core-type-time">
@@ -785,12 +759,12 @@
                                             </div>
                                             <div class="gdlr-core-event-item-list gdlr-core-style-widget gdlr-core-item-pdlr  clearfix" id="div_1dd7_98">
                                                 <span class="gdlr-core-event-item-info gdlr-core-type-start-date-month">
-                                                    <span class="gdlr-core-date" >25</span>
-                                                    <span class="gdlr-core-month">Nov</span>
+                                                    <span class="gdlr-core-date" >1-3</span>
+                                                    <span class="gdlr-core-month">May</span>
                                                 </span>
                                                 <div class="gdlr-core-event-item-content-wrap">
                                                     <h3 class="gdlr-core-event-item-title">
-                                                        <a href="#" >Registration for the January intake 2020 for NURSING and MIDWIFERY is in Progress at our Nursing School- Mutundwe.</a>
+                                                        {{-- <a href="#" ></a> --}}Cultural Gala
                                                     </h3>
                                                     <div class="gdlr-core-event-item-info-wrap">
                                                         <span class="gdlr-core-event-item-info gdlr-core-type-time">
@@ -810,25 +784,51 @@
                                             </div>
                                             <div class="gdlr-core-event-item-list gdlr-core-style-widget gdlr-core-item-pdlr  clearfix" id="div_1dd7_99">
                                                 <span class="gdlr-core-event-item-info gdlr-core-type-start-date-month">
-                                                    <span class="gdlr-core-date" >02</span>
-                                                    <span class="gdlr-core-month">Dec</span>
+                                                    <span class="gdlr-core-date" >09</span>
+                                                    <span class="gdlr-core-month">May</span>
                                                 </span>
                                                 <div class="gdlr-core-event-item-content-wrap">
                                                     <h3 class="gdlr-core-event-item-title">
-                                                        <a href="#" >Next semester will start on 3rd February 2020. </a>
+                                                        {{-- <a href="#" ></a> --}}Guild Elections 
                                                     </h3>
                                                     <div class="gdlr-core-event-item-info-wrap">
                                                         <span class="gdlr-core-event-item-info gdlr-core-type-time">
                                                             <span class="gdlr-core-head" >
                                                                 <i class="icon_clock_alt" ></i>
                                                             </span>
-                                                            <span class="gdlr-core-tail">1:00 pm - 5:00 pm</span>
+                                                            <span class="gdlr-core-tail">8:00 am - 5:00 pm</span>
                                                         </span>
                                                         <span class="gdlr-core-event-item-info gdlr-core-type-location">
                                                             <span class="gdlr-core-head" >
                                                                 <i class="icon_pin_alt" ></i>
                                                             </span>
-                                                            <span class="gdlr-core-tail">Kampala University Mutundwe</span>
+                                                            <span class="gdlr-core-tail">Kampala University Ggaba</span>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-event-item-list gdlr-core-style-widget gdlr-core-item-pdlr  clearfix" id="div_1dd7_99">
+                                                <span class="gdlr-core-event-item-info gdlr-core-type-start-date-month">
+                                                    <span class="gdlr-core-date" >15</span>
+                                                    <span class="gdlr-core-month">May</span>
+                                                </span>
+                                                <div class="gdlr-core-event-item-content-wrap">
+                                                    <h3 class="gdlr-core-event-item-title">
+                                                        {{-- <a href="#" >Guild Handover </a> --}}
+                                                        Guild Handover 
+                                                    </h3>
+                                                    <div class="gdlr-core-event-item-info-wrap">
+                                                        <span class="gdlr-core-event-item-info gdlr-core-type-time">
+                                                            <span class="gdlr-core-head" >
+                                                                <i class="icon_clock_alt" ></i>
+                                                            </span>
+                                                            <span class="gdlr-core-tail">8:00 am - 5:00 pm</span>
+                                                        </span>
+                                                        <span class="gdlr-core-event-item-info gdlr-core-type-location">
+                                                            <span class="gdlr-core-head" >
+                                                                <i class="icon_pin_alt" ></i>
+                                                            </span>
+                                                            <span class="gdlr-core-tail">Kampala University Ggaba</span>
                                                         </span>
                                                     </div>
                                                 </div>
@@ -836,9 +836,9 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="gdlr-core-pbf-element">
+                                {{-- <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"><a class="gdlr-core-button  gdlr-core-button-transparent gdlr-core-button-no-border" href="#" id="a_1dd7_7"><span class="gdlr-core-content" >View All Events</span><i class="gdlr-core-pos-right fa fa-long-arrow-right" id="i_1dd7_2"  ></i></a></div>
-                                </div>
+                                </div> --}}
                             </div>
                         </div>
                     </div>

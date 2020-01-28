@@ -15,6 +15,7 @@
                             <ul class="sub-menu">
                                 <li class="menu-item" data-size="60"><a href="{{ route('quality-assurance') }}">Quality Assurance</a></li>
                                 <li class="menu-item" data-size="60"><a href=" {{ route('about') }} ">About US</a></li>
+                                <li class="menu-item" data-size="60"><a href=" {{ url('council') }} ">University Council</a></li>
                                 <li class="menu-item" data-size="60"><a href=" {{ route('alumni') }} ">Alumni</a></li>
                                 <li class="menu-item" data-size="60"><a href=" {{ route('sports') }} ">Sports</a></li>
                                 <li class="menu-item ku-normal-menu"><a href="{{ route('uni-life') }}">University Life</a></li>
@@ -30,7 +31,7 @@
                                             <li class="menu-item"><a href="{{ route('education') }}">Education</a></li>
                                             <li class="menu-item"><a href="{{ route('natural-sciences') }}">Natural Sciences</a></li>
                                             <li class="menu-item"><a href="{{ route('nursing') }}">Nursing &#038; Health Sciences</a></li>
-                                            <li class="menu-item"><a href="{{ route('film-school') }}">Film School</a></li>
+                                            <li class="menu-item"><a href="{{ url('https://www.kampalafilmschool.org/') }}">Film School</a></li>
                                             <li class="menu-item"><a href="{{ route('industrial-art') }}">Industrial Art &#038; Design</a></li>
                                             <li class="menu-item"><a href="{{ route('arts') }}">Arts &#038; Sciences</a></li>
                                         </ul>
@@ -63,8 +64,6 @@
                                             <li class="menu-item"><a href="{{ route('library') }}">Library</a></li>
                                             <li class="menu-item"><a href="{{ route('cisco') }}">CISCO</a></li>
                                             <li class="menu-item"><a href="{{ route('accomodation') }}">Accomodation</a></li>
-                                            <li class="menu-item"><a href="introduction-to-financial-accounting.html">August December Sports Activities</a></li>
-                                            <li class="menu-item"><a href="introduction-to-financial-accounting.html">2019 Graduation List</a></li>
                                         </ul>
                                     </li>
                                     {{-- <li class="menu-item" data-size="15">
@@ -79,7 +78,7 @@
                                 <li class="menu-item" data-size="60"><a href=" {{ route('mutundwe') }} ">Nursing School Mutundwe</a></li>
                                 <li class="menu-item" data-size="60"><a href=" {{ route('masaka') }} ">Masaka Campus</a></li>
                                 <li class="menu-item" data-size="60"><a href=" {{ route('jinja') }} ">Jinja Campus</a></li>
-                                <li class="menu-item" data-size="60"><a href=" {{ route('lweero') }} ">Lwero Campus</a></li>
+                                <li class="menu-item" data-size="60"><a href=" {{ route('lweero') }} ">Luwero Campus</a></li>
                                 <li class="menu-item" data-size="60"><a href=" {{ route('kitengela') }} ">East African University Campus</a></li>
                             </ul>
                         </li>

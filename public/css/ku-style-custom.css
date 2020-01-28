@@ -701,7 +701,7 @@ body .gdlr-core-flipbox-item .gdlr-core-flipbox-item-image {
 #div_1dd7_20{font-size: 18px ;text-transform: none ;color: #c1d3ff ;}
 #a_1dd7_0{font-size: 15px ;color: #ffffff ;padding: 12px 29px 17px 31px;text-transform: none ;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;}
 #div_1dd7_21{padding: 125px 0px 70px 0px;}
-#div_1dd7_22{background-image: url(../images/slider/ku20-Aniversary.jpg) ;background-size: cover ;background-position: center ;}
+#div_1dd7_22{background-image: url('../images/slider/ku20-Aniversary.jpg') ;background-size: cover ;background-position: center ;}
 #div_1dd7_23{padding-bottom: 20px ;}
 #div_1dd7_24{border-width: 0px;}
 #div_1dd7_25{padding-bottom: 20px ;}
@@ -795,8 +795,8 @@ body .gdlr-core-flipbox-item .gdlr-core-flipbox-item-image {
 #div_1dd7_78{font-size: 19px ;font-weight: 500 ;text-transform: none ;color: #ffffff ;}
 #div_1dd7_79{padding: 90px 0px 60px 0px;}
 #div_1dd7_80{background-color: #efefef ;}
-#span_1dd7_1{background-image: url(../images/slider/queen-prof.jpg) ;}
-#span_1dd7_2{background-image: url(../upload/tab-2.jpg) ;}
+#span_1dd7_1{background-image: url(../images/news-events/classes.jpg) ;}
+#span_1dd7_2{background-image: url(../images/news-events/studentup.jpg) ;}
 #span_1dd7_3{background-image: url(../upload/tab-3.jpg) ;}
 #span_1dd7_4{background-image: url(../upload/tab-4.jpg) ;}
 #1{background-color: #ffffff ;background-image: url(../upload/tab-bg.png) ;background-position: top right ;}
@@ -864,7 +864,7 @@ body .gdlr-core-flipbox-item .gdlr-core-flipbox-item-image {
 #img_983a_0{margin-bottom: 13px;}
 #span_983a_0{font-size: 14px; font-weight: 500;}
 #div_983a_0{background-image: url(../images/slider/main.JPG) ;}
-#div_983a_0-accomodation{background-image: url(../images/pageImages/19413.jpg) ;}
+#div_983a_0-accomodation{background-image: url(../images/pageImages/hostel.jpg) ;}
 #div_983a_0-admission{background-image: url(../images/pageImages/admission.JPG) ;}
 #div_983a_0-sports{background-image: url(../images/slider/sports2.jpg) ;}
 #div_983a_0-csitPost{background-image: url(../images/slider/complab.jpg) ;}
