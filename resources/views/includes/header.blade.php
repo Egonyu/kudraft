@@ -78,7 +78,7 @@
                                 <li class="menu-item" data-size="60"><a href=" {{ route('mutundwe') }} ">Nursing School Mutundwe</a></li>
                                 <li class="menu-item" data-size="60"><a href=" {{ route('masaka') }} ">Masaka Campus</a></li>
                                 <li class="menu-item" data-size="60"><a href=" {{ route('jinja') }} ">Jinja Campus</a></li>
-                                <li class="menu-item" data-size="60"><a href=" {{ route('lweero') }} ">Lwero Campus</a></li>
+                                <li class="menu-item" data-size="60"><a href=" {{ route('lweero') }} ">Luwero Campus</a></li>
                                 <li class="menu-item" data-size="60"><a href=" {{ route('kitengela') }} ">East African University Campus</a></li>
                             </ul>
                         </li>

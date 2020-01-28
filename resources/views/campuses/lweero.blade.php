@@ -47,6 +47,8 @@
                                             <p>Located in Luwero District at Nakyeewa off Kampala Gulu highway between Wobulenzi and Luwero townships.</p>
                                             <p>Telephone: </p>
                                             <p>0772-450601, 0783655287</p>
+                                            <p>0754072209</p>
+                                            <p>AR. 0701209720</p>
                                         </div>
                                     </div>
                                 </div>

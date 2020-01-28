@@ -47,6 +47,8 @@
                                             <p>Located along Jinja Iganga Highway near Mailo Mbiiri.</p>
                                             <p>Telephone:</p>
                                             <p> 0772-450601, 0783655287</p>
+                                            <p>0777393412</p>
+                                            <p>0751688112</p>
                                         </div>
                                     </div>
                                 </div>

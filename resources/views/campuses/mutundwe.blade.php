@@ -68,9 +68,9 @@
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
                     <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
                         <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="padding: 0px 10px 0px 0px;">
-                            <img src="{{ asset('images/pageImages/nurses.PNG') }}" alt="">
+                            <img src="{{ asset('images/pageImages/nurses.png') }}" alt="">
                             <h6>Call for JUly 2020 Applications </h6>
-                            <p>Kampala University School of Nursing and Health Sciences invites applications for the November 2017 Intake and interviews are scheduled for September 2017. <a href="#">Apply Now</a> </p>
+                            <p>Kampala University School of Nursing and Health Sciences invites applications for the JUly 2020 Intake and interviews are scheduled for March 23 2020. <a href="#">Apply Now</a> </p>
                         </div>
                     </div>
                     <div class="gdlr-core-pbf-column gdlr-core-column-30">
