@@ -55,6 +55,7 @@
                                             <li class="menu-item"><a href="{{ asset('pdf/GENERAL-CIRCULAR-FEB_MAY-2019.pdf') }}" target="_blank">General Circular 2018/2019</a></li>
                                             <li class="menu-item"><a href="{{ asset('pdf/Aug-Dec-Semester-Sports-Activities.pdf') }}" target="_blank">August December Sports Activities</a></li>
                                             <li class="menu-item"><a href="{{ asset('pdf/LIST-OF-GRADUANDS-2019.pdf') }} " target="_blank">2019 Graduation List</a></li>
+                                            <li class="menu-item"><a href="{{ asset('pdf/Almanac-2020.pdf') }} " target="_blank">2020 University Program Activities</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children" data-size="15"><a href="#" class="sf-with-ul-pre">Others</a>

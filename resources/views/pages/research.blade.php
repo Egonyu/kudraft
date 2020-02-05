@@ -60,7 +60,7 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="gdlr-core-pbf-sidebar-right gdlr-core-column-extend-right  kingster-sidebar-area gdlr-core-column-20 gdlr-core-pbf-sidebar-padding  gdlr-core-line-height" style="padding: 30px 0px 30px 0px;">
                     <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
                         <div id="text-15" class="widget widget_text kingster-widget">
@@ -82,7 +82,7 @@
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
                     <div class="gdlr-core-pbf-element">
                         <div class="gdlr-core-tab-item gdlr-core-js gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-tab-style1-horizontal gdlr-core-item-pdlr">
-                            
+
                             <div class="gdlr-core-tab-item-content-image-wrap clearfix">
                                 <div class="gdlr-core-tab-item-image  gdlr-core-active" data-tab-id="1">
                                     <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg">
@@ -123,7 +123,7 @@
                                                 <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_24" style="text-align:center;">Examining poultry firms’ survival in Kampala: A case of Biyinzika Enterprises Limited Henry Stanley Mbowa Business administration (Small business management) <span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
                                         </div>
                                         <h6>Abstract</h6>
-                                        <p>TThe purpose of the study was to assess poultry firms’ survival and investigate possible strategies to improving survival of Biyinzika Enterprises Limited (BEL). The study thought to examine the current survival, challenges affecting BEL and establish the possible strategies of improving survivability of Biyinzika Enterprises Limited. The study was carried using a case study design using both qualitative and quantitative approaches of data collection; the Krejcie Morgan (1970) table of sample size determination was used to determine a sample size of 30 employees as the key informants of BEL’s departments. Data analysis was done using the Statistical Package for Social Scientists (SPSS) to run descriptive statistics from which interpretations were made thereafter.</p>
+                                        <p>The purpose of the study was to assess poultry firms’ survival and investigate possible strategies to improving survival of Biyinzika Enterprises Limited (BEL). The study thought to examine the current survival, challenges affecting BEL and establish the possible strategies of improving survivability of Biyinzika Enterprises Limited. The study was carried using a case study design using both qualitative and quantitative approaches of data collection; the Krejcie Morgan (1970) table of sample size determination was used to determine a sample size of 30 employees as the key informants of BEL’s departments. Data analysis was done using the Statistical Package for Social Scientists (SPSS) to run descriptive statistics from which interpretations were made thereafter.</p>
                                         <p> The results showed that the current performance of BEL was good influenced by appropriate marketing strategies, team work, and good quality of poultry breeds, excellent quality customer service as well as qualified and experienced employees. Findings reveal that the challenges affecting BEL’s performance included; unreliable rainfall and drought, unstable and unreliable power supply, high costs of input, theft issues, unstable commodity prices and employee turnover. Basing on the results from the study, it was recommended that BEL should establish and strengthen her internal controls over cash and other financial resources, introduce reward systems, use solar energy system and plant drought resistant crops varieties. <hr>
 
                                         <i><strong> Keyword words: </strong>Poultry, firms’ survival, drought resistant plants, internal cash controls, project diversification, on-job training </i></p>

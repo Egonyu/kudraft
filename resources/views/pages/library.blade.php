@@ -146,7 +146,6 @@
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="http://login.research4life.org/">Ebooks</a></li>
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="http://www.acs.org/">Electronic Resources A-Z</a></li>
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="http://library.ku.ac.ug/">Online Books</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="http://library.ku.ac.ug/">Online Books</a></li>
                                     </ul>
                                 </div>
                             </div>
