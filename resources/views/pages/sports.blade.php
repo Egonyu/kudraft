@@ -244,6 +244,7 @@
                     <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
                         <div class="gdlr-core-widget-box-shortcode " style="color: #ffffff ;padding: 30px 45px;background-color: #2ea025 ;">
                             <div class="gdlr-core-widget-box-shortcode-content">
+                                <img src=" {{ asset('images/profiles/coach.jpg') }} " alt="" srcset="">
                                 </p>
                                 <h3 style="font-size: 20px; color: #fff; margin-bottom: 15px;">Contact Mr. Vincent</h3>
                                 <p><span style="color: #3db166; font-size: 16px; font-weight: 600;">Sport Department Head</span>
@@ -254,6 +255,15 @@
                                 <div class="gdlr-core-social-network-item gdlr-core-item-pdb  gdlr-core-none-align" style="padding-bottom: 0px ;"><a href="#url" target="_blank" class="gdlr-core-social-network-icon" title="facebook" style="color: #3db166 ;"><i class="fa fa-facebook" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="google-plus" style="color: #3db166 ;"><i class="fa fa-google-plus" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="linkedin" style="color: #3db166 ;"><i class="fa fa-linkedin" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="skype" style="color: #3db166 ;"><i class="fa fa-skype" ></i></a><a href="#url" target="_blank" class="gdlr-core-social-network-icon" title="twitter" style="color: #3db166 ;"><i class="fa fa-twitter" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="instagram" style="color: #3db166 ;"><i class="fa fa-instagram" ></i></a></div>
                                 <p>
                             </div>
+                        </div>
+                        <br>
+                        <div class="profile">
+                            <h4>Coaching Profile</h4>
+                            <p><strong>Hometown:</strong> LUBAGA Division</p>
+                            <p><strong>Playing Background:</strong> Miracle FC 1996, K.C.C FC, EXPRESS FC, KAJANSI FC,MAKERERE UNIVERSITY FC,LUKURI FC,UMEME BUKULURA FC.</p>
+                            <p><strong>Coaching Education:</strong> CAF B License.</p>
+                            <p><strong>Coaching Experience:</strong> Kampala University 17 years; Selected University players football Team Asst Coach (University football Selected Team) 1 Year, Kampala University Women’s Head Coach (Kampala University) 17 years</p>
+                            <p><strong>Team Accomplishments:</strong> Helping teach kids soccer in this fantastic community for 17 years.</p>
                         </div>
                     </div>
                 </div>

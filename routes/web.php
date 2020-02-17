@@ -31,7 +31,7 @@ Route::get('uni-life', 'KuPagesController@uniLife')->name('uni-life');
 Route::get('cisco', 'KuPagesController@cisco')->name('cisco');
 Route::get('alumni', 'KuPagesController@alumni')->name('alumni');
 Route::get('quality-assurance', 'KuPagesController@qualityAssurance')->name('quality-assurance');
-Route::get('admissions', 'KuPagesController@admission')->name('admissions');
+// Route::get('admissions', 'KuPagesController@admission')->name('admissions');
 
 
 // routes for udergraduates course

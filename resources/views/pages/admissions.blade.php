@@ -7,8 +7,8 @@
     <div class="ku-page-title-bottom-gradient"></div>
     <div class="ku-page-title-container ku-container">
         <div class="ku-page-title-content ku-item-pdlr" id="div_983a_1">
-            <div class="ku-page-caption" id="div_983a_2">Know Us Better</div>
-            <h1 class="ku-page-title" id="h1_983a_0">About Us</h1>
+            <div class="ku-page-caption" id="div_983a_2">Kampala University</div>
+            <h1 class="ku-page-title" id="h1_983a_0">Admissions Procedure</h1>
         </div>
     </div>
 </div>
@@ -16,7 +16,7 @@
     <div class="ku-breadcrumbs-container ku-container">
         <div class="ku-breadcrumbs-item ku-item-pdlr"> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to ku." href=" {{ route('about') }} " class="home"><span property="name">Home</span></a>
             <meta property="position" content="1">
-            </span>&gt;<span property="itemListElement" typeof="ListItem"><span property="name">About Us</span>
+            </span>&gt;<span property="itemListElement" typeof="ListItem"><span property="name">Application Guidline</span>
             <meta property="position" content="2">
             </span>
         </div>
@@ -31,110 +31,14 @@
                     <div class="gdlr-core-pbf-element">
                         <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
                             <div class="gdlr-core-title-item-title-wrap clearfix">
-                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 27px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;">Detail About How To Apply</h3></div>
+                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 27px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;">How to Apply</h3></div>
                         </div>
-                    </div>
-                    <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
-                                        <div class="gdlr-core-text-box-item-content" style="font-size: 17px ;text-transform: none ;">
-                                            <p>If you would like to study in the university in the heart of the city that focus on chaning the world for better to morrow, you’re choosin the right place. We do not use special formulas to select students. We look at every single applicant&#8217;s application, academic and personal, to select students who suit to our community with a full range of backgrounds. If you would like to study in the university in the heart of the city.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="gdlr-core-pbf-column gdlr-core-column-30">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
-                                        <div class="gdlr-core-text-box-item-content" style="font-size: 17px ;text-transform: none ;">
-                                            <p>If you would like to study in the university in the heart of the city that focus on chaning the world for better to morrow, you’re choosin the right place. We do not use special formulas to select students. We look at every single applicant&#8217;s application, academic and personal, to select students who suit to our community.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="gdlr-core-pbf-wrapper " style="padding: 80px 0px 40px 0px;" data-skin="Column Service">
-            <div class="gdlr-core-pbf-background-wrap" style="background-color: #1b2945 ;"></div>
-            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                    <div class="gdlr-core-pbf-column gdlr-core-column-15 gdlr-core-column-first">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 30px;">
-                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 35px;"><img src="upload/col-icon-1.png" alt="" width="41" height="41" title="col-icon-1" /></div>
-                                        <div class="gdlr-core-column-service-content-wrapper">
-                                            <div class="gdlr-core-column-service-title-wrap">
-                                                <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">Education Services</h3></div>
-                                            <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
-                                                <p>Kingster University was established by John Smith in 1920 for the public benefit and it is recognized.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="gdlr-core-pbf-column gdlr-core-column-15">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 30px;">
-                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 31px;"><img src="upload/col-icon-2.png" alt="" width="43" height="45" title="col-icon-2" /></div>
-                                        <div class="gdlr-core-column-service-content-wrapper">
-                                            <div class="gdlr-core-column-service-title-wrap">
-                                                <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">International Hubs</h3></div>
-                                            <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
-                                                <p>Kingster University was established by John Smith in 1920 for the public benefit and it is recognized.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="gdlr-core-pbf-column gdlr-core-column-15">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 30px;">
-                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 33px;"><img src="upload/col-icon-3.png" alt="" width="40" height="43" title="col-icon-3" /></div>
-                                        <div class="gdlr-core-column-service-content-wrapper">
-                                            <div class="gdlr-core-column-service-title-wrap">
-                                                <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">Bachelor’s and Master’s</h3></div>
-                                            <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
-                                                <p>Kingster University was established by John Smith in 1920 for the public benefit and it is recognized.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="gdlr-core-pbf-column gdlr-core-column-15">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 30px;">
-                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 29px;"><img src="upload/col-icon-4.png" alt="" width="47" height="47" title="col-icon-4" /></div>
-                                        <div class="gdlr-core-column-service-content-wrapper">
-                                            <div class="gdlr-core-column-service-title-wrap">
-                                                <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">University Life</h3></div>
-                                            <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
-                                                <p>Kingster University was established by John Smith in 1920 for the public benefit and it is recognized.</p>
-                                            </div>
-                                        </div>
-                                    </div>
+                        <div class="gdlr-core-pbf-element">
+                            <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
+                                <div class="gdlr-core-text-box-item-content" style="font-size: 17px ;text-transform: none ;">
+                                    <p>Application is made through filling an application form obtained at a non refundable application fee at the Main Campus, Kampala University Ggaba, Copper Complex Kampala City Centre  and the Regional Campuses of Mbarara and Luweero.You may also download the application form from here (Academics under resources tab) and pay for it on submission.</p>
+
+                                    <p>The application form must be fully filled and the relevant academic documents attached.It must be returned to the Admissions Office of the University according to the set deadline dates obtained from the Admissions office.</p>
                                 </div>
                             </div>
                         </div>
@@ -144,13 +48,13 @@
         </div>
         <div class="gdlr-core-pbf-wrapper " style="padding: 660px 0px 30px 0px;">
             <div class="gdlr-core-pbf-background-wrap">
-                <div class="gdlr-core-pbf-background" style="background-image: url(upload/shutterstock_299633474.jpg) ;background-size: cover ;background-position: center ;background-attachment: fixed ;"></div>
+                <div class="gdlr-core-pbf-background" style="background-image: url({{asset('images/background/grads.jpg')}}) ;background-size: cover ;background-position: center ;background-attachment: fixed ;"></div>
             </div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container"></div>
             </div>
         </div>
-        <div class="gdlr-core-pbf-wrapper " style="padding: 90px 0px 30px 0px;">
+        {{-- <div class="gdlr-core-pbf-wrapper " style="padding: 90px 0px 30px 0px;">
             <div class="gdlr-core-pbf-background-wrap"></div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
@@ -270,7 +174,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
         <div class="gdlr-core-pbf-section">
             <div class="gdlr-core-pbf-section-container gdlr-core-container clearfix">
                 <div class="gdlr-core-pbf-element">
@@ -296,7 +200,7 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 10px ;">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 17px ;text-transform: none ;">
-                                            <p>The Common Application is required for students applying to any or all of KU’s three degree. You&#8217;ll be able to choose your campus and program s that you are interested.</p>
+                                            <p>There are a few prerequistits to attain a give course at Kampala University, and among the four degree programs, you will not fail to find one that will give a place at one of your campus choice.</p>
                                             <p>You will need :</p>
                                         </div>
                                     </div>
@@ -305,19 +209,25 @@
                                     <div class="gdlr-core-icon-list-item gdlr-core-item-pdlr gdlr-core-item-pdb clearfix " style="padding-bottom: 25px ;">
                                         <ul>
                                             <li class=" gdlr-core-skin-divider" style="margin-bottom: 22px ;"><span class="gdlr-core-icon-list-icon-wrap" style="margin-top: 5px ;"><i class="gdlr-core-icon-list-icon fa fa-dot-circle-o" style="color: #50bd77 ;font-size: 18px ;width: 18px ;" ></i></span>
-                                                <div class="gdlr-core-icon-list-content-wrap"><span class="gdlr-core-icon-list-content" style="font-size: 17px ;">Contact information for the counselor or other school representative who will complete your Common Application School Report and submit your official high school transcript.</span></div>
+                                                <div class="gdlr-core-icon-list-content-wrap"><span class="gdlr-core-icon-list-content" style="font-size: 17px ;">Certificate Programmes: Candidates must have obtained Uganda Certificate of Education with at least five passes at one sitting or its equivalent.</span></div>
                                             </li>
                                             <li class=" gdlr-core-skin-divider" style="margin-bottom: 22px ;"><span class="gdlr-core-icon-list-icon-wrap" style="margin-top: 5px ;"><i class="gdlr-core-icon-list-icon fa fa-dot-circle-o" style="color: #50bd77 ;font-size: 18px ;width: 18px ;" ></i></span>
-                                                <div class="gdlr-core-icon-list-content-wrap"><span class="gdlr-core-icon-list-content" style="font-size: 17px ;">Contact information for one teacher (or two, maximum) who will complete the Teacher Evaluation form.</span></div>
+                                                <div class="gdlr-core-icon-list-content-wrap"><span class="gdlr-core-icon-list-content" style="font-size: 17px ;">Diploma Programmes: The minimum requirement is a principal pass in the Uganda Advanced Certificate of Education in the subjects relevant to the programme applied for, or a certificate in related field.</span></div>
                                             </li>
                                             <li class=" gdlr-core-skin-divider" style="margin-bottom: 22px ;"><span class="gdlr-core-icon-list-icon-wrap" style="margin-top: 5px ;"><i class="gdlr-core-icon-list-icon fa fa-dot-circle-o" style="color: #50bd77 ;font-size: 18px ;width: 18px ;" ></i></span>
-                                                <div class="gdlr-core-icon-list-content-wrap"><span class="gdlr-core-icon-list-content" style="font-size: 17px ;">Nonrefundable $50 application fee. Students who are unable to pay the application fee can request a fee waiver.</span></div>
+                                                <div class="gdlr-core-icon-list-content-wrap"><span class="gdlr-core-icon-list-content" style="font-size: 17px ;">Undergraduate Programmes: A minimum of two principal passes in the Uganda Advanced Certificate of Education obtained at the same sitting or its equivalent. Diploma holders are also invited to apply. For all those applying for distance learning, relevant certificates are required.</span></div>
+                                            </li>
+
+                                            <li class=" gdlr-core-skin-divider" style="margin-bottom: 22px ;"><span class="gdlr-core-icon-list-icon-wrap" style="margin-top: 5px ;"><i class="gdlr-core-icon-list-icon fa fa-dot-circle-o" style="color: #50bd77 ;font-size: 18px ;width: 18px ;" ></i></span>
+                                                <div class="gdlr-core-icon-list-content-wrap"><span class="gdlr-core-icon-list-content" style="font-size: 17px ;">Postgraduate Programmes: At least a Second Class Honours degree from recognized Institutions in a relevant field or in exceptional circumstances, professional qualifications will be required. Candidates are required to pass the UMU Graduate Admission Test (GAT) and have at least two years of working experience in the relevant field.</span></div>
                                             </li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"><a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="#" id="gdlr-core-button-id-11400"><span class="gdlr-core-content" >Request a campus tour</span></a><a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="#" id="gdlr-core-button-id-72422"><span class="gdlr-core-content" >Request information</span></a></div>
+                                    <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"><a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="#" id="gdlr-core-button-id-11400"><span class="gdlr-core-content" >Book a call with Admissions Office</span></a>
+                                        {{-- <a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="#" id="gdlr-core-button-id-72422"><span class="gdlr-core-content" >Submit a request </span></a> --}}
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -328,7 +238,7 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 40px ;">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 22px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;">When To Apply?</h3></div>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 22px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;">Kampala University Intakes</h3></div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
@@ -338,24 +248,16 @@
                                                 <table style="min-width: 600px;">
                                                     <tbody>
                                                         <tr>
-                                                            <th></th>
+                                                            <th>Intake</th>
                                                             <th>Application Deadline</th>
-                                                            <th>Decision</th>
                                                         </tr>
                                                         <tr>
-                                                            <td>Early Decision 1</td>
+                                                            <td>January - February Intake</td>
                                                             <td>November 1</td>
-                                                            <td>December 15</td>
                                                         </tr>
                                                         <tr>
-                                                            <td>Early Decision 2</td>
+                                                            <td>August - September Intake</td>
                                                             <td>January 1</td>
-                                                            <td>February 15</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>Regular Decision</td>
-                                                            <td>January 1</td>
-                                                            <td>April 1</td>
                                                         </tr>
                                                     </tbody>
                                                 </table>
@@ -379,9 +281,16 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;text-transform: none ;color: #919191 ;">
-                                            <p>Box 35300
-                                                <br />1810 Campus Way NE
-                                                <br />Bothell, WA 98011-8246 USA</p>
+                                            <p>
+                                                The Admissions Office,
+                                                <br>
+                                                Kampala University,
+                                                <br>
+                                                P.O.Box 25454 Kampala - Uganda,
+                                                <br />Tel: +256393111294., +256-772-450601,
+                                                <br>
+                                                Mob. +256-712-943632
+                                                <br />Email: admissions@ku.ac.ug</p>
                                         </div>
                                     </div>
                                 </div>

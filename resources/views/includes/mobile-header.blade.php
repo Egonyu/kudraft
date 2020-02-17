@@ -26,39 +26,40 @@
                         <ul id="menu-main-navigation" class="m-menu">
                             <li class="menu-item menu-item-home current-menu-item menu-item-has-children"><a href="{{ route('home') }}">Home</a>
                             </li>
-                            <li class="menu-item menu-item-has-children"><a href="{{ route('about') }}">About KU</a>
+                            <li class="menu-item menu-item-has-children"><a href="{{ route('about') }}" target="_blank">About KU</a>
                                 <ul class="sub-menu">
-                                    <li class="menu-item"><a href="{{ route('quality-assurance') }}">Quality Assurance</a></li>
-                                    <li class="menu-item"><a href="{{ route('council') }}">University Council</a></li>
-                                    <li class="menu-item" data-size="60"><a href=" {{ route('alumni') }} ">Alumni</a></li>
+                                    <li class="menu-item"><a href="{{ route('quality-assurance') }}" target="_blank">Quality Assurance</a></li>
+                                    <li class="menu-item"><a href="{{ route('council') }}" target="_blank">University Council</a></li>
+                                    <li class="menu-item" data-size="60"><a href=" {{ route('alumni') }} " target="_blank">Alumni</a></li>
                                 </ul>
                             </li>
                             <li class="menu-item menu-item-has-children"><a href="bachelor-of-science-in-business-administration.html">Academics</a>
                                 <ul class="sub-menu">
                                     <li class="menu-item menu-item-has-children"><a>Undergraduate</a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item"><a href="{{ route('business-administration') }}">Business Administration</a></li>
-                                            <li class="menu-item"><a href="{{ route('csit') }}">Computer Science &#038; IT</a></li>
-                                            <li class="menu-item"><a href="{{ route('education') }}">Education</a></li>
-                                            <li class="menu-item"><a href="{{ route('natural-sciences') }}">Natural Sciences</a></li>
-                                            <li class="menu-item"><a href="{{ route('nursing') }}">Nursing &#038; Health Sciences</a></li>
+                                            <li class="menu-item"><a href="{{ route('business-administration') }}" target="_blank">Business Administration</a></li>
+                                            <li class="menu-item"><a href="{{ route('csit') }}" target="_blank">Computer Science &#038; IT</a></li>
+                                            <li class="menu-item"><a href="{{ route('education') }}" target="_blank">Education</a></li>
+                                            <li class="menu-item"><a href="{{ route('natural-sciences') }}" target="_blank">Natural Sciences</a></li>
+                                            <li class="menu-item"><a href="{{ route('nursing') }}" target="_blank">Nursing &#038; Health Sciences</a></li>
                                             <li class="menu-item"><a href="{{ url('https://www.kampalafilmschool.org/') }}" target="_blank">Film School</a></li>
-                                            <li class="menu-item"><a href="{{ route('industrial-art') }}">Industrial Art &#038; Design</a></li>
-                                            <li class="menu-item"><a href="{{ route('arts') }}">Arts &#038; Social Sciences</a></li>
+                                            <li class="menu-item"><a href="{{ route('industrial-art') }}" target="_blank">Industrial Art &#038; Design</a></li>
+                                            <li class="menu-item"><a href="{{ route('arts') }}" target="_blank">Arts &#038; Social Sciences</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children"><a href="#">Graduate Program</a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item"><a href="{{ route('csitPostGrad') }}">Computer Science & IT</a></li>
-                                            <li class="menu-item"><a href="{{ route('environmental-science') }}">Environmental Science</a></li>
-                                            <li class="menu-item"><a href="{{ route('public-health') }}">Public Health</a></li>
-                                            <li class="menu-item"><a href="{{ route('economics') }}">Economics</a></li>
-                                            <li class="menu-item"><a href="{{ route('business-management') }}">Business Management</a></li>
-                                            <li class="menu-item"><a href="{{ route('educationPostGrad') }}">Education</a></li>
+                                            <li class="menu-item"><a href="{{ route('csitPostGrad') }}" target="_blank">Computer Science & IT</a></li>
+                                            <li class="menu-item"><a href="{{ route('environmental-science') }}" target="_blank">Environmental Science</a></li>
+                                            <li class="menu-item"><a href="{{ route('public-health') }}" target="_blank">Public Health</a></li>
+                                            <li class="menu-item"><a href="{{ route('economics') }}" target="_blank">Economics</a></li>
+                                            <li class="menu-item"><a href="{{ route('business-management') }}" target="_blank">Business Management</a></li>
+                                            <li class="menu-item"><a href="{{ route('educationPostGrad') }}" target="_blank">Education</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children"><a href="#">Resources</a>
                                         <ul class="sub-menu">
+                                            <li class="menu-item"><a href="{{ asset('pdf/Almanac-2020.pdf') }}" target="_blank">Kampala University Almac 2020</a></li>
                                             <li class="menu-item"><a href="{{ asset('pdf/courses.pdf') }}" target="_blank">Our Courses</a></li>
                                             <li class="menu-item"><a href="{{ asset('pdf/Graduate_application.pdf') }}" target="_blank">Graduate Application</a></li>
                                             <li class="menu-item"><a href="{{ asset('Application_Undergraduate.pdf') }}" target="_blank">Undergraduate Application</a></li>
@@ -71,18 +72,23 @@
                                     <li class="menu-item"><a href="{{ route('home') }}">Logo</a></li>
                                 </ul>
                             </li>
-                            <li class="menu-item menu-item-has-children"><a href="{{ route('apply') }}">Admissions</a>
+                            <li class="menu-item menu-item-has-children"><a href="{{ route('apply') }}" target="_blank">Admissions</a>
                                 <ul class="sub-menu">
-                                    <li class="menu-item"><a href="apply-to-ku.html">Apply To ku</a></li>
-                                    <li class="menu-item"><a href="campus-tour.html">Campus Tour</a></li>
-                                    <li class="menu-item"><a href="scholarships.html">Scholarships</a></li>
-                                    <li class="menu-item"><a href="athletics.html">Athletics</a></li>
-                                    <li class="menu-item"><a href="give-to-ku.html">Give To ku</a></li>
-                                    <li class="menu-item"><a href="alumni.html">Alumni</a></li>
-                                    <li class="menu-item"><a href="event-calendar.html">Event Calendar</a></li>
+                                    <li class="menu-item"><a href="{{ route('admissions') }}" target="_blank">Apply To ku</a></li>
                                 </ul>
                             </li>
-                            <li class="menu-item"><a href="athletics.html">Athletics</a></li>
+                            <li class="menu-item menu-item-has-children"><a href="{{ route('apply') }}" target="_blank">Admissions</a>
+                                <ul class="sub-menu">
+                                    <li class="menu-item"><a href="apply-to-ku.html" target="_blank">Apply To ku</a></li>
+                                    <li class="menu-item"><a href="campus-tour.html" target="_blank">Campus Tour</a></li>
+                                    <li class="menu-item"><a href="scholarships.html" target="_blank">Scholarships</a></li>
+                                    <li class="menu-item"><a href="athletics.html" target="_blank">Athletics</a></li>
+                                    <li class="menu-item"><a href="give-to-ku.html" target="_blank">Give To ku</a></li>
+                                    <li class="menu-item"><a href="alumni.html" target="_blank">Alumni</a></li>
+                                    <li class="menu-item"><a href="event-calendar.html" target="_blank">Event Calendar</a></li>
+                                </ul>
+                            </li>
+                            <li class="menu-item"><a href="athletics.html" target="_blank">Athletics</a></li>
                             {{-- <li class="menu-item"><a href="university-life.html">University Life</a></li> --}}
                         </ul>
                     </div>
