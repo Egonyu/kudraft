@@ -71,7 +71,7 @@
 
     <div class="ku-copyright-wrapper">
         <div class="ku-copyright-container ku-container clearfix">
-            <div class="ku-copyright-left ku-item-pdlr">Copyright All Right Reserved 2019, Kampala University</div>
+            <div class="ku-copyright-left ku-item-pdlr">Copyright All Right Reserved 2020, Kampala University</div>
             <div class="ku-copyright-right ku-item-pdlr">
                 <div class="gdlr-core-social-network-item gdlr-core-item-pdb  gdlr-core-none-align" id="div_1dd7_112">
                     <a href="https://www.facebook.com/kampalauniversityuganda/" target="_blank" class="gdlr-core-social-network-icon" title="facebook">

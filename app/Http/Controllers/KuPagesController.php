@@ -95,4 +95,9 @@ class KuPagesController extends Controller
     {
         return view('pages.vc');
     }
+
+    public function internationalAdmission()
+    {
+        return view('pages.international-admission');
+    }
 }

@@ -49,7 +49,7 @@
                                     </li>
                                     <li class="menu-item menu-item-has-children" data-size="15"><a href="#" class="sf-with-ul-pre">Resources</a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item"><a href="{{ asset('pdf/Almanac-2020.pdf') }}" target="_blank">Kampala University Almac 2020</a></li>
+                                            <li class="menu-item"><a href="{{ asset('pdf/almanac.pdf') }}" target="_blank">Kampala University Almac 2020</a></li>
                                             <li class="menu-item"><a href="{{ asset('pdf/courses.pdf') }}" target="_blank">Our Courses</a></li>
                                             <li class="menu-item"><a href="{{ asset('pdf/Graduate_application.pdf') }}" target="_blank">Graduate Application</a></li>
                                             <li class="menu-item"><a href="{{ asset('Application_Undergraduate.pdf') }}" target="_blank">Undergraduate Application</a></li>
@@ -87,7 +87,7 @@
                         <li class="menu-item menu-item-has-children ku-normal-menu"><a href="#" class="sf-with-ul-pre">Admissions</a>
                             <ul class="sub-menu">
                                 <li class="menu-item" data-size="60"><a href="{{ route('admissions') }}" target="_blank">Application Procedure</a></li>
-                                <li class="menu-item" data-size="60"><a href=" {{ route('mutundwe') }} " target="_blank">Nursing School Mutundwe</a></li>
+                                <li class="menu-item" data-size="60"><a href=" {{ route('international-admissions') }} " target="_blank">International Applications</a></li>
                             </ul>
                         </li>
 
