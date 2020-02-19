@@ -87,7 +87,7 @@
                         <li class="menu-item menu-item-has-children ku-normal-menu"><a href="#" class="sf-with-ul-pre">Admissions</a>
                             <ul class="sub-menu">
                                 <li class="menu-item" data-size="60"><a href="{{ route('admissions') }}" target="_blank">Application Procedure</a></li>
-                                <li class="menu-item" data-size="60"><a href=" {{ route('international-admissions') }} " target="_blank">International Applications</a></li>
+                                <li class="menu-item" data-size="60"><a href=" {{ url('international-admissions') }} " target="_blank">International Applications</a></li>
                             </ul>
                         </li>
 

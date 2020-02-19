@@ -75,7 +75,7 @@
                             <li class="menu-item menu-item-has-children"><a href="{{ route('apply') }}" target="_blank">Admissions</a>
                                 <ul class="sub-menu">
                                     <li class="menu-item"><a href="{{ route('admissions') }}" target="_blank">Apply To ku</a></li>
-                                    <li class="menu-item"><a href="{{ route('international-admissions') }}" target="_blank">International Applications</a></li>
+                                    <li class="menu-item"><a href="{{ url('international-admissions') }}" target="_blank">International Applications</a></li>
                                 </ul>
                             </li>
                             <li class="menu-item menu-item-has-children"><a href="{{ route('apply') }}" target="_blank">Admissions</a>
