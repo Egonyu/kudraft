@@ -91,7 +91,17 @@
                             </ul>
                         </li>
 
-                        <li class="menu-item menu-item-has-children ku-normal-menu"><a href="{{ route('research') }}" target="_blank" class="sf-with-ul-pre">Research</a></li>
+                        <li class="menu-item menu-item-has-children ku-normal-menu"><a href="#" class="sf-with-ul-pre">Research</a>
+                            <ul class="sub-menu">
+                                <li class="menu-item menu-item-has-children ku-normal-menu">
+                                    <a href="{{ route('research') }}" target="_blank" class="sf-with-ul-pre">School Research</a>
+                                </li>
+                                <li class="menu-item" data-size="60">
+                                    <a href=" {{ asset('pdf/KAMPALA_UNIVERSITY_RESEARCH_JOURNAL2019.pdf') }} " target="_blank">Publication</a>
+                                </li>
+                            </ul>
+                        </li>
+
                         <li class="menu-item ku-normal-menu"><a href="{{ route('contact') }}" target="_blank">Contact Us</a></li>
 
                     </ul>
