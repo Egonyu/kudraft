@@ -294,7 +294,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="gdlr-core-item-list-wrap gdlr-core-column-30">
+                                            {{-- <div class="gdlr-core-item-list-wrap gdlr-core-column-30">
                                                 <div class="gdlr-core-item-list gdlr-core-blog-widget gdlr-core-item-mglr clearfix gdlr-core-style-small">
                                                     <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
                                                         <a href="#">
@@ -379,7 +379,8 @@
                                                         </h3>
                                                     </div>
                                                 </div>
-                                            </div>
+                                            </div> --}}
+                                            <p>No current updates</p>
                                         </div>
                                     </div>
                                 </div>

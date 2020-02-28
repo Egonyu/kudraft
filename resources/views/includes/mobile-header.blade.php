@@ -30,7 +30,9 @@
                                 <ul class="sub-menu">
                                     <li class="menu-item"><a href="{{ route('quality-assurance') }}" target="_blank">Quality Assurance</a></li>
                                     <li class="menu-item"><a href="{{ route('council') }}" target="_blank">University Council</a></li>
-                                    <li class="menu-item" data-size="60"><a href=" {{ route('alumni') }} " target="_blank">Alumni</a></li>
+                                    <li class="menu-item" <a href=" {{ route('alumni') }} " target="_blank">Alumni</a></li>
+                                    <li class="menu-item" <a href=" {{ url('https://teau.ac.ke/') }} " target="_blank">East African University Kenya</a></li>
+                                    <li class="menu-item" <a href=" {{ url('http://eaur.ac.rw/') }} " target="_blank">East African University Rwanda</a></li>
                                 </ul>
                             </li>
                             <li class="menu-item menu-item-has-children"><a href="bachelor-of-science-in-business-administration.html">Academics</a>
